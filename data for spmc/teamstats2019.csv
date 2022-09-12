@@ -1,0 +1,4161 @@
+﻿season,team,conference,statName,statValue
+2019,San José State,Mountain West,possessionTime,19030
+2019,Duke,ACC,passingTDs,18
+2019,UCLA,Pac-12,passCompletions,260
+2019,South Alabama,Sun Belt,kickReturns,40
+2019,Marshall,Conference USA,games,13
+2019,Virginia,ACC,fumblesRecovered,10
+2019,Oklahoma State,Big 12,interceptions,12
+2019,North Carolina,ACC,puntReturns,13
+2019,Georgia Tech,ACC,puntReturns,16
+2019,Florida State,ACC,possessionTime,20480
+2019,Rutgers,Big Ten,possessionTime,21627
+2019,Kansas State,Big 12,possessionTime,26090
+2019,Charlotte,Conference USA,interceptionYards,101
+2019,Eastern Michigan,Mid-American,interceptionYards,137
+2019,Miami (OH),Mid-American,firstDowns,216
+2019,Bowling Green,Mid-American,sacks,35
+2019,West Virginia,Big 12,totalYards,3863
+2019,Rice,Conference USA,rushingTDs,14
+2019,New Mexico,Mountain West,passingTDs,13
+2019,Nebraska,Big Ten,totalYards,4990
+2019,Kansas State,Big 12,interceptionTDs,0
+2019,Wyoming,Mountain West,passesIntercepted,12
+2019,Ohio,Mid-American,passAttempts,335
+2019,Oregon State,Pac-12,penalties,78
+2019,NC State,ACC,interceptionTDs,0
+2019,Utah,Pac-12,puntReturnYards,249
+2019,Nebraska,Big Ten,kickReturnYards,420
+2019,Memphis,American Athletic,kickReturnYards,1206
+2019,Western Michigan,Mid-American,puntReturnTDs,0
+2019,Southern Mississippi,Conference USA,fumblesLost,9
+2019,Iowa,Big Ten,rushingYards,1789
+2019,Pittsburgh,ACC,fourthDownConversions,8
+2019,Coastal Carolina,Sun Belt,tacklesForLoss,92
+2019,East Carolina,American Athletic,fourthDownConversions,3
+2019,Kansas State,Big 12,kickReturnTDs,4
+2019,Kansas,Big 12,puntReturnTDs,0
+2019,Northwestern,Big Ten,thirdDownConversions,69
+2019,Florida International,Conference USA,netPassingYards,2754
+2019,Buffalo,Mid-American,interceptionTDs,2
+2019,Kent State,Mid-American,passCompletions,238
+2019,Cincinnati,American Athletic,puntReturns,31
+2019,Arizona,Pac-12,totalYards,5281
+2019,Missouri,SEC,interceptions,8
+2019,Colorado State,Mountain West,possessionTime,21712
+2019,UNLV,Mountain West,passingTDs,20
+2019,Nevada,Mountain West,totalYards,4736
+2019,Ohio State,Big Ten,games,14
+2019,Eastern Michigan,Mid-American,firstDowns,285
+2019,Vanderbilt,SEC,thirdDownConversions,48
+2019,Notre Dame,FBS Independents,netPassingYards,3278
+2019,UT San Antonio,Conference USA,games,12
+2019,Memphis,American Athletic,totalYards,6791
+2019,New Mexico State,FBS Independents,puntReturnYards,171
+2019,Memphis,American Athletic,sacks,42
+2019,Auburn,SEC,penalties,92
+2019,California,Pac-12,fumblesLost,4
+2019,UCLA,Pac-12,rushingYards,1802
+2019,Boston College,ACC,rushingYards,3291
+2019,Boise State,Mountain West,rushingTDs,26
+2019,Northern Illinois,Mid-American,passAttempts,339
+2019,UNLV,Mountain West,kickReturnTDs,0
+2019,NC State,ACC,puntReturnTDs,1
+2019,UTEP,Conference USA,totalYards,3954
+2019,South Alabama,Sun Belt,penalties,69
+2019,Rice,Conference USA,firstDowns,204
+2019,USC,Pac-12,turnovers,26
+2019,Washington State,Pac-12,kickReturns,41
+2019,Baylor,Big 12,totalYards,5900
+2019,West Virginia,Big 12,sacks,40
+2019,Memphis,American Athletic,passingTDs,33
+2019,Wisconsin,Big Ten,kickReturnYards,766
+2019,Western Michigan,Mid-American,netPassingYards,3128
+2019,Syracuse,ACC,penalties,107
+2019,Alabama,SEC,totalYards,6640
+2019,Wyoming,Mountain West,kickReturnTDs,0
+2019,Florida,SEC,passCompletions,317
+2019,Rutgers,Big Ten,passCompletions,154
+2019,TCU,Big 12,puntReturns,18
+2019,Stanford,Pac-12,kickReturnTDs,0
+2019,Temple,American Athletic,interceptions,13
+2019,California,Pac-12,rushingTDs,16
+2019,Miami,ACC,passAttempts,437
+2019,Troy,Sun Belt,rushingTDs,19
+2019,Miami (OH),Mid-American,games,14
+2019,Tulsa,American Athletic,thirdDowns,207
+2019,Akron,Mid-American,passesIntercepted,5
+2019,BYU,FBS Independents,interceptions,11
+2019,Iowa State,Big 12,netPassingYards,4047
+2019,Florida International,Conference USA,rushingYards,2154
+2019,Tennessee,SEC,fourthDowns,12
+2019,Wyoming,Mountain West,fourthDowns,12
+2019,UTEP,Conference USA,rushingTDs,18
+2019,Vanderbilt,SEC,fumblesLost,3
+2019,Baylor,Big 12,kickReturnTDs,0
+2019,Virginia Tech,ACC,kickReturnYards,540
+2019,San Diego State,Mountain West,puntReturnYards,181
+2019,Stanford,Pac-12,rushingTDs,8
+2019,Ohio State,Big Ten,passingTDs,48
+2019,Ohio,Mid-American,passesIntercepted,5
+2019,BYU,FBS Independents,puntReturns,21
+2019,Washington State,Pac-12,kickReturnTDs,0
+2019,Air Force,Mountain West,passesIntercepted,7
+2019,Tulane,American Athletic,fumblesLost,8
+2019,Ole Miss,SEC,interceptionYards,44
+2019,Akron,Mid-American,puntReturnYards,35
+2019,Texas Tech,Big 12,tacklesForLoss,108
+2019,Auburn,SEC,rushingTDs,31
+2019,Washington,Pac-12,turnovers,14
+2019,Troy,Sun Belt,puntReturnTDs,0
+2019,Michigan,Big Ten,puntReturnYards,271
+2019,South Florida,American Athletic,rushingYards,1935
+2019,Purdue,Big Ten,puntReturnYards,67
+2019,Auburn,SEC,kickReturnTDs,1
+2019,Coastal Carolina,Sun Belt,kickReturns,20
+2019,Texas State,Sun Belt,thirdDowns,170
+2019,Kentucky,SEC,netPassingYards,1478
+2019,New Mexico,Mountain West,passesIntercepted,4
+2019,Ohio State,Big Ten,totalYards,7419
+2019,Illinois,Big Ten,thirdDowns,177
+2019,North Carolina,ACC,fumblesRecovered,12
+2019,Boise State,Mountain West,passAttempts,464
+2019,Ohio,Mid-American,sacks,26
+2019,Michigan State,Big Ten,turnovers,24
+2019,Navy,American Athletic,passCompletions,55
+2019,Washington State,Pac-12,tacklesForLoss,84
+2019,Illinois,Big Ten,tacklesForLoss,125
+2019,Eastern Michigan,Mid-American,penaltyYards,531
+2019,California,Pac-12,turnovers,13
+2019,Oklahoma State,Big 12,passesIntercepted,12
+2019,Memphis,American Athletic,rushingTDs,32
+2019,Auburn,SEC,puntReturns,24
+2019,Texas A&M,SEC,passesIntercepted,10
+2019,Louisiana Tech,Conference USA,rushingTDs,27
+2019,Memphis,American Athletic,fumblesLost,9
+2019,Georgia,SEC,totalYards,5713
+2019,Louisiana,Sun Belt,rushingTDs,42
+2019,Notre Dame,FBS Independents,rushingAttempts,472
+2019,Tulsa,American Athletic,fourthDownConversions,13
+2019,Troy,Sun Belt,fumblesLost,7
+2019,Michigan,Big Ten,passingTDs,25
+2019,Western Michigan,Mid-American,possessionTime,23655
+2019,Ole Miss,SEC,turnovers,14
+2019,Louisville,ACC,possessionTime,24347
+2019,Miami (OH),Mid-American,passesIntercepted,11
+2019,Old Dominion,Conference USA,passesIntercepted,9
+2019,North Carolina,ACC,kickReturns,24
+2019,Texas A&M,SEC,rushingAttempts,429
+2019,Liberty,FBS Independents,games,13
+2019,San Diego State,Mountain West,rushingTDs,12
+2019,Oregon,Pac-12,interceptionTDs,2
+2019,North Carolina,ACC,passesIntercepted,14
+2019,Rice,Conference USA,rushingAttempts,433
+2019,New Mexico State,FBS Independents,possessionTime,19576
+2019,Florida,SEC,thirdDowns,158
+2019,Hawai'i,Mountain West,kickReturnTDs,0
+2019,Rice,Conference USA,games,12
+2019,Houston,American Athletic,passingTDs,19
+2019,Vanderbilt,SEC,totalYards,3560
+2019,East Carolina,American Athletic,passAttempts,451
+2019,Houston,American Athletic,passesIntercepted,8
+2019,Navy,American Athletic,interceptionYards,57
+2019,Colorado,Pac-12,totalYards,4662
+2019,Michigan,Big Ten,interceptionTDs,0
+2019,Arizona State,Pac-12,kickReturnTDs,0
+2019,Nebraska,Big Ten,interceptionYards,177
+2019,Nevada,Mountain West,penaltyYards,772
+2019,Auburn,SEC,interceptions,6
+2019,Pittsburgh,ACC,fourthDowns,17
+2019,Western Kentucky,Conference USA,penalties,53
+2019,UTEP,Conference USA,kickReturns,31
+2019,Missouri,SEC,sacks,25
+2019,Southern Mississippi,Conference USA,turnovers,26
+2019,Georgia State,Sun Belt,penaltyYards,557
+2019,Clemson,ACC,fourthDowns,12
+2019,Fresno State,Mountain West,fourthDowns,13
+2019,USC,Pac-12,puntReturnYards,112
+2019,Notre Dame,FBS Independents,passAttempts,416
+2019,Duke,ACC,interceptionYards,88
+2019,Missouri,SEC,netPassingYards,2671
+2019,LSU,SEC,fourthDownConversions,7
+2019,Ole Miss,SEC,passCompletions,186
+2019,East Carolina,American Athletic,passesIntercepted,11
+2019,Oregon State,Pac-12,passCompletions,260
+2019,Purdue,Big Ten,thirdDowns,181
+2019,West Virginia,Big 12,passingTDs,21
+2019,USC,Pac-12,interceptionYards,81
+2019,Louisiana Tech,Conference USA,kickReturns,36
+2019,Minnesota,Big Ten,passesIntercepted,14
+2019,Duke,ACC,possessionTime,20898
+2019,Southern Mississippi,Conference USA,passesIntercepted,10
+2019,Wake Forest,ACC,passCompletions,282
+2019,USC,Pac-12,rushingYards,1540
+2019,Florida Atlantic,Conference USA,rushingAttempts,551
+2019,Florida State,ACC,passingTDs,24
+2019,Boise State,Mountain West,kickReturnTDs,1
+2019,Duke,ACC,firstDowns,224
+2019,Illinois,Big Ten,puntReturnYards,119
+2019,Utah,Pac-12,interceptions,4
+2019,Wisconsin,Big Ten,interceptionTDs,2
+2019,Miami,ACC,kickReturnTDs,0
+2019,Liberty,FBS Independents,penaltyYards,801
+2019,Clemson,ACC,totalYards,7931
+2019,Oklahoma,Big 12,passCompletions,262
+2019,Kansas State,Big 12,fumblesRecovered,6
+2019,Maryland,Big Ten,rushingTDs,23
+2019,Louisville,ACC,rushingAttempts,567
+2019,Tulane,American Athletic,thirdDowns,181
+2019,South Florida,American Athletic,sacks,30
+2019,Syracuse,ACC,thirdDownConversions,78
+2019,Kansas State,Big 12,interceptions,5
+2019,Georgia Southern,Sun Belt,passingTDs,9
+2019,Iowa State,Big 12,passCompletions,315
+2019,Colorado State,Mountain West,thirdDowns,169
+2019,Southern Mississippi,Conference USA,fourthDowns,17
+2019,Florida Atlantic,Conference USA,penaltyYards,852
+2019,Louisiana Tech,Conference USA,tacklesForLoss,115
+2019,Oregon,Pac-12,puntReturnTDs,0
+2019,UMass,FBS Independents,interceptions,16
+2019,Marshall,Conference USA,penalties,75
+2019,Western Kentucky,Conference USA,fumblesLost,9
+2019,Vanderbilt,SEC,interceptionTDs,1
+2019,BYU,FBS Independents,penalties,79
+2019,Virginia Tech,ACC,kickReturns,28
+2019,Arkansas,SEC,possessionTime,20031
+2019,Syracuse,ACC,interceptions,7
+2019,Colorado,Pac-12,thirdDowns,179
+2019,Wisconsin,Big Ten,thirdDownConversions,91
+2019,Utah,Pac-12,penalties,103
+2019,TCU,Big 12,puntReturnYards,319
+2019,Oklahoma,Big 12,sacks,43
+2019,Oregon,Pac-12,turnovers,11
+2019,Syracuse,ACC,rushingAttempts,501
+2019,UCLA,Pac-12,penaltyYards,663
+2019,Oregon,Pac-12,penalties,84
+2019,Oklahoma,Big 12,firstDowns,348
+2019,Tennessee,SEC,interceptions,13
+2019,Central Michigan,Mid-American,interceptionTDs,0
+2019,Oregon,Pac-12,fumblesRecovered,7
+2019,New Mexico,Mountain West,passAttempts,331
+2019,Colorado,Pac-12,passCompletions,257
+2019,Toledo,Mid-American,interceptions,7
+2019,Texas Tech,Big 12,thirdDowns,178
+2019,Rutgers,Big Ten,sacks,23
+2019,Texas State,Sun Belt,fourthDowns,13
+2019,Bowling Green,Mid-American,firstDowns,204
+2019,UCLA,Pac-12,totalYards,4868
+2019,TCU,Big 12,kickReturns,33
+2019,Houston,American Athletic,puntReturns,17
+2019,Eastern Michigan,Mid-American,games,13
+2019,Ball State,Mid-American,kickReturnYards,948
+2019,Louisiana Tech,Conference USA,passAttempts,458
+2019,Army,FBS Independents,interceptionTDs,0
+2019,Louisville,ACC,sacks,38
+2019,Stanford,Pac-12,penaltyYards,591
+2019,UTEP,Conference USA,kickReturnYards,630
+2019,Tennessee,SEC,passingTDs,19
+2019,Notre Dame,FBS Independents,kickReturnTDs,0
+2019,Wake Forest,ACC,possessionTime,23609
+2019,Notre Dame,FBS Independents,kickReturnYards,403
+2019,New Mexico,Mountain West,rushingYards,2463
+2019,Wyoming,Mountain West,games,13
+2019,New Mexico,Mountain West,totalYards,4803
+2019,Louisiana Tech,Conference USA,fourthDownConversions,6
+2019,Washington State,Pac-12,totalYards,6564
+2019,Temple,American Athletic,rushingYards,1784
+2019,Temple,American Athletic,netPassingYards,3312
+2019,New Mexico,Mountain West,puntReturnYards,147
+2019,Mississippi State,SEC,puntReturnTDs,0
+2019,BYU,FBS Independents,fourthDownConversions,7
+2019,Texas State,Sun Belt,rushingTDs,8
+2019,Washington State,Pac-12,passingTDs,50
+2019,North Texas,Conference USA,fourthDowns,32
+2019,Middle Tennessee,Conference USA,kickReturns,39
+2019,Michigan State,Big Ten,puntReturnTDs,0
+2019,Minnesota,Big Ten,fourthDownConversions,13
+2019,Oklahoma,Big 12,turnovers,19
+2019,Oregon,Pac-12,rushingYards,2448
+2019,UCF,American Athletic,passingTDs,36
+2019,Virginia Tech,ACC,passesIntercepted,14
+2019,BYU,FBS Independents,possessionTime,23231
+2019,Syracuse,ACC,netPassingYards,2887
+2019,Nebraska,Big Ten,tacklesForLoss,127
+2019,Bowling Green,Mid-American,totalYards,3829
+2019,Memphis,American Athletic,possessionTime,25713
+2019,Coastal Carolina,Sun Belt,firstDowns,267
+2019,Buffalo,Mid-American,sacks,57
+2019,South Carolina,SEC,netPassingYards,2667
+2019,Tennessee,SEC,interceptionTDs,0
+2019,Middle Tennessee,Conference USA,firstDowns,247
+2019,New Mexico,Mountain West,fumblesRecovered,11
+2019,Iowa State,Big 12,passAttempts,484
+2019,Clemson,ACC,fumblesLost,5
+2019,Florida State,ACC,firstDowns,265
+2019,Bowling Green,Mid-American,puntReturns,18
+2019,Ohio,Mid-American,penaltyYards,627
+2019,Coastal Carolina,Sun Belt,rushingYards,2346
+2019,Michigan State,Big Ten,fumblesRecovered,14
+2019,Hawai'i,Mountain West,passAttempts,635
+2019,Miami,ACC,netPassingYards,3239
+2019,Western Michigan,Mid-American,passAttempts,413
+2019,Iowa State,Big 12,penaltyYards,497
+2019,Minnesota,Big Ten,thirdDownConversions,78
+2019,Purdue,Big Ten,fourthDowns,16
+2019,Houston,American Athletic,games,12
+2019,Baylor,Big 12,games,14
+2019,Minnesota,Big Ten,fourthDowns,20
+2019,Charlotte,Conference USA,firstDowns,270
+2019,San Diego State,Mountain West,interceptionYards,58
+2019,Bowling Green,Mid-American,passAttempts,336
+2019,Old Dominion,Conference USA,kickReturns,31
+2019,Duke,ACC,fourthDowns,33
+2019,Rutgers,Big Ten,interceptionTDs,0
+2019,New Mexico,Mountain West,passCompletions,163
+2019,San José State,Mountain West,penaltyYards,603
+2019,Troy,Sun Belt,sacks,45
+2019,Purdue,Big Ten,totalYards,4718
+2019,North Texas,Conference USA,passAttempts,454
+2019,Eastern Michigan,Mid-American,totalYards,5271
+2019,UTEP,Conference USA,penalties,80
+2019,Clemson,ACC,thirdDowns,181
+2019,Rutgers,Big Ten,fourthDownConversions,6
+2019,Kent State,Mid-American,firstDowns,283
+2019,Texas State,Sun Belt,puntReturnTDs,0
+2019,Louisiana,Sun Belt,games,14
+2019,Fresno State,Mountain West,possessionTime,20927
+2019,Tennessee,SEC,puntReturnTDs,3
+2019,Coastal Carolina,Sun Belt,fourthDowns,29
+2019,Pittsburgh,ACC,penalties,102
+2019,Michigan State,Big Ten,fourthDowns,21
+2019,Louisiana Monroe,Sun Belt,kickReturns,40
+2019,Stanford,Pac-12,games,12
+2019,Charlotte,Conference USA,fourthDowns,23
+2019,Illinois,Big Ten,turnovers,18
+2019,Virginia Tech,ACC,firstDowns,257
+2019,Nebraska,Big Ten,passingTDs,12
+2019,Connecticut,American Athletic,passesIntercepted,7
+2019,Missouri,SEC,fumblesRecovered,13
+2019,Army,FBS Independents,rushingYards,3863
+2019,Northwestern,Big Ten,firstDowns,211
+2019,Cincinnati,American Athletic,rushingTDs,30
+2019,Georgia,SEC,penalties,76
+2019,Michigan,Big Ten,kickReturnTDs,1
+2019,Michigan State,Big Ten,passCompletions,270
+2019,New Mexico,Mountain West,kickReturnTDs,0
+2019,Wyoming,Mountain West,fumblesRecovered,12
+2019,South Florida,American Athletic,interceptionTDs,0
+2019,Texas A&M,SEC,thirdDownConversions,64
+2019,Texas,Big 12,puntReturnYards,155
+2019,Louisiana Tech,Conference USA,totalYards,5679
+2019,Alabama,SEC,firstDowns,318
+2019,Boston College,ACC,interceptionTDs,1
+2019,Louisiana,Sun Belt,penaltyYards,817
+2019,Northern Illinois,Mid-American,turnovers,15
+2019,Western Kentucky,Conference USA,penaltyYards,514
+2019,LSU,SEC,fumblesRecovered,4
+2019,Buffalo,Mid-American,interceptions,6
+2019,Texas A&M,SEC,passCompletions,273
+2019,Fresno State,Mountain West,rushingYards,1911
+2019,Rice,Conference USA,netPassingYards,1992
+2019,Ohio,Mid-American,kickReturnYards,803
+2019,NC State,ACC,totalYards,4563
+2019,Western Kentucky,Conference USA,fumblesRecovered,5
+2019,Iowa,Big Ten,sacks,41
+2019,Rice,Conference USA,kickReturns,28
+2019,UT San Antonio,Conference USA,penaltyYards,829
+2019,USC,Pac-12,rushingAttempts,391
+2019,Ohio,Mid-American,thirdDownConversions,83
+2019,Texas State,Sun Belt,fourthDownConversions,4
+2019,Alabama,SEC,sacks,37
+2019,Ole Miss,SEC,kickReturnYards,404
+2019,Washington,Pac-12,penaltyYards,639
+2019,Western Kentucky,Conference USA,turnovers,21
+2019,Arkansas State,Sun Belt,puntReturns,24
+2019,Oklahoma,Big 12,kickReturnYards,608
+2019,Buffalo,Mid-American,fumblesLost,8
+2019,Virginia Tech,ACC,rushingYards,2289
+2019,Pittsburgh,ACC,passCompletions,316
+2019,Western Kentucky,Conference USA,puntReturnYards,65
+2019,Indiana,Big Ten,puntReturns,17
+2019,South Florida,American Athletic,totalYards,3970
+2019,Ball State,Mid-American,interceptionTDs,0
+2019,USC,Pac-12,tacklesForLoss,94
+2019,Clemson,ACC,puntReturns,34
+2019,Old Dominion,Conference USA,kickReturnTDs,0
+2019,Temple,American Athletic,passesIntercepted,8
+2019,New Mexico State,FBS Independents,rushingAttempts,386
+2019,Georgia State,Sun Belt,turnovers,16
+2019,UCF,American Athletic,possessionTime,20660
+2019,NC State,ACC,thirdDowns,182
+2019,Eastern Michigan,Mid-American,tacklesForLoss,62
+2019,Oklahoma,Big 12,passAttempts,381
+2019,Vanderbilt,SEC,kickReturns,24
+2019,San Diego State,Mountain West,thirdDowns,207
+2019,Miami,ACC,possessionTime,23558
+2019,Oregon,Pac-12,games,14
+2019,Florida,SEC,netPassingYards,3910
+2019,New Mexico State,FBS Independents,puntReturns,18
+2019,Duke,ACC,rushingYards,1804
+2019,Rice,Conference USA,rushingYards,1538
+2019,North Texas,Conference USA,rushingAttempts,396
+2019,Florida State,ACC,fourthDownConversions,11
+2019,Akron,Mid-American,firstDowns,156
+2019,Iowa,Big Ten,firstDowns,248
+2019,Kansas,Big 12,passCompletions,235
+2019,Georgia,SEC,firstDowns,295
+2019,Missouri,SEC,kickReturnYards,161
+2019,Cincinnati,American Athletic,fourthDowns,17
+2019,Colorado State,Mountain West,fumblesLost,13
+2019,Tulsa,American Athletic,interceptionTDs,0
+2019,New Mexico,Mountain West,puntReturnTDs,0
+2019,Navy,American Athletic,passesIntercepted,12
+2019,Western Michigan,Mid-American,thirdDowns,190
+2019,New Mexico State,FBS Independents,fumblesRecovered,8
+2019,Ole Miss,SEC,tacklesForLoss,108
+2019,Oklahoma,Big 12,interceptions,9
+2019,UT San Antonio,Conference USA,passAttempts,366
+2019,UCLA,Pac-12,passesIntercepted,5
+2019,Charlotte,Conference USA,thirdDowns,157
+2019,Oklahoma State,Big 12,turnovers,20
+2019,Ole Miss,SEC,fumblesRecovered,10
+2019,Texas A&M,SEC,interceptionYards,87
+2019,Kansas,Big 12,passesIntercepted,6
+2019,Iowa,Big Ten,fourthDowns,21
+2019,Kansas,Big 12,possessionTime,19240
+2019,Colorado,Pac-12,puntReturnYards,57
+2019,UTEP,Conference USA,possessionTime,23126
+2019,Texas Tech,Big 12,puntReturnTDs,0
+2019,Michigan,Big Ten,firstDowns,286
+2019,Indiana,Big Ten,fourthDowns,18
+2019,Miami (OH),Mid-American,fourthDowns,17
+2019,UAB,Conference USA,thirdDownConversions,57
+2019,Clemson,ACC,fumblesRecovered,16
+2019,Duke,ACC,passCompletions,213
+2019,Purdue,Big Ten,kickReturns,36
+2019,Georgia Southern,Sun Belt,kickReturns,20
+2019,NC State,ACC,puntReturns,15
+2019,Kent State,Mid-American,netPassingYards,2846
+2019,South Alabama,Sun Belt,games,12
+2019,New Mexico State,FBS Independents,kickReturnTDs,0
+2019,Tennessee,SEC,fumblesRecovered,5
+2019,Ohio,Mid-American,tacklesForLoss,81
+2019,Akron,Mid-American,totalYards,2906
+2019,Louisville,ACC,thirdDowns,174
+2019,Wyoming,Mountain West,totalYards,4562
+2019,Penn State,Big Ten,penaltyYards,589
+2019,Southern Mississippi,Conference USA,kickReturns,37
+2019,Hawai'i,Mountain West,passesIntercepted,14
+2019,Utah State,Mountain West,passAttempts,504
+2019,Ohio,Mid-American,interceptions,6
+2019,UNLV,Mountain West,interceptionYards,95
+2019,Liberty,FBS Independents,turnovers,16
+2019,UNLV,Mountain West,interceptions,12
+2019,Miami (OH),Mid-American,penaltyYards,683
+2019,Mississippi State,SEC,tacklesForLoss,90
+2019,New Mexico State,FBS Independents,firstDowns,228
+2019,Florida State,ACC,thirdDowns,192
+2019,Utah,Pac-12,totalYards,6006
+2019,Oklahoma,Big 12,rushingTDs,38
+2019,Troy,Sun Belt,kickReturnTDs,1
+2019,UNLV,Mountain West,puntReturnTDs,0
+2019,Fresno State,Mountain West,thirdDownConversions,55
+2019,Alabama,SEC,fumblesLost,4
+2019,Oregon State,Pac-12,netPassingYards,3061
+2019,Northern Illinois,Mid-American,games,12
+2019,Ole Miss,SEC,sacks,52
+2019,Rutgers,Big Ten,passAttempts,278
+2019,Memphis,American Athletic,interceptionYards,53
+2019,NC State,ACC,puntReturnYards,203
+2019,Troy,Sun Belt,turnovers,18
+2019,Iowa,Big Ten,thirdDowns,190
+2019,Kentucky,SEC,interceptionYards,95
+2019,Arkansas State,Sun Belt,fumblesLost,11
+2019,Indiana,Big Ten,passCompletions,321
+2019,San Diego State,Mountain West,kickReturnTDs,1
+2019,Troy,Sun Belt,firstDowns,295
+2019,Wyoming,Mountain West,interceptions,9
+2019,Texas State,Sun Belt,kickReturnYards,899
+2019,Kansas State,Big 12,passesIntercepted,11
+2019,Purdue,Big Ten,firstDowns,247
+2019,New Mexico State,FBS Independents,fourthDowns,26
+2019,Northwestern,Big Ten,fourthDowns,28
+2019,Georgia State,Sun Belt,puntReturnYards,32
+2019,Florida,SEC,totalYards,5597
+2019,Arkansas State,Sun Belt,interceptionYards,205
+2019,Nevada,Mountain West,puntReturns,19
+2019,North Carolina,ACC,fumblesLost,5
+2019,Tulsa,American Athletic,rushingTDs,18
+2019,Utah State,Mountain West,fourthDownConversions,3
+2019,UT San Antonio,Conference USA,rushingAttempts,452
+2019,Buffalo,Mid-American,netPassingYards,1795
+2019,Tulsa,American Athletic,kickReturns,29
+2019,UT San Antonio,Conference USA,turnovers,23
+2019,Mississippi State,SEC,puntReturns,11
+2019,Rutgers,Big Ten,kickReturnTDs,0
+2019,Maryland,Big Ten,netPassingYards,2088
+2019,Ole Miss,SEC,interceptions,5
+2019,Ole Miss,SEC,interceptionTDs,0
+2019,Alabama,SEC,puntReturnYards,531
+2019,Colorado State,Mountain West,fumblesRecovered,13
+2019,Notre Dame,FBS Independents,totalYards,5589
+2019,Louisiana,Sun Belt,netPassingYards,3314
+2019,Cincinnati,American Athletic,interceptions,11
+2019,Mississippi State,SEC,passAttempts,315
+2019,Northwestern,Big Ten,rushingTDs,17
+2019,Air Force,Mountain West,fourthDownConversions,16
+2019,Notre Dame,FBS Independents,fourthDowns,25
+2019,Coastal Carolina,Sun Belt,fumblesLost,8
+2019,Nevada,Mountain West,thirdDownConversions,75
+2019,USC,Pac-12,passCompletions,365
+2019,Rutgers,Big Ten,netPassingYards,1672
+2019,Hawai'i,Mountain West,fumblesRecovered,6
+2019,Notre Dame,FBS Independents,sacks,47
+2019,Mississippi State,SEC,turnovers,23
+2019,Ole Miss,SEC,fourthDownConversions,17
+2019,Utah,Pac-12,fourthDownConversions,11
+2019,Air Force,Mountain West,kickReturnYards,93
+2019,USC,Pac-12,sacks,38
+2019,Appalachian State,Sun Belt,puntReturnYards,220
+2019,Oregon,Pac-12,passCompletions,298
+2019,Charlotte,Conference USA,kickReturns,30
+2019,BYU,FBS Independents,fumblesLost,10
+2019,Florida,SEC,rushingAttempts,398
+2019,Bowling Green,Mid-American,passCompletions,189
+2019,Maryland,Big Ten,puntReturnYards,123
+2019,Notre Dame,FBS Independents,tacklesForLoss,139
+2019,NC State,ACC,penalties,71
+2019,Hawai'i,Mountain West,netPassingYards,5059
+2019,Louisiana,Sun Belt,kickReturns,40
+2019,Georgia,SEC,kickReturns,16
+2019,Middle Tennessee,Conference USA,turnovers,14
+2019,BYU,FBS Independents,firstDowns,293
+2019,Florida Atlantic,Conference USA,totalYards,6247
+2019,San José State,Mountain West,interceptions,7
+2019,East Carolina,American Athletic,interceptions,10
+2019,UAB,Conference USA,tacklesForLoss,146
+2019,Georgia Tech,ACC,fourthDownConversions,8
+2019,Ole Miss,SEC,thirdDowns,182
+2019,Stanford,Pac-12,tacklesForLoss,93
+2019,Old Dominion,Conference USA,thirdDownConversions,57
+2019,Colorado,Pac-12,rushingTDs,14
+2019,Missouri,SEC,penalties,83
+2019,Georgia Tech,ACC,turnovers,20
+2019,Maryland,Big Ten,kickReturns,45
+2019,Western Kentucky,Conference USA,rushingYards,1670
+2019,Oklahoma State,Big 12,sacks,28
+2019,Illinois,Big Ten,interceptions,9
+2019,Ball State,Mid-American,sacks,21
+2019,Duke,ACC,kickReturns,37
+2019,Michigan State,Big Ten,totalYards,4835
+2019,Tulsa,American Athletic,fumblesLost,10
+2019,Louisiana Monroe,Sun Belt,thirdDowns,175
+2019,Connecticut,American Athletic,firstDowns,223
+2019,Memphis,American Athletic,turnovers,20
+2019,Alabama,SEC,tacklesForLoss,101
+2019,USC,Pac-12,fumblesRecovered,13
+2019,Northwestern,Big Ten,totalYards,3574
+2019,Indiana,Big Ten,fourthDownConversions,8
+2019,New Mexico,Mountain West,penaltyYards,729
+2019,San José State,Mountain West,netPassingYards,4056
+2019,Appalachian State,Sun Belt,tacklesForLoss,94
+2019,Florida State,ACC,kickReturnTDs,0
+2019,South Florida,American Athletic,penaltyYards,854
+2019,North Carolina,ACC,interceptionTDs,1
+2019,UCLA,Pac-12,fumblesLost,10
+2019,Arkansas,SEC,interceptions,15
+2019,Louisiana,Sun Belt,sacks,44
+2019,Akron,Mid-American,rushingAttempts,327
+2019,Fresno State,Mountain West,kickReturns,34
+2019,Colorado State,Mountain West,firstDowns,257
+2019,Georgia Southern,Sun Belt,passCompletions,80
+2019,Western Michigan,Mid-American,turnovers,14
+2019,Marshall,Conference USA,rushingAttempts,532
+2019,TCU,Big 12,interceptions,10
+2019,Georgia Southern,Sun Belt,rushingTDs,29
+2019,Maryland,Big Ten,kickReturnYards,1023
+2019,Utah,Pac-12,fourthDowns,26
+2019,San José State,Mountain West,thirdDowns,159
+2019,Rice,Conference USA,interceptionTDs,0
+2019,Wisconsin,Big Ten,rushingYards,3262
+2019,Ball State,Mid-American,tacklesForLoss,91
+2019,Oregon State,Pac-12,puntReturnTDs,0
+2019,North Texas,Conference USA,passingTDs,33
+2019,Ohio State,Big Ten,puntReturnYards,212
+2019,Northern Illinois,Mid-American,fumblesLost,7
+2019,Georgia,SEC,interceptionYards,102
+2019,Auburn,SEC,firstDowns,277
+2019,Rice,Conference USA,interceptionYards,7
+2019,Louisiana Monroe,Sun Belt,interceptionTDs,1
+2019,Missouri,SEC,passAttempts,376
+2019,Ohio State,Big Ten,puntReturns,29
+2019,Texas A&M,SEC,kickReturns,26
+2019,Vanderbilt,SEC,interceptions,10
+2019,Kentucky,SEC,passingTDs,9
+2019,Arizona State,Pac-12,fumblesLost,10
+2019,Miami,ACC,fumblesLost,7
+2019,Wyoming,Mountain West,puntReturnTDs,0
+2019,Colorado State,Mountain West,rushingAttempts,395
+2019,Liberty,FBS Independents,kickReturns,44
+2019,BYU,FBS Independents,passAttempts,468
+2019,Fresno State,Mountain West,kickReturnTDs,0
+2019,Louisville,ACC,interceptionYards,38
+2019,Baylor,Big 12,firstDowns,309
+2019,LSU,SEC,puntReturnTDs,2
+2019,Wisconsin,Big Ten,rushingAttempts,612
+2019,Air Force,Mountain West,tacklesForLoss,73
+2019,Kentucky,SEC,kickReturnYards,437
+2019,USC,Pac-12,kickReturns,40
+2019,Illinois,Big Ten,penaltyYards,797
+2019,New Mexico State,FBS Independents,passesIntercepted,5
+2019,Liberty,FBS Independents,kickReturnYards,970
+2019,Georgia State,Sun Belt,rushingAttempts,596
+2019,New Mexico,Mountain West,penalties,81
+2019,Southern Mississippi,Conference USA,netPassingYards,3764
+2019,Ball State,Mid-American,thirdDownConversions,71
+2019,Michigan,Big Ten,interceptionYards,31
+2019,Kent State,Mid-American,puntReturnYards,119
+2019,Navy,American Athletic,penalties,54
+2019,California,Pac-12,sacks,42
+2019,Old Dominion,Conference USA,netPassingYards,2117
+2019,Washington State,Pac-12,netPassingYards,5679
+2019,Penn State,Big Ten,rushingYards,2479
+2019,Mississippi State,SEC,penalties,72
+2019,Penn State,Big Ten,interceptionYards,147
+2019,Ohio,Mid-American,kickReturns,35
+2019,Rutgers,Big Ten,kickReturnYards,727
+2019,California,Pac-12,fumblesRecovered,11
+2019,Ball State,Mid-American,kickReturnTDs,1
+2019,UT San Antonio,Conference USA,passCompletions,213
+2019,Louisiana Monroe,Sun Belt,passesIntercepted,10
+2019,San José State,Mountain West,thirdDownConversions,65
+2019,Syracuse,ACC,fourthDowns,28
+2019,Indiana,Big Ten,games,13
+2019,Hawai'i,Mountain West,thirdDownConversions,88
+2019,Michigan,Big Ten,fumblesRecovered,18
+2019,Marshall,Conference USA,passAttempts,355
+2019,BYU,FBS Independents,passingTDs,20
+2019,Syracuse,ACC,firstDowns,239
+2019,Kansas,Big 12,kickReturnYards,873
+2019,UNLV,Mountain West,passCompletions,208
+2019,Purdue,Big Ten,penalties,55
+2019,Florida Atlantic,Conference USA,puntReturns,21
+2019,Louisiana Monroe,Sun Belt,rushingAttempts,457
+2019,Michigan,Big Ten,fourthDowns,22
+2019,Oregon State,Pac-12,kickReturnTDs,0
+2019,BYU,FBS Independents,totalYards,5768
+2019,TCU,Big 12,rushingTDs,23
+2019,Middle Tennessee,Conference USA,passCompletions,225
+2019,Old Dominion,Conference USA,puntReturns,14
+2019,Ohio State,Big Ten,netPassingYards,3684
+2019,Georgia State,Sun Belt,passCompletions,238
+2019,Akron,Mid-American,interceptions,14
+2019,Georgia Tech,ACC,passingTDs,14
+2019,Georgia,SEC,passesIntercepted,8
+2019,Florida International,Conference USA,passAttempts,389
+2019,Iowa,Big Ten,turnovers,12
+2019,UCF,American Athletic,games,13
+2019,Kent State,Mid-American,turnovers,12
+2019,Auburn,SEC,passingTDs,20
+2019,Northwestern,Big Ten,passCompletions,155
+2019,Louisiana,Sun Belt,kickReturnYards,932
+2019,Louisiana,Sun Belt,fumblesRecovered,11
+2019,Wake Forest,ACC,netPassingYards,3748
+2019,Alabama,SEC,kickReturnYards,637
+2019,Florida State,ACC,games,13
+2019,Iowa,Big Ten,passesIntercepted,12
+2019,Kansas,Big 12,fourthDowns,20
+2019,Ohio State,Big Ten,penalties,81
+2019,Northwestern,Big Ten,puntReturnYards,174
+2019,Oregon,Pac-12,penaltyYards,860
+2019,Connecticut,American Athletic,rushingYards,1544
+2019,Texas,Big 12,netPassingYards,3761
+2019,Florida,SEC,rushingYards,1687
+2019,Louisiana,Sun Belt,firstDowns,351
+2019,Florida,SEC,fourthDowns,26
+2019,Utah State,Mountain West,thirdDownConversions,84
+2019,SMU,American Athletic,netPassingYards,4018
+2019,Toledo,Mid-American,thirdDownConversions,65
+2019,San José State,Mountain West,kickReturns,27
+2019,SMU,American Athletic,possessionTime,22509
+2019,Boise State,Mountain West,rushingYards,2309
+2019,Hawai'i,Mountain West,interceptionTDs,4
+2019,Indiana,Big Ten,passAttempts,473
+2019,Army,FBS Independents,puntReturns,14
+2019,Florida Atlantic,Conference USA,tacklesForLoss,126
+2019,Ohio,Mid-American,rushingAttempts,526
+2019,Boise State,Mountain West,fourthDowns,17
+2019,Kansas,Big 12,interceptionYards,69
+2019,Arizona State,Pac-12,fourthDowns,16
+2019,Ohio,Mid-American,games,13
+2019,Central Michigan,Mid-American,passAttempts,448
+2019,UT San Antonio,Conference USA,puntReturnYards,52
+2019,Kansas State,Big 12,passCompletions,180
+2019,Air Force,Mountain West,fourthDowns,21
+2019,Kent State,Mid-American,fourthDownConversions,8
+2019,North Carolina,ACC,puntReturnYards,81
+2019,South Carolina,SEC,passAttempts,466
+2019,Tulsa,American Athletic,interceptionYards,37
+2019,Miami,ACC,thirdDowns,164
+2019,San Diego State,Mountain West,kickReturnYards,503
+2019,Fresno State,Mountain West,interceptionTDs,1
+2019,Wyoming,Mountain West,interceptionTDs,2
+2019,Oklahoma State,Big 12,totalYards,5935
+2019,Oregon,Pac-12,rushingTDs,26
+2019,Louisiana Tech,Conference USA,puntReturns,13
+2019,Florida State,ACC,passesIntercepted,8
+2019,Houston,American Athletic,tacklesForLoss,80
+2019,Texas,Big 12,puntReturnTDs,0
+2019,Indiana,Big Ten,penalties,88
+2019,Florida Atlantic,Conference USA,thirdDowns,202
+2019,Auburn,SEC,puntReturnYards,308
+2019,Utah State,Mountain West,interceptionTDs,1
+2019,Akron,Mid-American,penalties,81
+2019,Wake Forest,ACC,fourthDownConversions,7
+2019,Charlotte,Conference USA,interceptionTDs,1
+2019,Missouri,SEC,penaltyYards,809
+2019,Northwestern,Big Ten,puntReturnTDs,0
+2019,Arizona,Pac-12,fumblesRecovered,8
+2019,South Carolina,SEC,penaltyYards,656
+2019,Coastal Carolina,Sun Belt,possessionTime,24056
+2019,Texas State,Sun Belt,fumblesLost,4
+2019,UNLV,Mountain West,passAttempts,388
+2019,Louisiana Monroe,Sun Belt,tacklesForLoss,80
+2019,Utah State,Mountain West,penaltyYards,615
+2019,East Carolina,American Athletic,fumblesLost,7
+2019,Georgia State,Sun Belt,interceptions,9
+2019,Ole Miss,SEC,puntReturns,15
+2019,Cincinnati,American Athletic,passCompletions,208
+2019,UT San Antonio,Conference USA,rushingTDs,15
+2019,Penn State,Big Ten,puntReturnTDs,0
+2019,UMass,FBS Independents,rushingTDs,14
+2019,Middle Tennessee,Conference USA,fourthDownConversions,9
+2019,Pittsburgh,ACC,kickReturnTDs,0
+2019,San José State,Mountain West,puntReturnYards,63
+2019,Tulsa,American Athletic,tacklesForLoss,80
+2019,Wisconsin,Big Ten,possessionTime,29957
+2019,Duke,ACC,interceptionTDs,0
+2019,South Alabama,Sun Belt,rushingAttempts,509
+2019,Nevada,Mountain West,fourthDowns,24
+2019,Texas State,Sun Belt,possessionTime,19248
+2019,Duke,ACC,fumblesLost,15
+2019,Michigan,Big Ten,passesIntercepted,9
+2019,Syracuse,ACC,puntReturnTDs,0
+2019,Wake Forest,ACC,tacklesForLoss,94
+2019,North Carolina,ACC,turnovers,12
+2019,Buffalo,Mid-American,games,13
+2019,Florida Atlantic,Conference USA,firstDowns,329
+2019,Maryland,Big Ten,possessionTime,18541
+2019,Ohio,Mid-American,rushingYards,2883
+2019,Colorado State,Mountain West,interceptions,11
+2019,NC State,ACC,passCompletions,244
+2019,Syracuse,ACC,penaltyYards,887
+2019,Louisville,ACC,tacklesForLoss,103
+2019,Boston College,ACC,puntReturnYards,159
+2019,Houston,American Athletic,rushingYards,2258
+2019,Bowling Green,Mid-American,passingTDs,9
+2019,Tulane,American Athletic,interceptions,10
+2019,Clemson,ACC,passCompletions,326
+2019,UNLV,Mountain West,rushingYards,2018
+2019,Northwestern,Big Ten,fumblesLost,8
+2019,Georgia Tech,ACC,rushingYards,1829
+2019,Oklahoma State,Big 12,fumblesRecovered,11
+2019,Colorado State,Mountain West,penaltyYards,782
+2019,Washington,Pac-12,thirdDownConversions,61
+2019,Central Michigan,Mid-American,fumblesRecovered,7
+2019,Buffalo,Mid-American,thirdDownConversions,87
+2019,Michigan,Big Ten,sacks,49
+2019,Fresno State,Mountain West,thirdDowns,148
+2019,North Texas,Conference USA,penaltyYards,672
+2019,Central Michigan,Mid-American,puntReturnTDs,0
+2019,Florida International,Conference USA,games,13
+2019,Oklahoma State,Big 12,interceptionYards,121
+2019,NC State,ACC,firstDowns,259
+2019,Ohio State,Big Ten,thirdDowns,183
+2019,LSU,SEC,possessionTime,27200
+2019,Kentucky,SEC,sacks,41
+2019,Liberty,FBS Independents,fourthDownConversions,5
+2019,Boston College,ACC,fourthDownConversions,13
+2019,Iowa,Big Ten,games,13
+2019,Pittsburgh,ACC,totalYards,4946
+2019,Georgia Southern,Sun Belt,rushingYards,3323
+2019,Stanford,Pac-12,passesIntercepted,8
+2019,Syracuse,ACC,passCompletions,250
+2019,Cincinnati,American Athletic,passesIntercepted,16
+2019,Georgia Southern,Sun Belt,puntReturns,8
+2019,Colorado,Pac-12,turnovers,14
+2019,Texas A&M,SEC,rushingTDs,24
+2019,Pittsburgh,ACC,penaltyYards,888
+2019,Arizona,Pac-12,fumblesLost,6
+2019,Iowa,Big Ten,interceptionYards,73
+2019,Charlotte,Conference USA,puntReturnYards,127
+2019,Maryland,Big Ten,games,12
+2019,Ohio State,Big Ten,passesIntercepted,16
+2019,North Texas,Conference USA,passCompletions,283
+2019,Tulane,American Athletic,kickReturnTDs,1
+2019,Florida Atlantic,Conference USA,fumblesRecovered,16
+2019,Oklahoma,Big 12,passingTDs,36
+2019,UMass,FBS Independents,interceptionTDs,1
+2019,Boise State,Mountain West,interceptions,11
+2019,Notre Dame,FBS Independents,thirdDownConversions,74
+2019,Buffalo,Mid-American,tacklesForLoss,95
+2019,Minnesota,Big Ten,passCompletions,212
+2019,Southern Mississippi,Conference USA,totalYards,5291
+2019,Auburn,SEC,kickReturns,23
+2019,Wyoming,Mountain West,puntReturns,34
+2019,UAB,Conference USA,possessionTime,26475
+2019,Colorado State,Mountain West,tacklesForLoss,97
+2019,Troy,Sun Belt,tacklesForLoss,88
+2019,Virginia,ACC,interceptions,15
+2019,Nevada,Mountain West,rushingAttempts,442
+2019,San José State,Mountain West,rushingTDs,19
+2019,Utah,Pac-12,passesIntercepted,14
+2019,Colorado,Pac-12,rushingAttempts,436
+2019,UCF,American Athletic,interceptionYards,239
+2019,Arizona,Pac-12,kickReturnYards,716
+2019,Middle Tennessee,Conference USA,thirdDowns,148
+2019,Syracuse,ACC,thirdDowns,206
+2019,Coastal Carolina,Sun Belt,passAttempts,334
+2019,Iowa,Big Ten,passCompletions,243
+2019,Tulsa,American Athletic,netPassingYards,3376
+2019,Iowa State,Big 12,puntReturns,10
+2019,Penn State,Big Ten,passAttempts,369
+2019,Temple,American Athletic,kickReturnTDs,0
+2019,Arkansas State,Sun Belt,interceptions,11
+2019,Eastern Michigan,Mid-American,rushingAttempts,418
+2019,Georgia State,Sun Belt,kickReturns,21
+2019,Nebraska,Big Ten,sacks,35
+2019,Oregon,Pac-12,puntReturnYards,258
+2019,Nebraska,Big Ten,puntReturns,17
+2019,TCU,Big 12,fumblesRecovered,4
+2019,TCU,Big 12,kickReturnYards,535
+2019,Central Michigan,Mid-American,kickReturnYards,693
+2019,Virginia,ACC,puntReturnTDs,0
+2019,Louisiana Tech,Conference USA,interceptionYards,237
+2019,Virginia,ACC,tacklesForLoss,116
+2019,Iowa,Big Ten,interceptionTDs,1
+2019,Rutgers,Big Ten,thirdDownConversions,61
+2019,Bowling Green,Mid-American,turnovers,21
+2019,West Virginia,Big 12,passAttempts,454
+2019,Georgia,SEC,thirdDownConversions,77
+2019,Washington State,Pac-12,sacks,36
+2019,Northwestern,Big Ten,possessionTime,21573
+2019,Middle Tennessee,Conference USA,interceptionTDs,1
+2019,UCLA,Pac-12,puntReturns,8
+2019,Utah,Pac-12,rushingYards,2819
+2019,Minnesota,Big Ten,penaltyYards,502
+2019,Buffalo,Mid-American,turnovers,14
+2019,Ball State,Mid-American,thirdDowns,173
+2019,Oregon,Pac-12,puntReturns,18
+2019,Tulane,American Athletic,passCompletions,197
+2019,Central Michigan,Mid-American,puntReturnYards,198
+2019,Oklahoma,Big 12,puntReturnYards,187
+2019,Penn State,Big Ten,tacklesForLoss,119
+2019,Kentucky,SEC,penaltyYards,661
+2019,Texas Tech,Big 12,puntReturnYards,88
+2019,Louisiana Tech,Conference USA,turnovers,19
+2019,Marshall,Conference USA,interceptionTDs,1
+2019,Oregon State,Pac-12,thirdDownConversions,69
+2019,Georgia Southern,Sun Belt,thirdDowns,166
+2019,South Alabama,Sun Belt,rushingYards,2058
+2019,Kent State,Mid-American,games,13
+2019,Washington,Pac-12,puntReturns,25
+2019,Charlotte,Conference USA,thirdDownConversions,64
+2019,Rice,Conference USA,thirdDowns,175
+2019,South Alabama,Sun Belt,interceptions,11
+2019,Charlotte,Conference USA,penaltyYards,594
+2019,Wisconsin,Big Ten,fourthDownConversions,18
+2019,Alabama,SEC,kickReturns,31
+2019,North Carolina,ACC,kickReturnTDs,0
+2019,Michigan State,Big Ten,interceptionYards,124
+2019,Miami (OH),Mid-American,passingTDs,11
+2019,Liberty,FBS Independents,penalties,88
+2019,UTEP,Conference USA,passingTDs,9
+2019,Central Michigan,Mid-American,puntReturns,24
+2019,Maryland,Big Ten,penaltyYards,585
+2019,Syracuse,ACC,tacklesForLoss,84
+2019,Wyoming,Mountain West,netPassingYards,1770
+2019,Illinois,Big Ten,passAttempts,364
+2019,North Carolina,ACC,penaltyYards,701
+2019,Bowling Green,Mid-American,thirdDownConversions,61
+2019,Georgia,SEC,puntReturnYards,282
+2019,Iowa,Big Ten,netPassingYards,2976
+2019,Arizona State,Pac-12,passAttempts,383
+2019,Ole Miss,SEC,fumblesLost,9
+2019,Cincinnati,American Athletic,fourthDownConversions,11
+2019,Army,FBS Independents,kickReturns,26
+2019,Michigan State,Big Ten,thirdDowns,192
+2019,Arizona State,Pac-12,thirdDownConversions,72
+2019,Purdue,Big Ten,rushingYards,999
+2019,Wake Forest,ACC,penalties,57
+2019,Iowa,Big Ten,puntReturns,15
+2019,Air Force,Mountain West,firstDowns,286
+2019,Memphis,American Athletic,interceptions,11
+2019,Toledo,Mid-American,rushingYards,2689
+2019,Iowa State,Big 12,rushingTDs,22
+2019,UCF,American Athletic,kickReturnYards,327
+2019,Cincinnati,American Athletic,penaltyYards,977
+2019,Iowa State,Big 12,games,13
+2019,Oregon,Pac-12,rushingAttempts,510
+2019,Indiana,Big Ten,rushingTDs,24
+2019,Wyoming,Mountain West,puntReturnYards,366
+2019,Navy,American Athletic,fourthDownConversions,26
+2019,East Carolina,American Athletic,thirdDowns,178
+2019,Virginia Tech,ACC,possessionTime,24034
+2019,Florida,SEC,sacks,63
+2019,Bowling Green,Mid-American,thirdDowns,184
+2019,Texas,Big 12,thirdDowns,185
+2019,Georgia Tech,ACC,fumblesLost,10
+2019,Washington,Pac-12,thirdDowns,171
+2019,Iowa State,Big 12,sacks,41
+2019,Rutgers,Big Ten,puntReturns,13
+2019,Tulsa,American Athletic,interceptions,9
+2019,South Florida,American Athletic,kickReturns,33
+2019,Buffalo,Mid-American,penaltyYards,580
+2019,Texas Tech,Big 12,kickReturnYards,779
+2019,Middle Tennessee,Conference USA,tacklesForLoss,101
+2019,UTEP,Conference USA,interceptionTDs,0
+2019,Kent State,Mid-American,rushingAttempts,550
+2019,Oregon State,Pac-12,rushingYards,1881
+2019,Virginia,ACC,kickReturns,42
+2019,Florida International,Conference USA,tacklesForLoss,90
+2019,Georgia Southern,Sun Belt,kickReturnTDs,1
+2019,Notre Dame,FBS Independents,rushingTDs,20
+2019,Texas,Big 12,totalYards,6056
+2019,Miami,ACC,penaltyYards,782
+2019,Akron,Mid-American,thirdDowns,161
+2019,Akron,Mid-American,puntReturnTDs,0
+2019,Rutgers,Big Ten,interceptions,15
+2019,Air Force,Mountain West,puntReturns,5
+2019,Oklahoma State,Big 12,games,13
+2019,Pittsburgh,ACC,interceptionTDs,1
+2019,Texas Tech,Big 12,totalYards,5691
+2019,Eastern Michigan,Mid-American,fumblesLost,5
+2019,Minnesota,Big Ten,interceptionTDs,3
+2019,Marshall,Conference USA,interceptions,11
+2019,San José State,Mountain West,kickReturnYards,492
+2019,Iowa State,Big 12,kickReturns,26
+2019,Colorado State,Mountain West,netPassingYards,3660
+2019,Connecticut,American Athletic,puntReturnTDs,0
+2019,Tulane,American Athletic,tacklesForLoss,95
+2019,Michigan State,Big Ten,penalties,75
+2019,Houston,American Athletic,rushingAttempts,466
+2019,Louisiana Tech,Conference USA,fumblesRecovered,15
+2019,LSU,SEC,sacks,41
+2019,Clemson,ACC,kickReturnYards,504
+2019,Washington State,Pac-12,turnovers,25
+2019,Louisville,ACC,rushingTDs,23
+2019,South Carolina,SEC,turnovers,14
+2019,Arkansas,SEC,tacklesForLoss,76
+2019,Kansas,Big 12,fumblesRecovered,4
+2019,Ball State,Mid-American,netPassingYards,2923
+2019,Nebraska,Big Ten,penalties,61
+2019,Connecticut,American Athletic,interceptionYards,147
+2019,San José State,Mountain West,rushingAttempts,308
+2019,California,Pac-12,puntReturns,14
+2019,Utah,Pac-12,firstDowns,300
+2019,Arkansas,SEC,passCompletions,202
+2019,Maryland,Big Ten,tacklesForLoss,108
+2019,Colorado,Pac-12,passAttempts,411
+2019,Old Dominion,Conference USA,fourthDownConversions,20
+2019,Texas A&M,SEC,interceptionTDs,0
+2019,Wisconsin,Big Ten,sacks,78
+2019,Georgia Tech,ACC,passesIntercepted,7
+2019,Georgia Southern,Sun Belt,fumblesLost,10
+2019,Miami,ACC,rushingTDs,16
+2019,Navy,American Athletic,puntReturnTDs,0
+2019,Western Kentucky,Conference USA,passingTDs,20
+2019,UMass,FBS Independents,penalties,82
+2019,Troy,Sun Belt,interceptionYards,130
+2019,Arkansas,SEC,rushingTDs,14
+2019,Texas Tech,Big 12,fourthDowns,25
+2019,Notre Dame,FBS Independents,interceptions,6
+2019,San Diego State,Mountain West,thirdDownConversions,79
+2019,Kansas,Big 12,games,12
+2019,Nebraska,Big Ten,fumblesRecovered,13
+2019,South Carolina,SEC,games,12
+2019,North Carolina,ACC,passCompletions,265
+2019,Bowling Green,Mid-American,passesIntercepted,7
+2019,Pittsburgh,ACC,rushingTDs,11
+2019,Kentucky,SEC,kickReturnTDs,0
+2019,Iowa,Big Ten,totalYards,4765
+2019,Air Force,Mountain West,games,13
+2019,Northern Illinois,Mid-American,netPassingYards,2392
+2019,TCU,Big 12,penalties,78
+2019,NC State,ACC,rushingYards,1814
+2019,Northwestern,Big Ten,tacklesForLoss,78
+2019,Western Kentucky,Conference USA,thirdDowns,184
+2019,Wake Forest,ACC,puntReturnYards,211
+2019,Kent State,Mid-American,fumblesLost,10
+2019,Utah State,Mountain West,games,13
+2019,South Florida,American Athletic,passCompletions,177
+2019,Connecticut,American Athletic,fumblesLost,7
+2019,Army,FBS Independents,rushingAttempts,743
+2019,Kansas State,Big 12,rushingYards,2314
+2019,Charlotte,Conference USA,passCompletions,195
+2019,USC,Pac-12,puntReturnTDs,0
+2019,Virginia Tech,ACC,games,13
+2019,Georgia State,Sun Belt,thirdDowns,195
+2019,Michigan,Big Ten,totalYards,5220
+2019,Toledo,Mid-American,passesIntercepted,7
+2019,TCU,Big 12,passCompletions,211
+2019,Oregon,Pac-12,interceptionYards,293
+2019,Rice,Conference USA,puntReturnYards,138
+2019,Virginia Tech,ACC,sacks,46
+2019,Eastern Michigan,Mid-American,passCompletions,313
+2019,Alabama,SEC,rushingYards,2191
+2019,Temple,American Athletic,interceptionYards,110
+2019,UNLV,Mountain West,fumblesLost,6
+2019,Texas,Big 12,fourthDownConversions,7
+2019,San Diego State,Mountain West,passingTDs,15
+2019,UCF,American Athletic,fumblesLost,7
+2019,Virginia,ACC,possessionTime,27768
+2019,Stanford,Pac-12,turnovers,13
+2019,UTEP,Conference USA,puntReturns,18
+2019,San José State,Mountain West,interceptionTDs,0
+2019,Utah,Pac-12,passCompletions,233
+2019,Tulane,American Athletic,penaltyYards,883
+2019,Iowa State,Big 12,turnovers,16
+2019,Southern Mississippi,Conference USA,interceptionYards,159
+2019,Nebraska,Big Ten,rushingTDs,27
+2019,Duke,ACC,interceptions,14
+2019,Boise State,Mountain West,interceptionTDs,1
+2019,Ball State,Mid-American,penalties,71
+2019,Connecticut,American Athletic,thirdDowns,165
+2019,Iowa,Big Ten,rushingTDs,17
+2019,West Virginia,Big 12,tacklesForLoss,102
+2019,Middle Tennessee,Conference USA,passAttempts,365
+2019,Coastal Carolina,Sun Belt,puntReturns,14
+2019,Colorado,Pac-12,kickReturnTDs,0
+2019,Oklahoma State,Big 12,fumblesLost,8
+2019,Marshall,Conference USA,kickReturns,37
+2019,Fresno State,Mountain West,fourthDownConversions,6
+2019,Syracuse,ACC,interceptionTDs,1
+2019,California,Pac-12,firstDowns,244
+2019,Rice,Conference USA,kickReturnTDs,0
+2019,NC State,ACC,interceptionYards,27
+2019,Stanford,Pac-12,fumblesRecovered,7
+2019,Army,FBS Independents,fourthDowns,39
+2019,Coastal Carolina,Sun Belt,passesIntercepted,11
+2019,Appalachian State,Sun Belt,interceptionYards,149
+2019,Kentucky,SEC,passAttempts,257
+2019,New Mexico State,FBS Independents,fumblesLost,12
+2019,Iowa,Big Ten,penalties,56
+2019,Troy,Sun Belt,interceptionTDs,2
+2019,Oregon,Pac-12,fourthDownConversions,13
+2019,Boise State,Mountain West,puntReturns,25
+2019,Wyoming,Mountain West,kickReturns,11
+2019,Boise State,Mountain West,fumblesLost,8
+2019,Georgia Tech,ACC,tacklesForLoss,84
+2019,Temple,American Athletic,puntReturnYards,68
+2019,Navy,American Athletic,kickReturnTDs,0
+2019,Nevada,Mountain West,possessionTime,24614
+2019,North Carolina,ACC,tacklesForLoss,105
+2019,Virginia,ACC,fourthDownConversions,9
+2019,Appalachian State,Sun Belt,penaltyYards,900
+2019,Michigan,Big Ten,penalties,80
+2019,Iowa State,Big 12,interceptions,9
+2019,Vanderbilt,SEC,passingTDs,10
+2019,BYU,FBS Independents,sacks,19
+2019,Wisconsin,Big Ten,puntReturnTDs,0
+2019,Wake Forest,ACC,firstDowns,307
+2019,Virginia,ACC,turnovers,21
+2019,New Mexico State,FBS Independents,penaltyYards,544
+2019,UAB,Conference USA,puntReturnYards,44
+2019,Auburn,SEC,thirdDowns,189
+2019,Duke,ACC,thirdDownConversions,64
+2019,Iowa State,Big 12,interceptionYards,102
+2019,Louisiana Tech,Conference USA,rushingAttempts,475
+2019,Michigan State,Big Ten,rushingTDs,12
+2019,Utah,Pac-12,rushingTDs,34
+2019,North Carolina,ACC,totalYards,6162
+2019,Texas State,Sun Belt,interceptionYards,38
+2019,Tulane,American Athletic,passingTDs,19
+2019,Appalachian State,Sun Belt,sacks,46
+2019,Illinois,Big Ten,interceptionTDs,4
+2019,Louisiana,Sun Belt,interceptionTDs,0
+2019,Air Force,Mountain West,thirdDownConversions,84
+2019,Mississippi State,SEC,thirdDowns,149
+2019,Clemson,ACC,netPassingYards,4325
+2019,Florida,SEC,interceptionYards,160
+2019,Tulane,American Athletic,penalties,103
+2019,USC,Pac-12,totalYards,5905
+2019,New Mexico,Mountain West,possessionTime,21459
+2019,Kansas,Big 12,penaltyYards,601
+2019,Texas Tech,Big 12,fumblesRecovered,8
+2019,Georgia State,Sun Belt,fumblesRecovered,9
+2019,Purdue,Big Ten,interceptionTDs,1
+2019,Utah State,Mountain West,rushingAttempts,461
+2019,BYU,FBS Independents,turnovers,21
+2019,Pittsburgh,ACC,firstDowns,268
+2019,Virginia,ACC,rushingTDs,28
+2019,Marshall,Conference USA,fourthDowns,14
+2019,TCU,Big 12,passAttempts,394
+2019,Central Michigan,Mid-American,thirdDownConversions,73
+2019,UCF,American Athletic,puntReturns,27
+2019,Indiana,Big Ten,fumblesRecovered,13
+2019,Rutgers,Big Ten,fourthDowns,14
+2019,Navy,American Athletic,kickReturnYards,220
+2019,Louisiana,Sun Belt,thirdDownConversions,80
+2019,Troy,Sun Belt,fourthDowns,23
+2019,UCLA,Pac-12,kickReturnTDs,1
+2019,Toledo,Mid-American,puntReturnTDs,0
+2019,Louisiana,Sun Belt,passesIntercepted,10
+2019,Purdue,Big Ten,fourthDownConversions,8
+2019,New Mexico State,FBS Independents,interceptionYards,18
+2019,UMass,FBS Independents,firstDowns,190
+2019,West Virginia,Big 12,turnovers,20
+2019,Cincinnati,American Athletic,fumblesLost,9
+2019,Tulane,American Athletic,interceptionTDs,2
+2019,Ole Miss,SEC,rushingAttempts,559
+2019,San Diego State,Mountain West,fumblesLost,2
+2019,South Alabama,Sun Belt,kickReturnTDs,0
+2019,Texas Tech,Big 12,interceptionTDs,0
+2019,Stanford,Pac-12,kickReturnYards,770
+2019,Stanford,Pac-12,penalties,75
+2019,Southern Mississippi,Conference USA,puntReturnTDs,1
+2019,SMU,American Athletic,tacklesForLoss,138
+2019,Duke,ACC,sacks,35
+2019,Toledo,Mid-American,games,12
+2019,California,Pac-12,kickReturnTDs,0
+2019,Kansas State,Big 12,thirdDownConversions,75
+2019,Wyoming,Mountain West,penaltyYards,634
+2019,Wisconsin,Big Ten,fourthDowns,23
+2019,East Carolina,American Athletic,puntReturnYards,79
+2019,North Carolina,ACC,rushingTDs,13
+2019,Nevada,Mountain West,passAttempts,499
+2019,Duke,ACC,games,12
+2019,Arkansas,SEC,interceptionYards,60
+2019,South Florida,American Athletic,puntReturnTDs,0
+2019,Louisville,ACC,puntReturns,16
+2019,Rice,Conference USA,penaltyYards,345
+2019,Stanford,Pac-12,kickReturns,32
+2019,Auburn,SEC,rushingAttempts,548
+2019,San José State,Mountain West,puntReturns,10
+2019,Memphis,American Athletic,firstDowns,325
+2019,Alabama,SEC,thirdDowns,153
+2019,West Virginia,Big 12,netPassingYards,2984
+2019,Kansas,Big 12,turnovers,20
+2019,San Diego State,Mountain West,puntReturns,28
+2019,Utah State,Mountain West,fourthDowns,9
+2019,Georgia State,Sun Belt,passAttempts,385
+2019,Iowa,Big Ten,tacklesForLoss,75
+2019,Utah,Pac-12,thirdDownConversions,81
+2019,Wisconsin,Big Ten,penalties,69
+2019,Auburn,SEC,interceptionTDs,2
+2019,Florida State,ACC,puntReturnYards,132
+2019,Washington State,Pac-12,rushingYards,885
+2019,Eastern Michigan,Mid-American,rushingTDs,21
+2019,Stanford,Pac-12,puntReturnYards,93
+2019,Washington State,Pac-12,fumblesLost,9
+2019,Missouri,SEC,possessionTime,21529
+2019,East Carolina,American Athletic,passCompletions,270
+2019,Texas,Big 12,puntReturns,17
+2019,Toledo,Mid-American,tacklesForLoss,96
+2019,UCF,American Athletic,puntReturnYards,285
+2019,New Mexico State,FBS Independents,thirdDowns,171
+2019,Vanderbilt,SEC,turnovers,13
+2019,Baylor,Big 12,puntReturns,15
+2019,Florida International,Conference USA,thirdDownConversions,70
+2019,Arkansas State,Sun Belt,penalties,99
+2019,Syracuse,ACC,totalYards,4735
+2019,Marshall,Conference USA,sacks,47
+2019,Colorado,Pac-12,fumblesRecovered,10
+2019,Navy,American Athletic,sacks,45
+2019,Arizona,Pac-12,rushingAttempts,451
+2019,South Carolina,SEC,thirdDownConversions,59
+2019,Purdue,Big Ten,fumblesLost,8
+2019,UAB,Conference USA,rushingTDs,16
+2019,East Carolina,American Athletic,penalties,71
+2019,Utah State,Mountain West,passingTDs,22
+2019,Virginia,ACC,kickReturnTDs,2
+2019,SMU,American Athletic,puntReturnYards,186
+2019,Bowling Green,Mid-American,fumblesRecovered,13
+2019,Miami,ACC,thirdDownConversions,44
+2019,Washington State,Pac-12,fumblesRecovered,11
+2019,Marshall,Conference USA,passCompletions,200
+2019,Fresno State,Mountain West,tacklesForLoss,91
+2019,Coastal Carolina,Sun Belt,puntReturnTDs,1
+2019,Pittsburgh,ACC,puntReturnTDs,1
+2019,Purdue,Big Ten,kickReturnYards,521
+2019,Fresno State,Mountain West,netPassingYards,2719
+2019,Arkansas,SEC,fumblesRecovered,15
+2019,Colorado State,Mountain West,kickReturnTDs,1
+2019,Air Force,Mountain West,turnovers,18
+2019,Ohio,Mid-American,fourthDownConversions,5
+2019,Mississippi State,SEC,kickReturnTDs,0
+2019,Arkansas,SEC,fumblesLost,6
+2019,Rutgers,Big Ten,rushingTDs,11
+2019,West Virginia,Big 12,passCompletions,289
+2019,Purdue,Big Ten,fumblesRecovered,7
+2019,UAB,Conference USA,rushingYards,2111
+2019,Miami (OH),Mid-American,kickReturnTDs,0
+2019,Florida State,ACC,rushingAttempts,477
+2019,Indiana,Big Ten,totalYards,5626
+2019,Pittsburgh,ACC,kickReturnYards,287
+2019,Georgia Southern,Sun Belt,tacklesForLoss,105
+2019,Middle Tennessee,Conference USA,interceptions,9
+2019,Akron,Mid-American,kickReturnTDs,0
+2019,Ball State,Mid-American,interceptionYards,71
+2019,Houston,American Athletic,fumblesRecovered,9
+2019,Oklahoma State,Big 12,rushingYards,3019
+2019,Appalachian State,Sun Belt,netPassingYards,2815
+2019,UAB,Conference USA,thirdDowns,182
+2019,Eastern Michigan,Mid-American,kickReturns,23
+2019,Utah State,Mountain West,possessionTime,19415
+2019,UCF,American Athletic,kickReturnTDs,0
+2019,USC,Pac-12,fumblesLost,11
+2019,Missouri,SEC,fourthDowns,13
+2019,Georgia State,Sun Belt,thirdDownConversions,89
+2019,Oklahoma,Big 12,puntReturnTDs,1
+2019,Navy,American Athletic,rushingAttempts,773
+2019,Hawai'i,Mountain West,penalties,103
+2019,UNLV,Mountain West,puntReturns,20
+2019,Boise State,Mountain West,thirdDowns,196
+2019,Illinois,Big Ten,games,13
+2019,Georgia,SEC,tacklesForLoss,82
+2019,Ball State,Mid-American,passingTDs,24
+2019,Washington State,Pac-12,puntReturnYards,97
+2019,NC State,ACC,kickReturnTDs,0
+2019,Texas,Big 12,kickReturnYards,450
+2019,Bowling Green,Mid-American,puntReturnYards,94
+2019,New Mexico State,FBS Independents,totalYards,4333
+2019,Houston,American Athletic,firstDowns,231
+2019,Arkansas State,Sun Belt,thirdDowns,193
+2019,Eastern Michigan,Mid-American,kickReturnTDs,0
+2019,Florida,SEC,fourthDownConversions,16
+2019,Maryland,Big Ten,rushingYards,2034
+2019,Virginia,ACC,puntReturnYards,158
+2019,Appalachian State,Sun Belt,rushingAttempts,599
+2019,Ole Miss,SEC,firstDowns,271
+2019,Arkansas,SEC,fourthDowns,20
+2019,Louisiana,Sun Belt,interceptions,4
+2019,Iowa State,Big 12,totalYards,5776
+2019,Florida Atlantic,Conference USA,kickReturnTDs,0
+2019,Virginia Tech,ACC,interceptionYards,88
+2019,Boston College,ACC,penaltyYards,516
+2019,Liberty,FBS Independents,interceptions,8
+2019,Missouri,SEC,puntReturns,21
+2019,Miami (OH),Mid-American,passAttempts,337
+2019,Rutgers,Big Ten,kickReturns,39
+2019,Auburn,SEC,sacks,35
+2019,Louisville,ACC,totalYards,5816
+2019,Clemson,ACC,puntReturnTDs,0
+2019,Penn State,Big Ten,interceptionTDs,2
+2019,Arizona,Pac-12,interceptions,12
+2019,Northern Illinois,Mid-American,rushingAttempts,429
+2019,San Diego State,Mountain West,penalties,78
+2019,Akron,Mid-American,kickReturnYards,859
+2019,Northern Illinois,Mid-American,totalYards,4053
+2019,Nevada,Mountain West,penalties,96
+2019,Marshall,Conference USA,possessionTime,24112
+2019,New Mexico,Mountain West,tacklesForLoss,74
+2019,Utah,Pac-12,puntReturnTDs,1
+2019,Cincinnati,American Athletic,rushingAttempts,616
+2019,Tennessee,SEC,rushingYards,1874
+2019,Appalachian State,Sun Belt,fumblesLost,3
+2019,Virginia Tech,ACC,totalYards,5004
+2019,Kentucky,SEC,puntReturnTDs,0
+2019,New Mexico State,FBS Independents,tacklesForLoss,69
+2019,Texas,Big 12,tacklesForLoss,103
+2019,Louisiana,Sun Belt,thirdDowns,167
+2019,Clemson,ACC,passAttempts,509
+2019,Virginia Tech,ACC,puntReturns,25
+2019,Syracuse,ACC,passAttempts,408
+2019,Cincinnati,American Athletic,thirdDowns,213
+2019,New Mexico State,FBS Independents,turnovers,27
+2019,Penn State,Big Ten,interceptions,9
+2019,Temple,American Athletic,fumblesRecovered,19
+2019,Old Dominion,Conference USA,rushingYards,1168
+2019,Old Dominion,Conference USA,fumblesLost,7
+2019,Georgia Tech,ACC,firstDowns,181
+2019,UCLA,Pac-12,possessionTime,21861
+2019,Kent State,Mid-American,penalties,81
+2019,Colorado,Pac-12,interceptionYards,40
+2019,Arizona State,Pac-12,puntReturnTDs,1
+2019,California,Pac-12,fourthDowns,16
+2019,Connecticut,American Athletic,rushingTDs,13
+2019,Vanderbilt,SEC,passAttempts,381
+2019,Alabama,SEC,games,13
+2019,California,Pac-12,passingTDs,19
+2019,Georgia Southern,Sun Belt,interceptionYards,98
+2019,North Carolina,ACC,rushingYards,2446
+2019,LSU,SEC,kickReturnYards,291
+2019,Appalachian State,Sun Belt,games,14
+2019,Illinois,Big Ten,passesIntercepted,12
+2019,Missouri,SEC,tacklesForLoss,92
+2019,Arizona,Pac-12,rushingTDs,19
+2019,Colorado,Pac-12,fourthDowns,20
+2019,Tulsa,American Athletic,rushingAttempts,503
+2019,Louisiana,Sun Belt,interceptionYards,102
+2019,SMU,American Athletic,fourthDownConversions,22
+2019,Utah State,Mountain West,totalYards,5607
+2019,Georgia,SEC,passCompletions,255
+2019,UCLA,Pac-12,kickReturns,29
+2019,Iowa State,Big 12,thirdDowns,169
+2019,Texas A&M,SEC,games,13
+2019,Oklahoma,Big 12,puntReturns,28
+2019,Louisiana Tech,Conference USA,rushingYards,2189
+2019,Louisiana Tech,Conference USA,fourthDowns,16
+2019,Arkansas State,Sun Belt,passCompletions,298
+2019,Boston College,ACC,kickReturnYards,978
+2019,LSU,SEC,rushingTDs,32
+2019,Illinois,Big Ten,possessionTime,19974
+2019,Tulsa,American Athletic,passingTDs,20
+2019,Arizona,Pac-12,games,12
+2019,Syracuse,ACC,possessionTime,21110
+2019,BYU,FBS Independents,tacklesForLoss,85
+2019,TCU,Big 12,fourthDownConversions,5
+2019,Arizona State,Pac-12,kickReturnYards,606
+2019,Alabama,SEC,fourthDowns,19
+2019,Auburn,SEC,fourthDowns,15
+2019,Central Michigan,Mid-American,kickReturns,37
+2019,USC,Pac-12,fourthDowns,10
+2019,LSU,SEC,penalties,93
+2019,Temple,American Athletic,penaltyYards,801
+2019,Miami,ACC,fumblesRecovered,18
+2019,SMU,American Athletic,passingTDs,35
+2019,Central Michigan,Mid-American,kickReturnTDs,0
+2019,Colorado State,Mountain West,rushingTDs,18
+2019,Virginia,ACC,firstDowns,296
+2019,Oregon State,Pac-12,fourthDowns,24
+2019,Duke,ACC,passesIntercepted,9
+2019,Nebraska,Big Ten,passAttempts,323
+2019,Kent State,Mid-American,thirdDownConversions,86
+2019,Tennessee,SEC,kickReturnTDs,0
+2019,Oregon State,Pac-12,kickReturns,40
+2019,Bowling Green,Mid-American,games,12
+2019,Houston,American Athletic,rushingTDs,20
+2019,Hawai'i,Mountain West,tacklesForLoss,83
+2019,Illinois,Big Ten,interceptionYards,249
+2019,Texas A&M,SEC,passAttempts,452
+2019,Navy,American Athletic,puntReturnYards,112
+2019,Miami (OH),Mid-American,interceptionTDs,3
+2019,UT San Antonio,Conference USA,kickReturns,35
+2019,UTEP,Conference USA,rushingAttempts,438
+2019,Florida,SEC,games,13
+2019,Wyoming,Mountain West,rushingYards,2792
+2019,Southern Mississippi,Conference USA,sacks,55
+2019,Michigan State,Big Ten,kickReturnYards,446
+2019,Louisiana Monroe,Sun Belt,netPassingYards,3041
+2019,Georgia State,Sun Belt,puntReturns,10
+2019,Indiana,Big Ten,turnovers,15
+2019,South Alabama,Sun Belt,sacks,25
+2019,UNLV,Mountain West,interceptionTDs,0
+2019,Toledo,Mid-American,fourthDownConversions,18
+2019,Oregon State,Pac-12,fumblesRecovered,11
+2019,Washington State,Pac-12,puntReturns,6
+2019,Central Michigan,Mid-American,turnovers,30
+2019,East Carolina,American Athletic,totalYards,5162
+2019,Central Michigan,Mid-American,possessionTime,23394
+2019,Stanford,Pac-12,passingTDs,18
+2019,Vanderbilt,SEC,penalties,76
+2019,California,Pac-12,rushingYards,1710
+2019,Fresno State,Mountain West,rushingAttempts,394
+2019,Kentucky,SEC,fourthDownConversions,14
+2019,Rutgers,Big Ten,puntReturnTDs,0
+2019,Old Dominion,Conference USA,penalties,71
+2019,Temple,American Athletic,puntReturns,13
+2019,Texas Tech,Big 12,netPassingYards,3896
+2019,San Diego State,Mountain West,sacks,41
+2019,Pittsburgh,ACC,interceptions,10
+2019,Tulsa,American Athletic,kickReturnYards,495
+2019,South Carolina,SEC,tacklesForLoss,95
+2019,Ohio State,Big Ten,interceptionTDs,1
+2019,Florida,SEC,firstDowns,297
+2019,Texas State,Sun Belt,fumblesRecovered,14
+2019,UTEP,Conference USA,kickReturnTDs,1
+2019,Troy,Sun Belt,thirdDowns,177
+2019,Connecticut,American Athletic,fourthDowns,25
+2019,San José State,Mountain West,penalties,73
+2019,Miami,ACC,firstDowns,252
+2019,Clemson,ACC,interceptionYards,254
+2019,South Florida,American Athletic,rushingTDs,15
+2019,Cincinnati,American Athletic,interceptionYards,300
+2019,Iowa,Big Ten,fumblesLost,5
+2019,Auburn,SEC,fumblesRecovered,24
+2019,Texas State,Sun Belt,penalties,66
+2019,Purdue,Big Ten,possessionTime,19870
+2019,Stanford,Pac-12,firstDowns,236
+2019,Arkansas,SEC,turnovers,21
+2019,Memphis,American Athletic,puntReturnYards,187
+2019,Boston College,ACC,games,13
+2019,Ohio,Mid-American,totalYards,5749
+2019,Illinois,Big Ten,thirdDownConversions,62
+2019,Indiana,Big Ten,rushingYards,1695
+2019,Auburn,SEC,passesIntercepted,9
+2019,Vanderbilt,SEC,passCompletions,202
+2019,Colorado State,Mountain West,totalYards,5246
+2019,Georgia,SEC,games,14
+2019,TCU,Big 12,interceptionYards,228
+2019,Buffalo,Mid-American,fumblesRecovered,20
+2019,Florida,SEC,passesIntercepted,16
+2019,Utah State,Mountain West,penalties,74
+2019,Arizona State,Pac-12,tacklesForLoss,104
+2019,Temple,American Athletic,kickReturns,40
+2019,Michigan State,Big Ten,rushingYards,1653
+2019,Penn State,Big Ten,totalYards,5356
+2019,South Carolina,SEC,fourthDownConversions,13
+2019,Arkansas,SEC,sacks,26
+2019,Memphis,American Athletic,fumblesRecovered,13
+2019,Georgia,SEC,penaltyYards,685
+2019,Duke,ACC,puntReturns,22
+2019,Northwestern,Big Ten,kickReturns,23
+2019,Indiana,Big Ten,rushingAttempts,467
+2019,Rutgers,Big Ten,penalties,76
+2019,Northwestern,Big Ten,interceptionTDs,0
+2019,Utah,Pac-12,interceptionTDs,4
+2019,Navy,American Athletic,passAttempts,104
+2019,South Alabama,Sun Belt,puntReturnTDs,0
+2019,Hawai'i,Mountain West,thirdDowns,186
+2019,Rutgers,Big Ten,turnovers,23
+2019,Toledo,Mid-American,thirdDowns,171
+2019,Hawai'i,Mountain West,fourthDownConversions,20
+2019,Florida State,ACC,puntReturns,21
+2019,South Alabama,Sun Belt,totalYards,3964
+2019,Western Michigan,Mid-American,sacks,54
+2019,Miami,ACC,rushingAttempts,407
+2019,UNLV,Mountain West,thirdDownConversions,48
+2019,Texas Tech,Big 12,games,12
+2019,UAB,Conference USA,puntReturnTDs,0
+2019,Oregon,Pac-12,passAttempts,446
+2019,Virginia,ACC,totalYards,5445
+2019,Ball State,Mid-American,puntReturns,14
+2019,SMU,American Athletic,passesIntercepted,9
+2019,Temple,American Athletic,rushingAttempts,479
+2019,Western Kentucky,Conference USA,passAttempts,469
+2019,Tennessee,SEC,interceptionYards,174
+2019,Ole Miss,SEC,penaltyYards,585
+2019,Air Force,Mountain West,penalties,42
+2019,Mississippi State,SEC,passesIntercepted,10
+2019,South Florida,American Athletic,turnovers,19
+2019,BYU,FBS Independents,rushingTDs,25
+2019,UMass,FBS Independents,puntReturns,13
+2019,Florida,SEC,puntReturns,15
+2019,Baylor,Big 12,rushingTDs,35
+2019,Iowa State,Big 12,fourthDownConversions,9
+2019,Stanford,Pac-12,interceptions,8
+2019,Duke,ACC,puntReturnTDs,1
+2019,Memphis,American Athletic,passCompletions,281
+2019,Hawai'i,Mountain West,rushingYards,2011
+2019,Texas,Big 12,fumblesRecovered,10
+2019,Florida International,Conference USA,sacks,22
+2019,Western Kentucky,Conference USA,fourthDownConversions,15
+2019,Army,FBS Independents,totalYards,4929
+2019,Buffalo,Mid-American,passesIntercepted,11
+2019,Hawai'i,Mountain West,penaltyYards,918
+2019,Northern Illinois,Mid-American,interceptionYards,103
+2019,Florida International,Conference USA,kickReturnTDs,0
+2019,Georgia Tech,ACC,rushingTDs,12
+2019,Vanderbilt,SEC,puntReturnTDs,0
+2019,Temple,American Athletic,rushingTDs,16
+2019,Northern Illinois,Mid-American,interceptionTDs,2
+2019,Middle Tennessee,Conference USA,rushingAttempts,406
+2019,Tulane,American Athletic,rushingYards,3162
+2019,LSU,SEC,passesIntercepted,17
+2019,Memphis,American Athletic,rushingAttempts,551
+2019,Oklahoma,Big 12,totalYards,7525
+2019,Nevada,Mountain West,puntReturnYards,185
+2019,UCLA,Pac-12,rushingTDs,18
+2019,Liberty,FBS Independents,puntReturns,19
+2019,Penn State,Big Ten,possessionTime,21761
+2019,BYU,FBS Independents,netPassingYards,3700
+2019,East Carolina,American Athletic,thirdDownConversions,70
+2019,Wake Forest,ACC,turnovers,17
+2019,Temple,American Athletic,fumblesLost,7
+2019,Mississippi State,SEC,sacks,30
+2019,New Mexico State,FBS Independents,interceptionTDs,0
+2019,Oregon State,Pac-12,penaltyYards,702
+2019,Washington,Pac-12,passesIntercepted,13
+2019,Syracuse,ACC,puntReturns,16
+2019,Colorado State,Mountain West,passesIntercepted,6
+2019,South Alabama,Sun Belt,thirdDowns,169
+2019,Wisconsin,Big Ten,games,14
+2019,Ohio,Mid-American,interceptionTDs,0
+2019,Boise State,Mountain West,kickReturns,38
+2019,South Carolina,SEC,fumblesLost,7
+2019,South Alabama,Sun Belt,interceptionTDs,0
+2019,San Diego State,Mountain West,tacklesForLoss,97
+2019,South Alabama,Sun Belt,passingTDs,14
+2019,SMU,American Athletic,rushingYards,2317
+2019,Oklahoma,Big 12,passesIntercepted,7
+2019,Louisiana,Sun Belt,tacklesForLoss,70
+2019,Charlotte,Conference USA,passingTDs,24
+2019,Nevada,Mountain West,rushingTDs,16
+2019,Marshall,Conference USA,fumblesLost,7
+2019,Boise State,Mountain West,fumblesRecovered,14
+2019,Clemson,ACC,penalties,85
+2019,West Virginia,Big 12,rushingAttempts,334
+2019,Penn State,Big Ten,passCompletions,217
+2019,San Diego State,Mountain West,passAttempts,397
+2019,Texas A&M,SEC,possessionTime,25827
+2019,UNLV,Mountain West,tacklesForLoss,72
+2019,Air Force,Mountain West,fumblesLost,12
+2019,Mississippi State,SEC,totalYards,5201
+2019,Mississippi State,SEC,kickReturnYards,430
+2019,Army,FBS Independents,penalties,60
+2019,UMass,FBS Independents,passCompletions,218
+2019,Fresno State,Mountain West,penaltyYards,634
+2019,BYU,FBS Independents,interceptionYards,240
+2019,Georgia,SEC,passAttempts,415
+2019,North Texas,Conference USA,turnovers,19
+2019,Washington State,Pac-12,puntReturnTDs,0
+2019,SMU,American Athletic,sacks,71
+2019,Wisconsin,Big Ten,passCompletions,246
+2019,NC State,ACC,turnovers,21
+2019,Iowa State,Big 12,fumblesRecovered,12
+2019,San José State,Mountain West,fourthDownConversions,7
+2019,Penn State,Big Ten,passingTDs,25
+2019,Notre Dame,FBS Independents,possessionTime,22220
+2019,Oklahoma State,Big 12,kickReturnYards,540
+2019,Connecticut,American Athletic,sacks,27
+2019,Colorado,Pac-12,passesIntercepted,11
+2019,South Carolina,SEC,interceptions,7
+2019,Texas,Big 12,interceptionYards,100
+2019,Cincinnati,American Athletic,kickReturnYards,590
+2019,Army,FBS Independents,passesIntercepted,7
+2019,Bowling Green,Mid-American,netPassingYards,1888
+2019,Northern Illinois,Mid-American,penalties,61
+2019,Washington State,Pac-12,kickReturnYards,858
+2019,Georgia Southern,Sun Belt,passAttempts,155
+2019,Kent State,Mid-American,fourthDowns,12
+2019,Western Michigan,Mid-American,puntReturnYards,51
+2019,Kansas State,Big 12,puntReturns,16
+2019,UAB,Conference USA,sacks,56
+2019,UTEP,Conference USA,tacklesForLoss,47
+2019,South Florida,American Athletic,games,12
+2019,Utah State,Mountain West,interceptionYards,161
+2019,UMass,FBS Independents,kickReturnYards,1550
+2019,South Alabama,Sun Belt,interceptionYards,37
+2019,Washington,Pac-12,interceptionTDs,0
+2019,UT San Antonio,Conference USA,penalties,89
+2019,Wake Forest,ACC,puntReturnTDs,0
+2019,Coastal Carolina,Sun Belt,penaltyYards,586
+2019,Tennessee,SEC,totalYards,4752
+2019,Illinois,Big Ten,totalYards,4242
+2019,North Texas,Conference USA,tacklesForLoss,85
+2019,Arkansas,SEC,kickReturnTDs,0
+2019,Maryland,Big Ten,interceptionTDs,0
+2019,Louisiana Tech,Conference USA,puntReturnTDs,0
+2019,UT San Antonio,Conference USA,sacks,33
+2019,Texas A&M,SEC,totalYards,5129
+2019,Arizona State,Pac-12,totalYards,4837
+2019,Virginia Tech,ACC,penalties,69
+2019,Marshall,Conference USA,rushingTDs,21
+2019,Houston,American Athletic,fourthDowns,17
+2019,Akron,Mid-American,turnovers,26
+2019,Washington State,Pac-12,fourthDowns,22
+2019,Northern Illinois,Mid-American,thirdDowns,167
+2019,East Carolina,American Athletic,fourthDowns,7
+2019,Akron,Mid-American,kickReturns,40
+2019,Oregon State,Pac-12,interceptionYards,55
+2019,Florida International,Conference USA,puntReturnTDs,2
+2019,UTEP,Conference USA,thirdDownConversions,57
+2019,BYU,FBS Independents,kickReturnTDs,0
+2019,Arizona,Pac-12,kickReturns,37
+2019,UT San Antonio,Conference USA,rushingYards,1950
+2019,Ohio State,Big Ten,kickReturns,17
+2019,Miami,ACC,tacklesForLoss,150
+2019,Miami (OH),Mid-American,rushingAttempts,533
+2019,Arizona,Pac-12,rushingYards,2088
+2019,UT San Antonio,Conference USA,fumblesRecovered,17
+2019,Marshall,Conference USA,netPassingYards,2605
+2019,New Mexico State,FBS Independents,penalties,68
+2019,Georgia,SEC,fourthDowns,10
+2019,California,Pac-12,puntReturnYards,171
+2019,Appalachian State,Sun Belt,totalYards,6055
+2019,Miami (OH),Mid-American,kickReturns,41
+2019,Iowa,Big Ten,passingTDs,16
+2019,Louisiana,Sun Belt,fourthDownConversions,9
+2019,Boise State,Mountain West,interceptionYards,84
+2019,UCF,American Athletic,firstDowns,332
+2019,Buffalo,Mid-American,passCompletions,150
+2019,Wake Forest,ACC,interceptionYards,10
+2019,Kansas,Big 12,kickReturns,45
+2019,UMass,FBS Independents,tacklesForLoss,59
+2019,Kentucky,SEC,tacklesForLoss,76
+2019,Northwestern,Big Ten,interceptions,15
+2019,Utah,Pac-12,fumblesLost,9
+2019,Texas Tech,Big 12,firstDowns,298
+2019,Kent State,Mid-American,kickReturnTDs,1
+2019,Iowa,Big Ten,penaltyYards,421
+2019,Washington State,Pac-12,thirdDowns,141
+2019,Eastern Michigan,Mid-American,fourthDownConversions,12
+2019,NC State,ACC,games,12
+2019,Boston College,ACC,fourthDowns,24
+2019,Auburn,SEC,passAttempts,396
+2019,Minnesota,Big Ten,sacks,38
+2019,Illinois,Big Ten,puntReturns,22
+2019,Fresno State,Mountain West,passCompletions,240
+2019,Mississippi State,SEC,kickReturns,26
+2019,Temple,American Athletic,fourthDownConversions,15
+2019,Louisiana Monroe,Sun Belt,possessionTime,21183
+2019,Louisiana Monroe,Sun Belt,puntReturnYards,52
+2019,Liberty,FBS Independents,interceptionYards,147
+2019,Temple,American Athletic,thirdDownConversions,76
+2019,Hawai'i,Mountain West,passingTDs,42
+2019,Kansas State,Big 12,totalYards,4658
+2019,North Texas,Conference USA,kickReturnTDs,1
+2019,Duke,ACC,tacklesForLoss,86
+2019,Baylor,Big 12,fumblesRecovered,20
+2019,Arizona,Pac-12,penalties,76
+2019,Wyoming,Mountain West,passAttempts,256
+2019,Ohio,Mid-American,firstDowns,296
+2019,Colorado,Pac-12,fourthDownConversions,12
+2019,Houston,American Athletic,puntReturnYards,182
+2019,Kentucky,SEC,passCompletions,128
+2019,Oregon State,Pac-12,passesIntercepted,8
+2019,UNLV,Mountain West,fumblesRecovered,8
+2019,Florida State,ACC,fumblesRecovered,17
+2019,TCU,Big 12,penaltyYards,736
+2019,Fresno State,Mountain West,totalYards,4630
+2019,Wake Forest,ACC,rushingYards,2282
+2019,LSU,SEC,passCompletions,426
+2019,Nevada,Mountain West,rushingYards,1498
+2019,Toledo,Mid-American,penaltyYards,603
+2019,Louisiana Tech,Conference USA,puntReturnYards,70
+2019,Missouri,SEC,firstDowns,243
+2019,Purdue,Big Ten,rushingAttempts,342
+2019,LSU,SEC,passAttempts,567
+2019,Army,FBS Independents,fumblesRecovered,16
+2019,Baylor,Big 12,turnovers,19
+2019,Syracuse,ACC,games,12
+2019,Houston,American Athletic,thirdDowns,155
+2019,Notre Dame,FBS Independents,passCompletions,253
+2019,Arkansas,SEC,passingTDs,14
+2019,Tulsa,American Athletic,kickReturnTDs,0
+2019,UNLV,Mountain West,firstDowns,232
+2019,Michigan State,Big Ten,passesIntercepted,12
+2019,Tulane,American Athletic,games,13
+2019,Arkansas,SEC,puntReturnTDs,0
+2019,Colorado State,Mountain West,games,12
+2019,Kent State,Mid-American,possessionTime,20484
+2019,Auburn,SEC,interceptionYards,181
+2019,BYU,FBS Independents,fumblesRecovered,11
+2019,Louisiana Tech,Conference USA,possessionTime,23978
+2019,East Carolina,American Athletic,possessionTime,21288
+2019,Central Michigan,Mid-American,games,14
+2019,Oregon State,Pac-12,fumblesLost,2
+2019,Tulane,American Athletic,sacks,23
+2019,Oregon State,Pac-12,thirdDowns,163
+2019,Appalachian State,Sun Belt,kickReturnYards,562
+2019,UCLA,Pac-12,thirdDowns,185
+2019,Missouri,SEC,passesIntercepted,8
+2019,East Carolina,American Athletic,firstDowns,288
+2019,Georgia Tech,ACC,thirdDowns,164
+2019,Florida,SEC,thirdDownConversions,65
+2019,Washington State,Pac-12,passCompletions,505
+2019,Colorado,Pac-12,possessionTime,22027
+2019,Georgia State,Sun Belt,tacklesForLoss,69
+2019,Vanderbilt,SEC,rushingAttempts,363
+2019,Western Michigan,Mid-American,passingTDs,21
+2019,New Mexico,Mountain West,fourthDownConversions,6
+2019,Nebraska,Big Ten,interceptions,9
+2019,South Carolina,SEC,rushingTDs,18
+2019,Marshall,Conference USA,rushingYards,2504
+2019,Louisiana Monroe,Sun Belt,penaltyYards,773
+2019,Hawai'i,Mountain West,interceptions,17
+2019,Stanford,Pac-12,netPassingYards,3122
+2019,South Carolina,SEC,rushingAttempts,396
+2019,Minnesota,Big Ten,kickReturnYards,344
+2019,Akron,Mid-American,possessionTime,19072
+2019,Alabama,SEC,rushingTDs,27
+2019,San José State,Mountain West,fumblesLost,5
+2019,Army,FBS Independents,netPassingYards,1066
+2019,Iowa State,Big 12,kickReturnYards,477
+2019,South Carolina,SEC,kickReturnTDs,0
+2019,Liberty,FBS Independents,rushingTDs,25
+2019,Texas Tech,Big 12,rushingAttempts,404
+2019,Northern Illinois,Mid-American,interceptions,8
+2019,Troy,Sun Belt,kickReturns,45
+2019,UCF,American Athletic,puntReturnTDs,1
+2019,Tulane,American Athletic,puntReturnYards,168
+2019,Arizona State,Pac-12,rushingTDs,13
+2019,Penn State,Big Ten,kickReturnTDs,0
+2019,Michigan,Big Ten,turnovers,20
+2019,Maryland,Big Ten,kickReturnTDs,2
+2019,Iowa State,Big 12,passingTDs,29
+2019,Michigan,Big Ten,tacklesForLoss,102
+2019,Mississippi State,SEC,puntReturnYards,48
+2019,Troy,Sun Belt,games,12
+2019,Army,FBS Independents,passingTDs,6
+2019,Eastern Michigan,Mid-American,interceptionTDs,0
+2019,Nevada,Mountain West,sacks,30
+2019,Washington State,Pac-12,penaltyYards,779
+2019,Ole Miss,SEC,passAttempts,331
+2019,Western Kentucky,Conference USA,rushingAttempts,431
+2019,Miami,ACC,interceptionTDs,0
+2019,Maryland,Big Ten,penalties,70
+2019,TCU,Big 12,rushingYards,2448
+2019,Air Force,Mountain West,sacks,32
+2019,Tennessee,SEC,games,13
+2019,NC State,ACC,fourthDowns,29
+2019,Arkansas State,Sun Belt,games,13
+2019,Cincinnati,American Athletic,kickReturns,27
+2019,East Carolina,American Athletic,kickReturnYards,653
+2019,Baylor,Big 12,thirdDownConversions,75
+2019,Southern Mississippi,Conference USA,puntReturnYards,156
+2019,Middle Tennessee,Conference USA,kickReturnTDs,0
+2019,Penn State,Big Ten,thirdDowns,172
+2019,Florida Atlantic,Conference USA,games,14
+2019,UCF,American Athletic,fourthDownConversions,19
+2019,Virginia Tech,ACC,fumblesLost,14
+2019,Missouri,SEC,thirdDownConversions,66
+2019,San José State,Mountain West,tacklesForLoss,91
+2019,Minnesota,Big Ten,fumblesRecovered,8
+2019,Boise State,Mountain West,rushingAttempts,519
+2019,Appalachian State,Sun Belt,thirdDowns,198
+2019,Minnesota,Big Ten,turnovers,15
+2019,Colorado,Pac-12,tacklesForLoss,71
+2019,Wisconsin,Big Ten,kickReturns,28
+2019,Buffalo,Mid-American,penalties,64
+2019,USC,Pac-12,kickReturnYards,844
+2019,Georgia Southern,Sun Belt,puntReturnYards,117
+2019,Indiana,Big Ten,firstDowns,304
+2019,Buffalo,Mid-American,kickReturns,12
+2019,Tulsa,American Athletic,thirdDownConversions,88
+2019,Louisiana Monroe,Sun Belt,interceptions,12
+2019,South Florida,American Athletic,penalties,101
+2019,Miami (OH),Mid-American,netPassingYards,2495
+2019,South Alabama,Sun Belt,fourthDowns,26
+2019,West Virginia,Big 12,puntReturns,12
+2019,Colorado State,Mountain West,interceptionTDs,1
+2019,Akron,Mid-American,interceptionTDs,1
+2019,Alabama,SEC,passCompletions,287
+2019,Georgia Southern,Sun Belt,fumblesRecovered,15
+2019,Utah State,Mountain West,tacklesForLoss,89
+2019,UAB,Conference USA,puntReturns,13
+2019,Ohio State,Big Ten,thirdDownConversions,101
+2019,Charlotte,Conference USA,rushingAttempts,527
+2019,Bowling Green,Mid-American,fumblesLost,6
+2019,UT San Antonio,Conference USA,totalYards,4139
+2019,Tennessee,SEC,rushingTDs,13
+2019,Wyoming,Mountain West,interceptionYards,199
+2019,Michigan,Big Ten,rushingYards,1959
+2019,Central Michigan,Mid-American,fourthDowns,29
+2019,Tulane,American Athletic,puntReturnTDs,0
+2019,North Carolina,ACC,games,13
+2019,Boston College,ACC,puntReturnTDs,0
+2019,Western Kentucky,Conference USA,thirdDownConversions,75
+2019,Texas State,Sun Belt,passingTDs,17
+2019,West Virginia,Big 12,rushingTDs,7
+2019,Utah State,Mountain West,rushingTDs,18
+2019,Marshall,Conference USA,thirdDowns,181
+2019,Indiana,Big Ten,interceptionTDs,2
+2019,Oklahoma State,Big 12,puntReturnTDs,0
+2019,Navy,American Athletic,passingTDs,10
+2019,Pittsburgh,ACC,passingTDs,17
+2019,Marshall,Conference USA,puntReturnTDs,2
+2019,Central Michigan,Mid-American,sacks,38
+2019,Washington,Pac-12,passCompletions,263
+2019,Cincinnati,American Athletic,penalties,122
+2019,UNLV,Mountain West,rushingAttempts,443
+2019,Army,FBS Independents,passCompletions,59
+2019,Ball State,Mid-American,kickReturns,43
+2019,Hawai'i,Mountain West,totalYards,7070
+2019,Arkansas State,Sun Belt,totalYards,5719
+2019,Fresno State,Mountain West,rushingTDs,27
+2019,Colorado,Pac-12,games,12
+2019,Buffalo,Mid-American,puntReturnTDs,0
+2019,Washington,Pac-12,passingTDs,24
+2019,Texas A&M,SEC,fumblesLost,10
+2019,Louisiana Monroe,Sun Belt,fumblesLost,6
+2019,NC State,ACC,netPassingYards,2749
+2019,Nebraska,Big Ten,kickReturns,25
+2019,Kentucky,SEC,rushingAttempts,573
+2019,Appalachian State,Sun Belt,penalties,95
+2019,Tulsa,American Athletic,firstDowns,263
+2019,UAB,Conference USA,netPassingYards,2812
+2019,Arkansas,SEC,passAttempts,407
+2019,California,Pac-12,tacklesForLoss,105
+2019,Baylor,Big 12,sacks,62
+2019,Tennessee,SEC,thirdDownConversions,76
+2019,Florida International,Conference USA,rushingTDs,23
+2019,South Carolina,SEC,firstDowns,232
+2019,Mississippi State,SEC,possessionTime,24701
+2019,Temple,American Athletic,kickReturnYards,781
+2019,Arizona,Pac-12,thirdDowns,186
+2019,Syracuse,ACC,fourthDownConversions,11
+2019,Virginia Tech,ACC,interceptionTDs,1
+2019,South Alabama,Sun Belt,thirdDownConversions,51
+2019,New Mexico,Mountain West,rushingTDs,20
+2019,Georgia State,Sun Belt,fourthDownConversions,13
+2019,Northern Illinois,Mid-American,passCompletions,196
+2019,Utah,Pac-12,fumblesRecovered,11
+2019,Alabama,SEC,passAttempts,406
+2019,Arkansas,SEC,penalties,61
+2019,Western Michigan,Mid-American,fourthDownConversions,16
+2019,California,Pac-12,interceptionTDs,0
+2019,Duke,ACC,rushingTDs,16
+2019,Alabama,SEC,thirdDownConversions,80
+2019,Oregon State,Pac-12,passAttempts,420
+2019,Nevada,Mountain West,games,13
+2019,Arizona,Pac-12,penaltyYards,677
+2019,Connecticut,American Athletic,thirdDownConversions,48
+2019,Clemson,ACC,kickReturnTDs,0
+2019,Georgia Tech,ACC,thirdDownConversions,49
+2019,Arkansas State,Sun Belt,fourthDownConversions,13
+2019,Florida International,Conference USA,possessionTime,22739
+2019,UNLV,Mountain West,totalYards,4492
+2019,Wyoming,Mountain West,passingTDs,11
+2019,Toledo,Mid-American,rushingTDs,27
+2019,Texas State,Sun Belt,rushingYards,921
+2019,North Texas,Conference USA,puntReturns,20
+2019,Houston,American Athletic,kickReturnTDs,2
+2019,Kansas,Big 12,rushingYards,1730
+2019,Syracuse,ACC,rushingTDs,16
+2019,Michigan State,Big Ten,rushingAttempts,468
+2019,Northwestern,Big Ten,interceptionYards,47
+2019,Arkansas,SEC,rushingAttempts,376
+2019,Tulane,American Athletic,fumblesRecovered,5
+2019,Virginia Tech,ACC,passingTDs,24
+2019,Missouri,SEC,kickReturns,9
+2019,Tulsa,American Athletic,turnovers,19
+2019,Western Kentucky,Conference USA,passesIntercepted,11
+2019,Michigan State,Big Ten,penaltyYards,700
+2019,USC,Pac-12,kickReturnTDs,1
+2019,Tennessee,SEC,netPassingYards,2878
+2019,Kansas,Big 12,thirdDownConversions,66
+2019,Georgia,SEC,puntReturns,25
+2019,UTEP,Conference USA,puntReturnTDs,0
+2019,California,Pac-12,netPassingYards,2561
+2019,Tennessee,SEC,tacklesForLoss,90
+2019,Alabama,SEC,penaltyYards,855
+2019,Indiana,Big Ten,passesIntercepted,7
+2019,Georgia State,Sun Belt,penalties,56
+2019,TCU,Big 12,puntReturnTDs,2
+2019,Rice,Conference USA,fumblesLost,12
+2019,Ohio State,Big Ten,rushingTDs,39
+2019,North Texas,Conference USA,thirdDownConversions,64
+2019,Connecticut,American Athletic,rushingAttempts,428
+2019,Houston,American Athletic,turnovers,21
+2019,Minnesota,Big Ten,passAttempts,323
+2019,Nebraska,Big Ten,firstDowns,250
+2019,Duke,ACC,kickReturnYards,923
+2019,Wake Forest,ACC,kickReturnTDs,0
+2019,Troy,Sun Belt,thirdDownConversions,83
+2019,Georgia Tech,ACC,games,12
+2019,Colorado,Pac-12,passingTDs,18
+2019,UT San Antonio,Conference USA,passingTDs,13
+2019,Coastal Carolina,Sun Belt,netPassingYards,2379
+2019,Cincinnati,American Athletic,passAttempts,377
+2019,Rice,Conference USA,sacks,20
+2019,Utah,Pac-12,interceptionYards,273
+2019,North Carolina,ACC,passAttempts,431
+2019,Louisville,ACC,puntReturnTDs,0
+2019,North Texas,Conference USA,fourthDownConversions,18
+2019,Maryland,Big Ten,fourthDownConversions,8
+2019,UTEP,Conference USA,netPassingYards,2292
+2019,Akron,Mid-American,fumblesLost,12
+2019,Penn State,Big Ten,firstDowns,275
+2019,Florida International,Conference USA,fourthDownConversions,13
+2019,San Diego State,Mountain West,games,13
+2019,Oregon,Pac-12,thirdDowns,177
+2019,Arkansas,SEC,rushingYards,1766
+2019,East Carolina,American Athletic,puntReturnTDs,1
+2019,Oklahoma,Big 12,fumblesLost,10
+2019,Oregon,Pac-12,totalYards,6063
+2019,Maryland,Big Ten,passesIntercepted,10
+2019,Coastal Carolina,Sun Belt,rushingTDs,24
+2019,San José State,Mountain West,fourthDowns,16
+2019,Boston College,ACC,rushingAttempts,659
+2019,Air Force,Mountain West,passAttempts,126
+2019,LSU,SEC,totalYards,8526
+2019,Buffalo,Mid-American,fourthDownConversions,16
+2019,Ball State,Mid-American,firstDowns,292
+2019,Louisiana Tech,Conference USA,firstDowns,304
+2019,Miami (OH),Mid-American,interceptionYards,219
+2019,Alabama,SEC,interceptionYards,245
+2019,Western Michigan,Mid-American,tacklesForLoss,123
+2019,Syracuse,ACC,fumblesRecovered,19
+2019,Louisiana,Sun Belt,rushingYards,3604
+2019,Ole Miss,SEC,passingTDs,11
+2019,Arkansas,SEC,penaltyYards,492
+2019,Liberty,FBS Independents,puntReturnYards,10
+2019,Missouri,SEC,interceptionTDs,4
+2019,Florida,SEC,interceptionTDs,0
+2019,Toledo,Mid-American,passAttempts,339
+2019,Minnesota,Big Ten,passingTDs,31
+2019,Cincinnati,American Athletic,firstDowns,291
+2019,Virginia,ACC,games,14
+2019,Iowa State,Big 12,interceptionTDs,1
+2019,LSU,SEC,firstDowns,419
+2019,Western Michigan,Mid-American,kickReturnYards,882
+2019,Minnesota,Big Ten,possessionTime,26620
+2019,Arkansas,SEC,firstDowns,219
+2019,TCU,Big 12,totalYards,4892
+2019,Miami,ACC,sacks,55
+2019,Arkansas State,Sun Belt,tacklesForLoss,96
+2019,Utah State,Mountain West,kickReturns,35
+2019,Washington State,Pac-12,fourthDownConversions,13
+2019,Arizona State,Pac-12,turnovers,14
+2019,Georgia State,Sun Belt,passingTDs,22
+2019,Penn State,Big Ten,fumblesRecovered,17
+2019,Kent State,Mid-American,interceptionYards,22
+2019,Coastal Carolina,Sun Belt,interceptionTDs,0
+2019,Arizona,Pac-12,thirdDownConversions,82
+2019,Arizona,Pac-12,interceptionTDs,0
+2019,Bowling Green,Mid-American,tacklesForLoss,70
+2019,Troy,Sun Belt,passCompletions,316
+2019,Northwestern,Big Ten,rushingAttempts,530
+2019,Kansas State,Big 12,penalties,77
+2019,UCF,American Athletic,passCompletions,271
+2019,Fresno State,Mountain West,fumblesLost,7
+2019,Illinois,Big Ten,sacks,36
+2019,Northern Illinois,Mid-American,puntReturns,16
+2019,Charlotte,Conference USA,netPassingYards,2749
+2019,Texas Tech,Big 12,kickReturnTDs,0
+2019,Texas State,Sun Belt,games,12
+2019,Nevada,Mountain West,turnovers,24
+2019,South Florida,American Athletic,kickReturnYards,609
+2019,Air Force,Mountain West,thirdDowns,157
+2019,Penn State,Big Ten,puntReturnYards,178
+2019,Rutgers,Big Ten,firstDowns,160
+2019,Georgia Tech,ACC,kickReturnTDs,0
+2019,Liberty,FBS Independents,rushingAttempts,435
+2019,Missouri,SEC,rushingAttempts,476
+2019,Utah,Pac-12,turnovers,13
+2019,East Carolina,American Athletic,puntReturns,17
+2019,UCF,American Athletic,penalties,111
+2019,Indiana,Big Ten,kickReturnTDs,0
+2019,UCLA,Pac-12,tacklesForLoss,88
+2019,Boise State,Mountain West,totalYards,5973
+2019,Notre Dame,FBS Independents,interceptionYards,107
+2019,UT San Antonio,Conference USA,fourthDowns,31
+2019,Ohio,Mid-American,turnovers,19
+2019,Louisiana,Sun Belt,puntReturns,29
+2019,Washington State,Pac-12,passesIntercepted,10
+2019,Eastern Michigan,Mid-American,passingTDs,26
+2019,Boston College,ACC,kickReturns,48
+2019,Middle Tennessee,Conference USA,puntReturnYards,11
+2019,Texas Tech,Big 12,passingTDs,24
+2019,Texas State,Sun Belt,interceptions,20
+2019,Bowling Green,Mid-American,interceptionYards,77
+2019,Florida Atlantic,Conference USA,puntReturnYards,114
+2019,Texas State,Sun Belt,sacks,16
+2019,Texas,Big 12,thirdDownConversions,90
+2019,UAB,Conference USA,penaltyYards,989
+2019,Arkansas State,Sun Belt,firstDowns,287
+2019,Houston,American Athletic,interceptionYards,83
+2019,BYU,FBS Independents,puntReturnTDs,0
+2019,Louisiana,Sun Belt,fumblesLost,10
+2019,Rice,Conference USA,puntReturns,15
+2019,Oklahoma State,Big 12,tacklesForLoss,92
+2019,Maryland,Big Ten,sacks,34
+2019,UT San Antonio,Conference USA,firstDowns,216
+2019,Southern Mississippi,Conference USA,interceptions,17
+2019,UTEP,Conference USA,passesIntercepted,5
+2019,Indiana,Big Ten,penaltyYards,830
+2019,New Mexico State,FBS Independents,games,12
+2019,San Diego State,Mountain West,puntReturnTDs,1
+2019,Old Dominion,Conference USA,penaltyYards,729
+2019,Nebraska,Big Ten,thirdDownConversions,77
+2019,UMass,FBS Independents,thirdDownConversions,66
+2019,Minnesota,Big Ten,interceptions,8
+2019,Old Dominion,Conference USA,interceptionYards,132
+2019,New Mexico State,FBS Independents,rushingYards,1722
+2019,Texas Tech,Big 12,passesIntercepted,14
+2019,Temple,American Athletic,penalties,92
+2019,Clemson,ACC,firstDowns,392
+2019,Florida State,ACC,sacks,41
+2019,Cincinnati,American Athletic,puntReturnTDs,0
+2019,Wake Forest,ACC,rushingTDs,18
+2019,Colorado State,Mountain West,passAttempts,445
+2019,Louisville,ACC,puntReturnYards,187
+2019,East Carolina,American Athletic,rushingTDs,12
+2019,Utah,Pac-12,puntReturns,26
+2019,Utah State,Mountain West,interceptions,18
+2019,UNLV,Mountain West,rushingTDs,17
+2019,South Carolina,SEC,penalties,79
+2019,South Alabama,Sun Belt,passCompletions,149
+2019,Oklahoma State,Big 12,passingTDs,23
+2019,Utah,Pac-12,possessionTime,28820
+2019,Northwestern,Big Ten,fourthDownConversions,11
+2019,Florida,SEC,fumblesLost,8
+2019,Nebraska,Big Ten,interceptionTDs,2
+2019,Minnesota,Big Ten,tacklesForLoss,72
+2019,San Diego State,Mountain West,fumblesRecovered,15
+2019,Washington State,Pac-12,penalties,84
+2019,Appalachian State,Sun Belt,thirdDownConversions,88
+2019,Kent State,Mid-American,kickReturnYards,1083
+2019,Oklahoma State,Big 12,thirdDowns,186
+2019,Virginia,ACC,interceptionTDs,2
+2019,LSU,SEC,penaltyYards,936
+2019,Virginia,ACC,thirdDowns,203
+2019,Oklahoma State,Big 12,firstDowns,287
+2019,Southern Mississippi,Conference USA,thirdDowns,176
+2019,Akron,Mid-American,passAttempts,398
+2019,Western Kentucky,Conference USA,interceptions,12
+2019,Kent State,Mid-American,rushingTDs,17
+2019,North Carolina,ACC,puntReturnTDs,0
+2019,Virginia Tech,ACC,thirdDowns,179
+2019,New Mexico,Mountain West,thirdDowns,169
+2019,Tennessee,SEC,kickReturns,19
+2019,NC State,ACC,fourthDownConversions,14
+2019,Nevada,Mountain West,thirdDowns,206
+2019,South Carolina,SEC,possessionTime,19453
+2019,Ohio,Mid-American,puntReturnYards,154
+2019,LSU,SEC,kickReturns,23
+2019,Louisiana Tech,Conference USA,kickReturnYards,727
+2019,Houston,American Athletic,passAttempts,314
+2019,South Alabama,Sun Belt,possessionTime,20556
+2019,Temple,American Athletic,firstDowns,263
+2019,LSU,SEC,passingTDs,61
+2019,San José State,Mountain West,games,12
+2019,SMU,American Athletic,thirdDowns,212
+2019,West Virginia,Big 12,thirdDowns,179
+2019,USC,Pac-12,games,13
+2019,Wyoming,Mountain West,fumblesLost,6
+2019,Auburn,SEC,netPassingYards,2684
+2019,Ball State,Mid-American,fourthDownConversions,12
+2019,Bowling Green,Mid-American,fourthDownConversions,7
+2019,Louisville,ACC,passAttempts,302
+2019,Kansas,Big 12,passingTDs,25
+2019,Troy,Sun Belt,possessionTime,20726
+2019,Maryland,Big Ten,passAttempts,342
+2019,Texas Tech,Big 12,puntReturns,15
+2019,Virginia,ACC,netPassingYards,3748
+2019,Oregon State,Pac-12,rushingAttempts,411
+2019,Miami,ACC,puntReturnYards,299
+2019,Maryland,Big Ten,puntReturnTDs,1
+2019,UTEP,Conference USA,fourthDownConversions,18
+2019,Baylor,Big 12,possessionTime,23734
+2019,Boston College,ACC,passCompletions,161
+2019,Army,FBS Independents,games,13
+2019,Michigan State,Big Ten,passingTDs,17
+2019,Washington,Pac-12,fourthDowns,32
+2019,UCF,American Athletic,fourthDowns,33
+2019,Stanford,Pac-12,rushingAttempts,348
+2019,Fresno State,Mountain West,passingTDs,17
+2019,Rice,Conference USA,passesIntercepted,6
+2019,Georgia State,Sun Belt,fourthDowns,27
+2019,Nebraska,Big Ten,passesIntercepted,11
+2019,Ball State,Mid-American,interceptions,7
+2019,San Diego State,Mountain West,turnovers,8
+2019,Rutgers,Big Ten,interceptionYards,8
+2019,Northern Illinois,Mid-American,passingTDs,13
+2019,South Carolina,SEC,kickReturnYards,425
+2019,Buffalo,Mid-American,rushingTDs,36
+2019,Buffalo,Mid-American,firstDowns,276
+2019,Miami,ACC,interceptions,10
+2019,Mississippi State,SEC,penaltyYards,578
+2019,Georgia State,Sun Belt,interceptionYards,148
+2019,USC,Pac-12,penalties,90
+2019,Nevada,Mountain West,netPassingYards,3238
+2019,Utah State,Mountain West,passCompletions,315
+2019,Ole Miss,SEC,puntReturnTDs,0
+2019,Baylor,Big 12,interceptions,8
+2019,Colorado State,Mountain West,kickReturnYards,591
+2019,Nebraska,Big Ten,puntReturnYards,128
+2019,Eastern Michigan,Mid-American,rushingYards,1590
+2019,Clemson,ACC,penaltyYards,675
+2019,East Carolina,American Athletic,passingTDs,22
+2019,Alabama,SEC,possessionTime,23390
+2019,Coastal Carolina,Sun Belt,rushingAttempts,520
+2019,Hawai'i,Mountain West,sacks,21
+2019,Kansas,Big 12,puntReturnYards,46
+2019,Georgia,SEC,puntReturnTDs,1
+2019,Bowling Green,Mid-American,rushingTDs,15
+2019,Texas Tech,Big 12,rushingYards,1795
+2019,UAB,Conference USA,interceptionTDs,1
+2019,Oregon State,Pac-12,turnovers,6
+2019,UCF,American Athletic,rushingAttempts,559
+2019,Western Michigan,Mid-American,fourthDowns,28
+2019,SMU,American Athletic,rushingTDs,35
+2019,Wisconsin,Big Ten,passAttempts,351
+2019,Toledo,Mid-American,passingTDs,15
+2019,Arkansas State,Sun Belt,interceptionTDs,2
+2019,Bowling Green,Mid-American,kickReturnTDs,0
+2019,Tulane,American Athletic,netPassingYards,2679
+2019,Washington,Pac-12,kickReturnTDs,0
+2019,UTEP,Conference USA,passAttempts,330
+2019,UTEP,Conference USA,puntReturnYards,88
+2019,Michigan,Big Ten,passAttempts,410
+2019,Memphis,American Athletic,kickReturns,46
+2019,Virginia Tech,ACC,fourthDowns,13
+2019,Coastal Carolina,Sun Belt,kickReturnYards,267
+2019,Southern Mississippi,Conference USA,rushingAttempts,434
+2019,San José State,Mountain West,passCompletions,305
+2019,North Texas,Conference USA,passesIntercepted,4
+2019,New Mexico State,FBS Independents,netPassingYards,2611
+2019,West Virginia,Big 12,fumblesLost,5
+2019,Baylor,Big 12,penaltyYards,740
+2019,Ball State,Mid-American,penaltyYards,635
+2019,Florida State,ACC,totalYards,5308
+2019,Arizona State,Pac-12,fourthDownConversions,9
+2019,Air Force,Mountain West,totalYards,5483
+2019,Charlotte,Conference USA,kickReturnTDs,0
+2019,North Texas,Conference USA,fumblesRecovered,13
+2019,Old Dominion,Conference USA,puntReturnYards,100
+2019,SMU,American Athletic,kickReturnYards,1113
+2019,SMU,American Athletic,interceptionYards,91
+2019,Miami (OH),Mid-American,puntReturnYards,313
+2019,Utah State,Mountain West,fumblesRecovered,20
+2019,Washington,Pac-12,sacks,34
+2019,Georgia Tech,ACC,passCompletions,124
+2019,San Diego State,Mountain West,fourthDowns,23
+2019,Michigan,Big Ten,possessionTime,23032
+2019,Navy,American Athletic,interceptionTDs,1
+2019,Tennessee,SEC,fumblesLost,7
+2019,Alabama,SEC,passingTDs,49
+2019,South Florida,American Athletic,fumblesRecovered,20
+2019,Georgia State,Sun Belt,sacks,29
+2019,Duke,ACC,passAttempts,378
+2019,USC,Pac-12,passingTDs,35
+2019,Tennessee,SEC,kickReturnYards,290
+2019,Liberty,FBS Independents,totalYards,5712
+2019,Louisiana Monroe,Sun Belt,puntReturnTDs,0
+2019,Florida State,ACC,penaltyYards,953
+2019,UMass,FBS Independents,totalYards,3517
+2019,Northwestern,Big Ten,passingTDs,6
+2019,Arizona,Pac-12,passCompletions,261
+2019,Kent State,Mid-American,puntReturnTDs,0
+2019,Clemson,ACC,rushingAttempts,566
+2019,Ball State,Mid-American,totalYards,5556
+2019,Minnesota,Big Ten,penalties,55
+2019,West Virginia,Big 12,fumblesRecovered,9
+2019,Purdue,Big Ten,passCompletions,320
+2019,Temple,American Athletic,interceptionTDs,1
+2019,Oklahoma State,Big 12,fourthDownConversions,11
+2019,New Mexico,Mountain West,kickReturns,29
+2019,Boston College,ACC,passesIntercepted,10
+2019,USC,Pac-12,thirdDowns,168
+2019,Tulane,American Athletic,totalYards,5841
+2019,Cincinnati,American Athletic,turnovers,20
+2019,Boston College,ACC,thirdDowns,207
+2019,Ball State,Mid-American,puntReturnYards,112
+2019,USC,Pac-12,penaltyYards,877
+2019,Western Kentucky,Conference USA,netPassingYards,3371
+2019,Florida International,Conference USA,penaltyYards,751
+2019,Middle Tennessee,Conference USA,possessionTime,19270
+2019,Kansas,Big 12,rushingTDs,10
+2019,SMU,American Athletic,passCompletions,313
+2019,Louisville,ACC,kickReturnYards,904
+2019,Wyoming,Mountain West,tacklesForLoss,104
+2019,Temple,American Athletic,tacklesForLoss,116
+2019,Notre Dame,FBS Independents,penalties,84
+2019,USC,Pac-12,firstDowns,299
+2019,Troy,Sun Belt,interceptions,11
+2019,Illinois,Big Ten,passingTDs,19
+2019,Memphis,American Athletic,puntReturnTDs,1
+2019,Minnesota,Big Ten,rushingYards,2323
+2019,Toledo,Mid-American,rushingAttempts,516
+2019,Louisiana Monroe,Sun Belt,fourthDowns,28
+2019,Oklahoma State,Big 12,passCompletions,232
+2019,Nevada,Mountain West,passCompletions,309
+2019,Georgia,SEC,passingTDs,26
+2019,Florida Atlantic,Conference USA,passesIntercepted,22
+2019,Temple,American Athletic,sacks,48
+2019,Nevada,Mountain West,kickReturnTDs,0
+2019,Illinois,Big Ten,passCompletions,197
+2019,Missouri,SEC,puntReturnTDs,1
+2019,Georgia,SEC,fourthDownConversions,6
+2019,Texas Tech,Big 12,fumblesLost,8
+2019,Georgia Tech,ACC,rushingAttempts,448
+2019,Notre Dame,FBS Independents,puntReturnTDs,0
+2019,Toledo,Mid-American,interceptionYards,54
+2019,Rutgers,Big Ten,fumblesLost,8
+2019,SMU,American Athletic,puntReturns,23
+2019,Navy,American Athletic,firstDowns,282
+2019,Old Dominion,Conference USA,totalYards,3285
+2019,SMU,American Athletic,penalties,83
+2019,Memphis,American Athletic,kickReturnTDs,3
+2019,Louisiana,Sun Belt,totalYards,6918
+2019,Wisconsin,Big Ten,penaltyYards,636
+2019,Ball State,Mid-American,fumblesLost,9
+2019,Boise State,Mountain West,sacks,53
+2019,Auburn,SEC,passCompletions,228
+2019,Miami,ACC,passesIntercepted,10
+2019,Rice,Conference USA,possessionTime,22472
+2019,SMU,American Athletic,games,13
+2019,UT San Antonio,Conference USA,possessionTime,21119
+2019,Oklahoma,Big 12,interceptionYards,31
+2019,Memphis,American Athletic,fourthDowns,24
+2019,Boise State,Mountain West,passingTDs,31
+2019,Purdue,Big Ten,turnovers,23
+2019,Boston College,ACC,sacks,22
+2019,Iowa,Big Ten,puntReturnTDs,0
+2019,Houston,American Athletic,thirdDownConversions,54
+2019,Southern Mississippi,Conference USA,rushingYards,1527
+2019,Colorado State,Mountain West,penalties,80
+2019,Auburn,SEC,possessionTime,22683
+2019,South Carolina,SEC,interceptionTDs,1
+2019,Oregon,Pac-12,kickReturns,29
+2019,Akron,Mid-American,rushingTDs,2
+2019,Colorado State,Mountain West,sacks,34
+2019,Boise State,Mountain West,tacklesForLoss,104
+2019,Texas Tech,Big 12,interceptionYards,162
+2019,Miami,ACC,puntReturns,21
+2019,North Carolina,ACC,interceptions,7
+2019,Florida Atlantic,Conference USA,fourthDownConversions,13
+2019,Louisiana Tech,Conference USA,passCompletions,285
+2019,Miami (OH),Mid-American,tacklesForLoss,134
+2019,Ole Miss,SEC,possessionTime,20326
+2019,Syracuse,ACC,turnovers,16
+2019,Boise State,Mountain West,fourthDownConversions,10
+2019,Georgia Tech,ACC,penaltyYards,493
+2019,Louisville,ACC,passingTDs,32
+2019,Charlotte,Conference USA,puntReturns,19
+2019,Louisiana Monroe,Sun Belt,fumblesRecovered,13
+2019,Kent State,Mid-American,totalYards,5273
+2019,Air Force,Mountain West,interceptionTDs,3
+2019,Mississippi State,SEC,passingTDs,19
+2019,Liberty,FBS Independents,interceptionTDs,1
+2019,Toledo,Mid-American,fumblesLost,12
+2019,Purdue,Big Ten,netPassingYards,3719
+2019,Michigan State,Big Ten,puntReturnYards,167
+2019,Nebraska,Big Ten,netPassingYards,2551
+2019,Baylor,Big 12,kickReturnYards,472
+2019,San José State,Mountain West,turnovers,12
+2019,Northern Illinois,Mid-American,fourthDowns,21
+2019,Western Michigan,Mid-American,fumblesRecovered,14
+2019,Fresno State,Mountain West,interceptionYards,165
+2019,NC State,ACC,kickReturns,23
+2019,Duke,ACC,rushingAttempts,495
+2019,Florida Atlantic,Conference USA,kickReturnYards,406
+2019,Kentucky,SEC,puntReturns,19
+2019,South Florida,American Athletic,interceptionYards,279
+2019,Buffalo,Mid-American,kickReturnYards,181
+2019,Hawai'i,Mountain West,rushingAttempts,420
+2019,Texas State,Sun Belt,turnovers,24
+2019,Toledo,Mid-American,possessionTime,21437
+2019,Rice,Conference USA,passCompletions,180
+2019,South Alabama,Sun Belt,rushingTDs,15
+2019,Rice,Conference USA,kickReturnYards,530
+2019,Oregon State,Pac-12,firstDowns,267
+2019,Purdue,Big Ten,interceptionYards,135
+2019,Rutgers,Big Ten,passingTDs,7
+2019,Kentucky,SEC,thirdDowns,162
+2019,South Alabama,Sun Belt,fumblesLost,11
+2019,Louisville,ACC,penaltyYards,780
+2019,UNLV,Mountain West,games,12
+2019,Central Michigan,Mid-American,rushingTDs,33
+2019,Oklahoma,Big 12,kickReturns,35
+2019,Pittsburgh,ACC,rushingYards,1544
+2019,Texas A&M,SEC,kickReturnTDs,0
+2019,Marshall,Conference USA,fumblesRecovered,9
+2019,Marshall,Conference USA,kickReturnTDs,0
+2019,Oklahoma,Big 12,fourthDownConversions,8
+2019,Virginia Tech,ACC,penaltyYards,680
+2019,Memphis,American Athletic,interceptionTDs,1
+2019,Central Michigan,Mid-American,fumblesLost,17
+2019,Missouri,SEC,fumblesLost,6
+2019,Michigan,Big Ten,passCompletions,228
+2019,Clemson,ACC,games,15
+2019,Texas,Big 12,fumblesLost,4
+2019,Iowa State,Big 12,rushingAttempts,412
+2019,Toledo,Mid-American,fourthDowns,31
+2019,Tulsa,American Athletic,rushingYards,1660
+2019,Oklahoma State,Big 12,interceptionTDs,2
+2019,South Florida,American Athletic,firstDowns,200
+2019,California,Pac-12,passAttempts,365
+2019,NC State,ACC,interceptions,10
+2019,Toledo,Mid-American,puntReturnYards,154
+2019,Louisville,ACC,games,13
+2019,Temple,American Athletic,passAttempts,472
+2019,Tennessee,SEC,passAttempts,360
+2019,Marshall,Conference USA,totalYards,5109
+2019,UT San Antonio,Conference USA,puntReturns,24
+2019,UAB,Conference USA,passAttempts,338
+2019,Baylor,Big 12,rushingYards,2329
+2019,Arizona,Pac-12,puntReturnTDs,0
+2019,Baylor,Big 12,passingTDs,24
+2019,Iowa,Big Ten,rushingAttempts,453
+2019,Texas A&M,SEC,passingTDs,22
+2019,UMass,FBS Independents,kickReturnTDs,0
+2019,Coastal Carolina,Sun Belt,interceptions,9
+2019,Appalachian State,Sun Belt,kickReturns,25
+2019,Western Kentucky,Conference USA,firstDowns,267
+2019,Florida International,Conference USA,kickReturnYards,496
+2019,Virginia,ACC,sacks,60
+2019,Syracuse,ACC,kickReturnYards,649
+2019,Southern Mississippi,Conference USA,fumblesRecovered,7
+2019,Tulane,American Athletic,possessionTime,23801
+2019,Oregon,Pac-12,passingTDs,35
+2019,Boston College,ACC,netPassingYards,2288
+2019,TCU,Big 12,fumblesLost,9
+2019,Air Force,Mountain West,kickReturnTDs,0
+2019,Coastal Carolina,Sun Belt,passingTDs,21
+2019,Colorado,Pac-12,sacks,24
+2019,Wake Forest,ACC,interceptions,13
+2019,TCU,Big 12,sacks,33
+2019,Iowa,Big Ten,possessionTime,24981
+2019,Marshall,Conference USA,firstDowns,271
+2019,UMass,FBS Independents,sacks,13
+2019,Eastern Michigan,Mid-American,puntReturns,16
+2019,Marshall,Conference USA,interceptionYards,166
+2019,Miami,ACC,turnovers,17
+2019,UAB,Conference USA,fumblesLost,8
+2019,Cincinnati,American Athletic,interceptionTDs,3
+2019,Florida State,ACC,passCompletions,279
+2019,NC State,ACC,penaltyYards,627
+2019,Oklahoma,Big 12,interceptionTDs,1
+2019,Tulane,American Athletic,kickReturns,43
+2019,East Carolina,American Athletic,rushingYards,1696
+2019,Wisconsin,Big Ten,kickReturnTDs,2
+2019,Georgia Southern,Sun Belt,passesIntercepted,9
+2019,Texas,Big 12,rushingTDs,26
+2019,Old Dominion,Conference USA,fumblesRecovered,12
+2019,Wyoming,Mountain West,turnovers,15
+2019,Eastern Michigan,Mid-American,sacks,31
+2019,Tulsa,American Athletic,fourthDowns,23
+2019,Notre Dame,FBS Independents,fumblesRecovered,27
+2019,Florida State,ACC,rushingTDs,24
+2019,North Texas,Conference USA,sacks,44
+2019,Penn State,Big Ten,penalties,57
+2019,Boston College,ACC,turnovers,12
+2019,Washington,Pac-12,rushingAttempts,461
+2019,Texas A&M,SEC,turnovers,20
+2019,Kansas State,Big 12,penaltyYards,679
+2019,Eastern Michigan,Mid-American,turnovers,17
+2019,Notre Dame,FBS Independents,puntReturns,24
+2019,Southern Mississippi,Conference USA,passAttempts,438
+2019,Ohio State,Big Ten,fumblesLost,13
+2019,Hawai'i,Mountain West,puntReturnYards,102
+2019,Middle Tennessee,Conference USA,rushingYards,2085
+2019,UTEP,Conference USA,fourthDowns,25
+2019,Kentucky,SEC,turnovers,20
+2019,Florida,SEC,kickReturnYards,184
+2019,Kentucky,SEC,kickReturns,22
+2019,Nebraska,Big Ten,fourthDownConversions,10
+2019,UMass,FBS Independents,fumblesRecovered,16
+2019,Troy,Sun Belt,penalties,64
+2019,Wisconsin,Big Ten,tacklesForLoss,120
+2019,Rutgers,Big Ten,penaltyYards,709
+2019,BYU,FBS Independents,penaltyYards,668
+2019,Old Dominion,Conference USA,passCompletions,207
+2019,Illinois,Big Ten,kickReturnTDs,0
+2019,Wyoming,Mountain West,thirdDownConversions,81
+2019,Penn State,Big Ten,games,13
+2019,Buffalo,Mid-American,possessionTime,26548
+2019,Georgia,SEC,sacks,37
+2019,Liberty,FBS Independents,passingTDs,29
+2019,Tulane,American Athletic,turnovers,18
+2019,Buffalo,Mid-American,totalYards,5051
+2019,Toledo,Mid-American,sacks,20
+2019,Georgia Southern,Sun Belt,penalties,66
+2019,Pittsburgh,ACC,thirdDownConversions,84
+2019,Virginia Tech,ACC,puntReturnYards,242
+2019,Colorado,Pac-12,penaltyYards,726
+2019,Florida,SEC,kickReturns,10
+2019,Pittsburgh,ACC,puntReturns,36
+2019,Purdue,Big Ten,kickReturnTDs,0
+2019,UAB,Conference USA,fourthDownConversions,8
+2019,Florida,SEC,passAttempts,467
+2019,Troy,Sun Belt,penaltyYards,597
+2019,North Carolina,ACC,possessionTime,23655
+2019,Stanford,Pac-12,fourthDownConversions,5
+2019,Auburn,SEC,fourthDownConversions,7
+2019,Florida Atlantic,Conference USA,rushingTDs,32
+2019,Michigan State,Big Ten,possessionTime,24483
+2019,Indiana,Big Ten,tacklesForLoss,94
+2019,Troy,Sun Belt,fumblesRecovered,9
+2019,Charlotte,Conference USA,rushingTDs,26
+2019,Arizona State,Pac-12,passesIntercepted,13
+2019,Virginia,ACC,thirdDownConversions,92
+2019,New Mexico,Mountain West,firstDowns,245
+2019,Rice,Conference USA,interceptions,4
+2019,Georgia State,Sun Belt,possessionTime,23100
+2019,Oregon,Pac-12,interceptions,6
+2019,Iowa,Big Ten,kickReturnTDs,2
+2019,Louisiana Tech,Conference USA,thirdDownConversions,72
+2019,Iowa State,Big 12,fumblesLost,7
+2019,South Florida,American Athletic,passAttempts,328
+2019,Virginia Tech,ACC,turnovers,22
+2019,South Alabama,Sun Belt,firstDowns,216
+2019,Mississippi State,SEC,firstDowns,279
+2019,Connecticut,American Athletic,fumblesRecovered,13
+2019,Ole Miss,SEC,rushingYards,3012
+2019,South Carolina,SEC,sacks,35
+2019,Northern Illinois,Mid-American,possessionTime,22025
+2019,Notre Dame,FBS Independents,rushingYards,2311
+2019,Connecticut,American Athletic,penaltyYards,618
+2019,North Texas,Conference USA,possessionTime,20261
+2019,Air Force,Mountain West,rushingAttempts,755
+2019,Oklahoma,Big 12,rushingYards,3361
+2019,UCF,American Athletic,turnovers,15
+2019,San José State,Mountain West,fumblesRecovered,13
+2019,UCLA,Pac-12,thirdDownConversions,77
+2019,Miami,ACC,interceptionYards,136
+2019,Western Michigan,Mid-American,penalties,82
+2019,Hawai'i,Mountain West,turnovers,30
+2019,San Diego State,Mountain West,netPassingYards,2634
+2019,Oregon State,Pac-12,games,12
+2019,Louisiana,Sun Belt,passingTDs,27
+2019,Western Michigan,Mid-American,firstDowns,288
+2019,Cincinnati,American Athletic,fumblesRecovered,18
+2019,LSU,SEC,interceptions,7
+2019,Louisiana Monroe,Sun Belt,thirdDownConversions,70
+2019,Wake Forest,ACC,penaltyYards,460
+2019,BYU,FBS Independents,puntReturnYards,283
+2019,San José State,Mountain West,passingTDs,24
+2019,Northwestern,Big Ten,turnovers,23
+2019,South Carolina,SEC,fumblesRecovered,8
+2019,Northern Illinois,Mid-American,rushingYards,1661
+2019,Washington,Pac-12,interceptionYards,139
+2019,Troy,Sun Belt,passingTDs,30
+2019,Temple,American Athletic,thirdDowns,201
+2019,Notre Dame,FBS Independents,turnovers,11
+2019,Utah State,Mountain West,netPassingYards,3628
+2019,Boston College,ACC,passingTDs,20
+2019,Arizona State,Pac-12,rushingYards,1602
+2019,Northwestern,Big Ten,penalties,65
+2019,Charlotte,Conference USA,possessionTime,24958
+2019,Georgia Tech,ACC,totalYards,3436
+2019,Tulsa,American Athletic,puntReturnYards,58
+2019,Utah State,Mountain West,puntReturns,12
+2019,UAB,Conference USA,interceptions,20
+2019,Utah State,Mountain West,rushingYards,1979
+2019,Georgia,SEC,fumblesLost,7
+2019,Notre Dame,FBS Independents,puntReturnYards,211
+2019,NC State,ACC,tacklesForLoss,102
+2019,Coastal Carolina,Sun Belt,kickReturnTDs,0
+2019,UCLA,Pac-12,fourthDowns,29
+2019,East Carolina,American Athletic,kickReturns,42
+2019,Oklahoma,Big 12,netPassingYards,4164
+2019,North Carolina,ACC,netPassingYards,3716
+2019,Kansas State,Big 12,turnovers,13
+2019,Indiana,Big Ten,kickReturnYards,688
+2019,Georgia,SEC,netPassingYards,3122
+2019,Appalachian State,Sun Belt,possessionTime,25733
+2019,Louisiana,Sun Belt,passCompletions,268
+2019,Tulane,American Athletic,interceptionYards,129
+2019,Indiana,Big Ten,puntReturnTDs,0
+2019,Wyoming,Mountain West,thirdDowns,188
+2019,Kansas,Big 12,rushingAttempts,383
+2019,Oregon,Pac-12,fourthDowns,25
+2019,UT San Antonio,Conference USA,interceptions,11
+2019,Notre Dame,FBS Independents,kickReturns,29
+2019,Florida Atlantic,Conference USA,rushingYards,2325
+2019,Southern Mississippi,Conference USA,penalties,81
+2019,Vanderbilt,SEC,rushingTDs,11
+2019,Ohio State,Big Ten,interceptions,3
+2019,Florida International,Conference USA,fumblesRecovered,9
+2019,Troy,Sun Belt,rushingYards,1717
+2019,South Florida,American Athletic,thirdDowns,177
+2019,West Virginia,Big 12,penalties,71
+2019,Boston College,ACC,thirdDownConversions,89
+2019,SMU,American Athletic,penaltyYards,743
+2019,West Virginia,Big 12,fourthDowns,19
+2019,Louisiana Tech,Conference USA,interceptionTDs,5
+2019,Minnesota,Big Ten,interceptionYards,240
+2019,Eastern Michigan,Mid-American,netPassingYards,3681
+2019,Georgia State,Sun Belt,rushingYards,3141
+2019,Buffalo,Mid-American,interceptionYards,152
+2019,North Carolina,ACC,firstDowns,315
+2019,Rice,Conference USA,penalties,45
+2019,Fresno State,Mountain West,games,12
+2019,Georgia State,Sun Belt,firstDowns,305
+2019,UMass,FBS Independents,interceptionYards,118
+2019,Bowling Green,Mid-American,kickReturnYards,799
+2019,LSU,SEC,netPassingYards,6024
+2019,Colorado State,Mountain West,kickReturns,34
+2019,Utah,Pac-12,penaltyYards,870
+2019,Arkansas,SEC,games,12
+2019,Louisiana Monroe,Sun Belt,puntReturns,10
+2019,Georgia Tech,ACC,fourthDowns,17
+2019,San José State,Mountain West,rushingYards,1073
+2019,Arizona State,Pac-12,interceptionTDs,1
+2019,Navy,American Athletic,netPassingYards,1238
+2019,Western Michigan,Mid-American,kickReturns,36
+2019,Baylor,Big 12,netPassingYards,3571
+2019,Oregon,Pac-12,netPassingYards,3615
+2019,Baylor,Big 12,passesIntercepted,16
+2019,Air Force,Mountain West,passCompletions,68
+2019,Oklahoma,Big 12,fumblesRecovered,4
+2019,Wyoming,Mountain West,sacks,44
+2019,Baylor,Big 12,puntReturnYards,134
+2019,NC State,ACC,possessionTime,21154
+2019,Vanderbilt,SEC,fumblesRecovered,6
+2019,Oregon State,Pac-12,fourthDownConversions,13
+2019,Utah,Pac-12,games,14
+2019,Hawai'i,Mountain West,games,15
+2019,Tulane,American Athletic,thirdDownConversions,70
+2019,Nebraska,Big Ten,puntReturnTDs,1
+2019,Colorado,Pac-12,thirdDownConversions,74
+2019,North Texas,Conference USA,totalYards,5026
+2019,Clemson,ACC,tacklesForLoss,139
+2019,Tulane,American Athletic,passAttempts,336
+2019,UAB,Conference USA,rushingAttempts,558
+2019,Texas,Big 12,fourthDowns,19
+2019,North Carolina,ACC,rushingAttempts,528
+2019,Michigan,Big Ten,rushingTDs,26
+2019,Vanderbilt,SEC,rushingYards,1496
+2019,Charlotte,Conference USA,fumblesLost,5
+2019,Florida State,ACC,turnovers,21
+2019,Clemson,ACC,possessionTime,27242
+2019,Georgia,SEC,interceptions,6
+2019,Arizona,Pac-12,netPassingYards,3193
+2019,Arizona,Pac-12,firstDowns,269
+2019,Oregon State,Pac-12,puntReturns,13
+2019,SMU,American Athletic,fumblesLost,5
+2019,Louisville,ACC,interceptions,9
+2019,Washington,Pac-12,kickReturnYards,388
+2019,California,Pac-12,kickReturnYards,442
+2019,East Carolina,American Athletic,penaltyYards,615
+2019,Middle Tennessee,Conference USA,passesIntercepted,8
+2019,Louisiana Tech,Conference USA,sacks,34
+2019,Army,FBS Independents,passAttempts,126
+2019,Iowa State,Big 12,tacklesForLoss,99
+2019,Alabama,SEC,puntReturnTDs,3
+2019,Pittsburgh,ACC,passesIntercepted,9
+2019,Indiana,Big Ten,passingTDs,24
+2019,Illinois,Big Ten,puntReturnTDs,0
+2019,Bowling Green,Mid-American,rushingYards,1941
+2019,Connecticut,American Athletic,passCompletions,228
+2019,Virginia,ACC,penalties,66
+2019,Louisiana Monroe,Sun Belt,kickReturnTDs,0
+2019,Georgia Tech,ACC,puntReturnTDs,0
+2019,Bowling Green,Mid-American,puntReturnTDs,0
+2019,UCLA,Pac-12,passAttempts,426
+2019,Old Dominion,Conference USA,rushingAttempts,431
+2019,New Mexico,Mountain West,fumblesLost,11
+2019,Maryland,Big Ten,thirdDownConversions,54
+2019,UCF,American Athletic,sacks,38
+2019,SMU,American Athletic,passAttempts,503
+2019,Georgia State,Sun Belt,puntReturnTDs,0
+2019,Middle Tennessee,Conference USA,puntReturnTDs,0
+2019,Maryland,Big Ten,fumblesLost,9
+2019,Western Kentucky,Conference USA,tacklesForLoss,76
+2019,BYU,FBS Independents,games,13
+2019,Ohio,Mid-American,fumblesRecovered,14
+2019,Oklahoma,Big 12,thirdDowns,155
+2019,Boston College,ACC,puntReturns,19
+2019,Central Michigan,Mid-American,rushingYards,2218
+2019,NC State,ACC,rushingAttempts,418
+2019,Michigan State,Big Ten,netPassingYards,3182
+2019,Western Kentucky,Conference USA,interceptionYards,49
+2019,Purdue,Big Ten,games,12
+2019,Stanford,Pac-12,puntReturns,14
+2019,Louisiana,Sun Belt,fourthDowns,17
+2019,Stanford,Pac-12,sacks,39
+2019,Georgia Southern,Sun Belt,rushingAttempts,667
+2019,Fresno State,Mountain West,passesIntercepted,11
+2019,Arizona State,Pac-12,passingTDs,21
+2019,South Alabama,Sun Belt,fourthDownConversions,12
+2019,Boston College,ACC,passAttempts,305
+2019,LSU,SEC,thirdDownConversions,90
+2019,NC State,ACC,passAttempts,463
+2019,Wisconsin,Big Ten,fumblesRecovered,17
+2019,West Virginia,Big 12,kickReturns,35
+2019,Virginia,ACC,penaltyYards,612
+2019,UAB,Conference USA,firstDowns,252
+2019,Colorado,Pac-12,fumblesLost,3
+2019,Notre Dame,FBS Independents,thirdDowns,185
+2019,Oklahoma State,Big 12,rushingAttempts,562
+2019,Colorado,Pac-12,firstDowns,257
+2019,Illinois,Big Ten,penalties,87
+2019,Washington State,Pac-12,thirdDownConversions,60
+2019,Florida,SEC,passingTDs,33
+2019,Auburn,SEC,penaltyYards,718
+2019,Kent State,Mid-American,penaltyYards,781
+2019,Arkansas State,Sun Belt,kickReturnTDs,1
+2019,Vanderbilt,SEC,thirdDowns,166
+2019,Army,FBS Independents,fourthDownConversions,26
+2019,Kansas,Big 12,interceptionTDs,1
+2019,Rice,Conference USA,tacklesForLoss,97
+2019,Florida Atlantic,Conference USA,penalties,95
+2019,Hawai'i,Mountain West,interceptionYards,323
+2019,Washington State,Pac-12,games,13
+2019,UCF,American Athletic,totalYards,7026
+2019,Northern Illinois,Mid-American,rushingTDs,15
+2019,Indiana,Big Ten,puntReturnYards,68
+2019,Navy,American Athletic,tacklesForLoss,101
+2019,Nebraska,Big Ten,rushingYards,2439
+2019,UMass,FBS Independents,passAttempts,392
+2019,Texas State,Sun Belt,puntReturnYards,124
+2019,Kansas State,Big 12,kickReturnYards,1003
+2019,Iowa,Big Ten,puntReturnYards,121
+2019,Auburn,SEC,puntReturnTDs,0
+2019,Miami (OH),Mid-American,thirdDowns,201
+2019,Houston,American Athletic,puntReturnTDs,2
+2019,Arizona,Pac-12,possessionTime,19733
+2019,USC,Pac-12,puntReturns,21
+2019,UMass,FBS Independents,puntReturnTDs,1
+2019,Arkansas,SEC,kickReturnYards,649
+2019,Baylor,Big 12,tacklesForLoss,149
+2019,Eastern Michigan,Mid-American,penalties,59
+2019,Marshall,Conference USA,puntReturns,21
+2019,Nebraska,Big Ten,passCompletions,194
+2019,Western Kentucky,Conference USA,interceptionTDs,1
+2019,Wake Forest,ACC,passAttempts,469
+2019,Tennessee,SEC,sacks,45
+2019,Boston College,ACC,rushingTDs,27
+2019,Tennessee,SEC,possessionTime,22904
+2019,San Diego State,Mountain West,interceptionTDs,0
+2019,Louisiana Monroe,Sun Belt,totalYards,5531
+2019,Appalachian State,Sun Belt,rushingYards,3240
+2019,Georgia Tech,ACC,puntReturnYards,76
+2019,Marshall,Conference USA,turnovers,18
+2019,Houston,American Athletic,netPassingYards,2440
+2019,Army,FBS Independents,firstDowns,272
+2019,Penn State,Big Ten,sacks,63
+2019,Arizona State,Pac-12,passCompletions,233
+2019,Wake Forest,ACC,fumblesRecovered,14
+2019,Wake Forest,ACC,fourthDowns,17
+2019,Michigan,Big Ten,interceptions,9
+2019,South Florida,American Athletic,possessionTime,20047
+2019,Navy,American Athletic,games,13
+2019,BYU,FBS Independents,interceptionTDs,1
+2019,Duke,ACC,fourthDownConversions,20
+2019,Iowa State,Big 12,firstDowns,298
+2019,Ball State,Mid-American,possessionTime,21796
+2019,Miami,ACC,puntReturnTDs,0
+2019,Wyoming,Mountain West,possessionTime,23865
+2019,UNLV,Mountain West,penalties,65
+2019,Texas,Big 12,sacks,27
+2019,Ohio,Mid-American,fumblesLost,13
+2019,Coastal Carolina,Sun Belt,passCompletions,217
+2019,Oklahoma,Big 12,possessionTime,25995
+2019,Arkansas State,Sun Belt,kickReturnYards,954
+2019,Missouri,SEC,fourthDownConversions,7
+2019,Boise State,Mountain West,puntReturnYards,301
+2019,Rice,Conference USA,totalYards,3530
+2019,UCF,American Athletic,fumblesRecovered,12
+2019,Louisiana,Sun Belt,passAttempts,412
+2019,UT San Antonio,Conference USA,fumblesLost,12
+2019,Tulane,American Athletic,passesIntercepted,12
+2019,Georgia Tech,ACC,interceptionYards,65
+2019,Utah State,Mountain West,sacks,30
+2019,South Carolina,SEC,puntReturnYards,146
+2019,Middle Tennessee,Conference USA,interceptionYards,68
+2019,TCU,Big 12,tacklesForLoss,79
+2019,Kent State,Mid-American,sacks,26
+2019,Washington State,Pac-12,rushingTDs,12
+2019,Akron,Mid-American,fourthDowns,23
+2019,UMass,FBS Independents,passingTDs,15
+2019,Iowa State,Big 12,penalties,61
+2019,Louisiana Monroe,Sun Belt,kickReturnYards,621
+2019,USC,Pac-12,possessionTime,22458
+2019,Pittsburgh,ACC,sacks,60
+2019,Virginia,ACC,interceptionYards,279
+2019,Mississippi State,SEC,interceptions,10
+2019,East Carolina,American Athletic,tacklesForLoss,90
+2019,UCLA,Pac-12,rushingAttempts,490
+2019,Wisconsin,Big Ten,passesIntercepted,12
+2019,Michigan,Big Ten,puntReturns,37
+2019,Texas Tech,Big 12,penalties,75
+2019,Ball State,Mid-American,passAttempts,373
+2019,Middle Tennessee,Conference USA,fumblesRecovered,17
+2019,Miami,ACC,totalYards,4774
+2019,Penn State,Big Ten,fourthDowns,18
+2019,Northwestern,Big Ten,kickReturnYards,374
+2019,Boise State,Mountain West,kickReturnYards,826
+2019,Wake Forest,ACC,fumblesLost,4
+2019,UMass,FBS Independents,fourthDowns,29
+2019,Coastal Carolina,Sun Belt,thirdDownConversions,70
+2019,Arizona,Pac-12,puntReturnYards,89
+2019,UAB,Conference USA,passCompletions,192
+2019,Florida Atlantic,Conference USA,possessionTime,23934
+2019,UTEP,Conference USA,turnovers,14
+2019,Houston,American Athletic,penaltyYards,579
+2019,TCU,Big 12,passesIntercepted,16
+2019,Middle Tennessee,Conference USA,kickReturnYards,163
+2019,Ohio State,Big Ten,passCompletions,271
+2019,Navy,American Athletic,fumblesRecovered,12
+2019,Indiana,Big Ten,fumblesLost,6
+2019,Texas A&M,SEC,puntReturnYards,330
+2019,Colorado State,Mountain West,rushingYards,1586
+2019,Iowa,Big Ten,passAttempts,411
+2019,Troy,Sun Belt,totalYards,5475
+2019,UT San Antonio,Conference USA,passesIntercepted,6
+2019,SMU,American Athletic,totalYards,6335
+2019,Wisconsin,Big Ten,totalYards,6064
+2019,Kentucky,SEC,possessionTime,25080
+2019,Arizona,Pac-12,puntReturns,14
+2019,Illinois,Big Ten,rushingTDs,19
+2019,East Carolina,American Athletic,interceptionYards,108
+2019,Georgia Southern,Sun Belt,fourthDowns,14
+2019,Arkansas,SEC,puntReturns,14
+2019,California,Pac-12,interceptions,9
+2019,Florida,SEC,penalties,67
+2019,Boise State,Mountain West,possessionTime,25981
+2019,Navy,American Athletic,totalYards,5925
+2019,Western Kentucky,Conference USA,possessionTime,24956
+2019,Nebraska,Big Ten,kickReturnTDs,0
+2019,Georgia State,Sun Belt,netPassingYards,2577
+2019,Texas Tech,Big 12,turnovers,16
+2019,West Virginia,Big 12,puntReturnYards,55
+2019,New Mexico,Mountain West,netPassingYards,2340
+2019,Louisiana,Sun Belt,kickReturnTDs,0
+2019,Oklahoma,Big 12,thirdDownConversions,77
+2019,Arizona,Pac-12,sacks,23
+2019,San Diego State,Mountain West,totalYards,4461
+2019,Tulane,American Athletic,rushingTDs,33
+2019,UT San Antonio,Conference USA,fourthDownConversions,17
+2019,Middle Tennessee,Conference USA,passingTDs,22
+2019,Ole Miss,SEC,passesIntercepted,10
+2019,Pittsburgh,ACC,possessionTime,23926
+2019,South Carolina,SEC,kickReturns,22
+2019,Marshall,Conference USA,penaltyYards,680
+2019,Florida International,Conference USA,totalYards,4908
+2019,Nevada,Mountain West,tacklesForLoss,84
+2019,South Florida,American Athletic,puntReturns,15
+2019,Fresno State,Mountain West,passAttempts,372
+2019,Virginia,ACC,passingTDs,23
+2019,UNLV,Mountain West,turnovers,18
+2019,Purdue,Big Ten,rushingTDs,9
+2019,Toledo,Mid-American,firstDowns,261
+2019,Penn State,Big Ten,netPassingYards,2877
+2019,Nebraska,Big Ten,possessionTime,20813
+2019,Utah,Pac-12,thirdDowns,176
+2019,Utah,Pac-12,passAttempts,321
+2019,Tulsa,American Athletic,passAttempts,444
+2019,Illinois,Big Ten,fourthDownConversions,5
+2019,Coastal Carolina,Sun Belt,fumblesRecovered,8
+2019,West Virginia,Big 12,interceptionTDs,1
+2019,Kansas,Big 12,kickReturnTDs,0
+2019,Minnesota,Big Ten,netPassingYards,3293
+2019,Western Michigan,Mid-American,fumblesLost,6
+2019,Colorado State,Mountain West,passingTDs,21
+2019,Michigan State,Big Ten,thirdDownConversions,70
+2019,Iowa State,Big 12,fourthDowns,21
+2019,Florida Atlantic,Conference USA,fourthDowns,22
+2019,Nebraska,Big Ten,fourthDowns,23
+2019,San Diego State,Mountain West,interceptions,6
+2019,Kansas,Big 12,thirdDowns,167
+2019,California,Pac-12,passesIntercepted,8
+2019,Clemson,ACC,interceptionTDs,2
+2019,Ole Miss,SEC,puntReturnYards,87
+2019,Navy,American Athletic,interceptions,4
+2019,Charlotte,Conference USA,passAttempts,321
+2019,Duke,ACC,turnovers,29
+2019,BYU,FBS Independents,rushingYards,2068
+2019,Southern Mississippi,Conference USA,rushingTDs,17
+2019,UCLA,Pac-12,turnovers,22
+2019,Cincinnati,American Athletic,puntReturnYards,250
+2019,Old Dominion,Conference USA,fourthDowns,33
+2019,Iowa,Big Ten,interceptions,7
+2019,Colorado State,Mountain West,passCompletions,279
+2019,Florida International,Conference USA,penalties,79
+2019,Louisville,ACC,penalties,93
+2019,Notre Dame,FBS Independents,penaltyYards,665
+2019,Virginia Tech,ACC,puntReturnTDs,0
+2019,Illinois,Big Ten,fumblesLost,9
+2019,Middle Tennessee,Conference USA,totalYards,4900
+2019,Tulane,American Athletic,kickReturnYards,980
+2019,Tulane,American Athletic,rushingAttempts,612
+2019,Rutgers,Big Ten,passesIntercepted,6
+2019,UCLA,Pac-12,puntReturnYards,180
+2019,Ball State,Mid-American,puntReturnTDs,0
+2019,Georgia Southern,Sun Belt,penaltyYards,569
+2019,Louisville,ACC,thirdDownConversions,76
+2019,Kentucky,SEC,games,13
+2019,East Carolina,American Athletic,turnovers,17
+2019,Wake Forest,ACC,interceptionTDs,0
+2019,Middle Tennessee,Conference USA,games,12
+2019,Ole Miss,SEC,rushingTDs,29
+2019,Old Dominion,Conference USA,puntReturnTDs,0
+2019,Auburn,SEC,games,13
+2019,Colorado State,Mountain West,puntReturnYards,142
+2019,Charlotte,Conference USA,fumblesRecovered,8
+2019,Oregon State,Pac-12,passingTDs,30
+2019,Wisconsin,Big Ten,fumblesLost,17
+2019,North Texas,Conference USA,fumblesLost,7
+2019,Memphis,American Athletic,passesIntercepted,11
+2019,New Mexico State,FBS Independents,passAttempts,446
+2019,West Virginia,Big 12,puntReturnTDs,0
+2019,BYU,FBS Independents,kickReturnYards,427
+2019,Akron,Mid-American,sacks,12
+2019,Missouri,SEC,totalYards,4491
+2019,Tulsa,American Athletic,passCompletions,254
+2019,Wisconsin,Big Ten,interceptions,5
+2019,Connecticut,American Athletic,fourthDownConversions,10
+2019,Louisiana Monroe,Sun Belt,passingTDs,21
+2019,Florida,SEC,turnovers,18
+2019,Boston College,ACC,possessionTime,21691
+2019,Alabama,SEC,puntReturns,24
+2019,Fresno State,Mountain West,penalties,75
+2019,UTEP,Conference USA,firstDowns,214
+2019,UAB,Conference USA,kickReturns,28
+2019,Wyoming,Mountain West,rushingAttempts,575
+2019,UTEP,Conference USA,interceptionYards,0
+2019,Minnesota,Big Ten,thirdDowns,161
+2019,Southern Mississippi,Conference USA,fourthDownConversions,8
+2019,UAB,Conference USA,games,14
+2019,Tulsa,American Athletic,penalties,109
+2019,UAB,Conference USA,passesIntercepted,7
+2019,Oklahoma State,Big 12,thirdDownConversions,73
+2019,North Texas,Conference USA,thirdDowns,173
+2019,Eastern Michigan,Mid-American,kickReturnYards,254
+2019,UCLA,Pac-12,fumblesRecovered,16
+2019,Florida International,Conference USA,interceptionYards,150
+2019,Penn State,Big Ten,fumblesLost,5
+2019,Liberty,FBS Independents,kickReturnTDs,1
+2019,Ole Miss,SEC,fourthDowns,31
+2019,Louisiana Tech,Conference USA,interceptions,10
+2019,Arizona State,Pac-12,sacks,33
+2019,Florida Atlantic,Conference USA,kickReturns,27
+2019,Florida International,Conference USA,interceptions,6
+2019,Vanderbilt,SEC,tacklesForLoss,90
+2019,Illinois,Big Ten,fumblesRecovered,29
+2019,Arkansas State,Sun Belt,fourthDowns,23
+2019,South Alabama,Sun Belt,fumblesRecovered,10
+2019,Kent State,Mid-American,interceptions,2
+2019,Washington,Pac-12,fumblesRecovered,14
+2019,Texas A&M,SEC,netPassingYards,3060
+2019,California,Pac-12,fourthDownConversions,6
+2019,Bowling Green,Mid-American,kickReturns,43
+2019,Penn State,Big Ten,puntReturns,33
+2019,Minnesota,Big Ten,puntReturns,11
+2019,Colorado State,Mountain West,puntReturnTDs,0
+2019,Oklahoma,Big 12,penalties,101
+2019,San Diego State,Mountain West,rushingYards,1827
+2019,Pittsburgh,ACC,kickReturns,18
+2019,Stanford,Pac-12,thirdDownConversions,64
+2019,Troy,Sun Belt,kickReturnYards,929
+2019,UMass,FBS Independents,fumblesLost,4
+2019,Bowling Green,Mid-American,fourthDowns,32
+2019,South Alabama,Sun Belt,turnovers,22
+2019,Utah State,Mountain West,firstDowns,289
+2019,Oregon,Pac-12,possessionTime,23722
+2019,Central Michigan,Mid-American,firstDowns,287
+2019,UMass,FBS Independents,penaltyYards,717
+2019,Fresno State,Mountain West,puntReturns,9
+2019,Kansas,Big 12,sacks,20
+2019,Tulsa,American Athletic,passesIntercepted,5
+2019,Central Michigan,Mid-American,passingTDs,16
+2019,Connecticut,American Athletic,interceptions,15
+2019,Charlotte,Conference USA,passesIntercepted,9
+2019,Wake Forest,ACC,totalYards,6030
+2019,Middle Tennessee,Conference USA,penalties,57
+2019,Western Michigan,Mid-American,thirdDownConversions,86
+2019,Rice,Conference USA,turnovers,16
+2019,UCF,American Athletic,netPassingYards,4117
+2019,Ball State,Mid-American,fourthDowns,23
+2019,Minnesota,Big Ten,puntReturnTDs,0
+2019,NC State,ACC,kickReturnYards,412
+2019,Rutgers,Big Ten,totalYards,3277
+2019,Georgia State,Sun Belt,games,13
+2019,Ohio,Mid-American,puntReturns,30
+2019,Miami (OH),Mid-American,fumblesRecovered,15
+2019,Washington,Pac-12,rushingYards,1922
+2019,South Florida,American Athletic,tacklesForLoss,154
+2019,Army,FBS Independents,interceptions,7
+2019,Louisiana,Sun Belt,turnovers,14
+2019,UNLV,Mountain West,fourthDownConversions,17
+2019,East Carolina,American Athletic,netPassingYards,3466
+2019,Texas State,Sun Belt,interceptionTDs,0
+2019,Tennessee,SEC,fourthDownConversions,2
+2019,Air Force,Mountain West,netPassingYards,1602
+2019,Miami (OH),Mid-American,puntReturnTDs,1
+2019,Northwestern,Big Ten,netPassingYards,1414
+2019,Louisville,ACC,firstDowns,263
+2019,Minnesota,Big Ten,fumblesLost,7
+2019,Ball State,Mid-American,games,12
+2019,Oklahoma State,Big 12,passAttempts,362
+2019,Kansas,Big 12,interceptions,14
+2019,Georgia,SEC,thirdDowns,188
+2019,Central Michigan,Mid-American,interceptionYards,65
+2019,Texas,Big 12,rushingAttempts,480
+2019,Ohio State,Big Ten,fumblesRecovered,16
+2019,North Texas,Conference USA,rushingTDs,11
+2019,Georgia State,Sun Belt,kickReturnYards,114
+2019,Houston,American Athletic,kickReturns,28
+2019,Wake Forest,ACC,games,13
+2019,Iowa State,Big 12,kickReturnTDs,0
+2019,Kansas State,Big 12,games,13
+2019,Air Force,Mountain West,kickReturns,13
+2019,Kansas State,Big 12,fourthDowns,15
+2019,UAB,Conference USA,fumblesRecovered,24
+2019,South Florida,American Athletic,passesIntercepted,12
+2019,UMass,FBS Independents,rushingYards,1495
+2019,Old Dominion,Conference USA,games,12
+2019,North Texas,Conference USA,interceptionTDs,0
+2019,Akron,Mid-American,games,12
+2019,Florida,SEC,rushingTDs,21
+2019,Central Michigan,Mid-American,penaltyYards,872
+2019,Kent State,Mid-American,rushingYards,2427
+2019,Northern Illinois,Mid-American,fourthDownConversions,10
+2019,LSU,SEC,rushingYards,2502
+2019,Pittsburgh,ACC,passAttempts,513
+2019,Cincinnati,American Athletic,netPassingYards,2552
+2019,Clemson,ACC,rushingYards,3606
+2019,Kent State,Mid-American,puntReturns,14
+2019,West Virginia,Big 12,firstDowns,212
+2019,Akron,Mid-American,thirdDownConversions,42
+2019,Navy,American Athletic,kickReturns,20
+2019,Washington,Pac-12,puntReturnYards,268
+2019,Middle Tennessee,Conference USA,netPassingYards,2815
+2019,TCU,Big 12,turnovers,19
+2019,Syracuse,ACC,fumblesLost,9
+2019,Kansas State,Big 12,netPassingYards,2344
+2019,Old Dominion,Conference USA,passingTDs,5
+2019,UCF,American Athletic,passAttempts,457
+2019,Connecticut,American Athletic,possessionTime,23354
+2019,Maryland,Big Ten,fumblesRecovered,9
+2019,Iowa,Big Ten,fourthDownConversions,15
+2019,Vanderbilt,SEC,fourthDownConversions,8
+2019,Syracuse,ACC,puntReturnYards,137
+2019,Toledo,Mid-American,fumblesRecovered,7
+2019,Florida Atlantic,Conference USA,passingTDs,30
+2019,Louisiana Tech,Conference USA,passingTDs,21
+2019,New Mexico State,FBS Independents,thirdDownConversions,55
+2019,Western Michigan,Mid-American,games,13
+2019,Virginia Tech,ACC,tacklesForLoss,110
+2019,Houston,American Athletic,passCompletions,176
+2019,Eastern Michigan,Mid-American,fumblesRecovered,15
+2019,South Alabama,Sun Belt,passAttempts,282
+2019,Rice,Conference USA,passingTDs,13
+2019,Michigan State,Big Ten,sacks,49
+2019,Temple,American Athletic,turnovers,20
+2019,Wake Forest,ACC,kickReturnYards,424
+2019,LSU,SEC,rushingAttempts,513
+2019,Liberty,FBS Independents,netPassingYards,3756
+2019,New Mexico,Mountain West,interceptionYards,71
+2019,Coastal Carolina,Sun Belt,games,12
+2019,Nevada,Mountain West,interceptionYards,85
+2019,Florida International,Conference USA,passingTDs,14
+2019,Virginia,ACC,passAttempts,520
+2019,Utah State,Mountain West,thirdDowns,197
+2019,Oklahoma State,Big 12,penaltyYards,612
+2019,Army,FBS Independents,kickReturnTDs,0
+2019,Texas,Big 12,passAttempts,470
+2019,Tennessee,SEC,penalties,83
+2019,Connecticut,American Athletic,puntReturnYards,107
+2019,Buffalo,Mid-American,fourthDowns,25
+2019,Memphis,American Athletic,penaltyYards,839
+2019,Auburn,SEC,totalYards,5275
+2019,Maryland,Big Ten,interceptions,12
+2019,Navy,American Athletic,fumblesLost,12
+2019,Virginia Tech,ACC,fumblesRecovered,7
+2019,Colorado,Pac-12,penalties,85
+2019,USC,Pac-12,interceptionTDs,0
+2019,Ohio State,Big Ten,sacks,66
+2019,UCLA,Pac-12,interceptions,12
+2019,USC,Pac-12,rushingTDs,18
+2019,Illinois,Big Ten,kickReturnYards,710
+2019,Virginia,ACC,kickReturnYards,1204
+2019,Louisville,ACC,rushingYards,2768
+2019,Tulsa,American Athletic,penaltyYards,949
+2019,Northwestern,Big Ten,kickReturnTDs,0
+2019,Oregon State,Pac-12,rushingTDs,21
+2019,Wake Forest,ACC,passesIntercepted,14
+2019,Houston,American Athletic,interceptions,12
+2019,Army,FBS Independents,puntReturnTDs,0
+2019,Auburn,SEC,fumblesLost,11
+2019,Arizona State,Pac-12,games,13
+2019,Louisiana Monroe,Sun Belt,sacks,24
+2019,Alabama,SEC,kickReturnTDs,1
+2019,Rice,Conference USA,fumblesRecovered,8
+2019,Boise State,Mountain West,games,14
+2019,Louisiana,Sun Belt,puntReturnYards,191
+2019,Illinois,Big Ten,netPassingYards,2397
+2019,Coastal Carolina,Sun Belt,penalties,67
+2019,Michigan,Big Ten,netPassingYards,3261
+2019,Georgia Southern,Sun Belt,totalYards,4291
+2019,Louisiana Monroe,Sun Belt,passCompletions,245
+2019,UCLA,Pac-12,games,12
+2019,South Carolina,SEC,puntReturns,12
+2019,Rutgers,Big Ten,games,12
+2019,Missouri,SEC,puntReturnYards,223
+2019,Colorado State,Mountain West,fourthDownConversions,11
+2019,Liberty,FBS Independents,passAttempts,452
+2019,Duke,ACC,netPassingYards,2152
+2019,Baylor,Big 12,fumblesLost,11
+2019,Florida State,ACC,tacklesForLoss,84
+2019,Boston College,ACC,tacklesForLoss,124
+2019,Georgia Southern,Sun Belt,netPassingYards,968
+2019,Florida Atlantic,Conference USA,puntReturnTDs,1
+2019,Mississippi State,SEC,games,13
+2019,Texas,Big 12,passCompletions,306
+2019,Hawai'i,Mountain West,passCompletions,396
+2019,Marshall,Conference USA,kickReturnYards,578
+2019,Northwestern,Big Ten,fumblesRecovered,15
+2019,Oklahoma State,Big 12,puntReturnYards,164
+2019,Memphis,American Athletic,penalties,103
+2019,Georgia Tech,ACC,penalties,57
+2019,Florida State,ACC,rushingYards,1829
+2019,Iowa State,Big 12,puntReturnYards,96
+2019,Miami,ACC,rushingYards,1535
+2019,Troy,Sun Belt,passAttempts,491
+2019,Virginia,ACC,puntReturns,27
+2019,Liberty,FBS Independents,fumblesLost,8
+2019,Navy,American Athletic,turnovers,16
+2019,Colorado State,Mountain West,turnovers,24
+2019,UNLV,Mountain West,netPassingYards,2474
+2019,Nevada,Mountain West,fumblesRecovered,13
+2019,Arkansas State,Sun Belt,sacks,31
+2019,Marshall,Conference USA,puntReturnYards,248
+2019,NC State,ACC,fumblesRecovered,4
+2019,South Carolina,SEC,rushingYards,1796
+2019,Kansas State,Big 12,passingTDs,12
+2019,Oklahoma State,Big 12,fourthDowns,21
+2019,Virginia Tech,ACC,passCompletions,184
+2019,Liberty,FBS Independents,thirdDowns,168
+2019,Michigan,Big Ten,thirdDowns,175
+2019,Ball State,Mid-American,passCompletions,239
+2019,Liberty,FBS Independents,tacklesForLoss,113
+2019,Louisiana Tech,Conference USA,netPassingYards,3490
+2019,Pittsburgh,ACC,puntReturnYards,199
+2019,Northern Illinois,Mid-American,thirdDownConversions,57
+2019,Army,FBS Independents,thirdDowns,168
+2019,San José State,Mountain West,kickReturnTDs,0
+2019,Florida International,Conference USA,firstDowns,259
+2019,Old Dominion,Conference USA,possessionTime,22126
+2019,South Carolina,SEC,passesIntercepted,12
+2019,Air Force,Mountain West,puntReturnYards,6
+2019,Wake Forest,ACC,puntReturns,28
+2019,UT San Antonio,Conference USA,kickReturnYards,652
+2019,Coastal Carolina,Sun Belt,fourthDownConversions,23
+2019,Clemson,ACC,turnovers,15
+2019,Ohio State,Big Ten,fourthDowns,13
+2019,LSU,SEC,turnovers,12
+2019,Central Michigan,Mid-American,interceptions,13
+2019,Mississippi State,SEC,rushingAttempts,529
+2019,Alabama,SEC,fourthDownConversions,13
+2019,Illinois,Big Ten,kickReturns,35
+2019,Kansas State,Big 12,fumblesLost,8
+2019,Texas State,Sun Belt,tacklesForLoss,65
+2019,North Carolina,ACC,interceptionYards,58
+2019,UAB,Conference USA,totalYards,4923
+2019,Oregon,Pac-12,fumblesLost,5
+2019,Connecticut,American Athletic,totalYards,4136
+2019,Nevada,Mountain West,puntReturnTDs,0
+2019,Clemson,ACC,passesIntercepted,19
+2019,Appalachian State,Sun Belt,interceptions,6
+2019,Vanderbilt,SEC,possessionTime,21067
+2019,Louisiana Tech,Conference USA,games,13
+2019,Arizona,Pac-12,turnovers,18
+2019,Washington,Pac-12,passAttempts,411
+2019,Ball State,Mid-American,rushingAttempts,536
+2019,Connecticut,American Athletic,puntReturns,10
+2019,North Carolina,ACC,thirdDowns,191
+2019,LSU,SEC,interceptionTDs,0
+2019,Penn State,Big Ten,thirdDownConversions,73
+2019,Tennessee,SEC,firstDowns,241
+2019,San José State,Mountain West,firstDowns,257
+2019,Air Force,Mountain West,possessionTime,26885
+2019,Miami (OH),Mid-American,possessionTime,23736
+2019,Georgia Tech,ACC,interceptions,10
+2019,Western Michigan,Mid-American,interceptionTDs,2
+2019,Duke,ACC,totalYards,3956
+2019,Liberty,FBS Independents,thirdDownConversions,68
+2019,North Carolina,ACC,penalties,80
+2019,BYU,FBS Independents,passesIntercepted,15
+2019,Georgia Southern,Sun Belt,turnovers,11
+2019,California,Pac-12,puntReturnTDs,0
+2019,Boston College,ACC,fumblesRecovered,6
+2019,Michigan State,Big Ten,kickReturns,28
+2019,San Diego State,Mountain West,passesIntercepted,18
+2019,Washington State,Pac-12,interceptions,16
+2019,South Alabama,Sun Belt,puntReturns,12
+2019,Western Michigan,Mid-American,interceptionYards,220
+2019,Louisiana Monroe,Sun Belt,penalties,95
+2019,Ohio State,Big Ten,interceptionYards,280
+2019,Fresno State,Mountain West,sacks,21
+2019,Arizona State,Pac-12,interceptions,4
+2019,Middle Tennessee,Conference USA,fumblesLost,5
+2019,Oregon State,Pac-12,interceptions,4
+2019,LSU,SEC,puntReturns,22
+2019,Arkansas State,Sun Belt,rushingTDs,13
+2019,Maryland,Big Ten,totalYards,4122
+2019,SMU,American Athletic,fourthDowns,30
+2019,Georgia Tech,ACC,kickReturnYards,715
+2019,Florida Atlantic,Conference USA,interceptionYards,221
+2019,Bowling Green,Mid-American,penaltyYards,710
+2019,BYU,FBS Independents,thirdDownConversions,79
+2019,Rutgers,Big Ten,tacklesForLoss,69
+2019,Minnesota,Big Ten,kickReturns,19
+2019,Michigan State,Big Ten,games,13
+2019,Georgia Southern,Sun Belt,sacks,26
+2019,TCU,Big 12,interceptionTDs,1
+2019,Maryland,Big Ten,passingTDs,16
+2019,Minnesota,Big Ten,firstDowns,295
+2019,West Virginia,Big 12,thirdDownConversions,62
+2019,Duke,ACC,kickReturnTDs,2
+2019,Mississippi State,SEC,interceptionYards,163
+2019,Florida,SEC,possessionTime,23536
+2019,Arkansas State,Sun Belt,netPassingYards,4065
+2019,Wisconsin,Big Ten,turnovers,22
+2019,Miami (OH),Mid-American,thirdDownConversions,67
+2019,San Diego State,Mountain West,passCompletions,253
+2019,South Florida,American Athletic,passingTDs,18
+2019,Texas Tech,Big 12,kickReturns,37
+2019,Tulsa,American Athletic,totalYards,5036
+2019,Utah,Pac-12,tacklesForLoss,81
+2019,UNLV,Mountain West,puntReturnYards,49
+2019,Stanford,Pac-12,interceptionYards,15
+2019,Washington,Pac-12,netPassingYards,3164
+2019,Kansas,Big 12,totalYards,4505
+2019,Western Michigan,Mid-American,penaltyYards,759
+2019,Texas A&M,SEC,tacklesForLoss,98
+2019,Louisiana Monroe,Sun Belt,interceptionYards,167
+2019,Baylor,Big 12,thirdDowns,180
+2019,UCLA,Pac-12,kickReturnYards,416
+2019,Vanderbilt,SEC,interceptionYards,69
+2019,Charlotte,Conference USA,kickReturnYards,380
+2019,Miami (OH),Mid-American,fourthDownConversions,6
+2019,Oklahoma,Big 12,rushingAttempts,565
+2019,Stanford,Pac-12,totalYards,4408
+2019,Oregon State,Pac-12,puntReturnYards,72
+2019,Troy,Sun Belt,passesIntercepted,11
+2019,Texas A&M,SEC,penaltyYards,719
+2019,South Alabama,Sun Belt,tacklesForLoss,88
+2019,Nevada,Mountain West,kickReturns,36
+2019,Iowa,Big Ten,kickReturnYards,531
+2019,UMass,FBS Independents,netPassingYards,2022
+2019,Arkansas State,Sun Belt,rushingYards,1654
+2019,Ohio,Mid-American,penalties,70
+2019,South Carolina,SEC,puntReturnTDs,0
+2019,Arkansas,SEC,fourthDownConversions,8
+2019,Georgia State,Sun Belt,rushingTDs,30
+2019,Purdue,Big Ten,passAttempts,520
+2019,Clemson,ACC,kickReturns,23
+2019,Florida Atlantic,Conference USA,passAttempts,502
+2019,Louisiana Tech,Conference USA,fumblesLost,9
+2019,New Mexico,Mountain West,kickReturnYards,627
+2019,Arkansas,SEC,puntReturnYards,160
+2019,NC State,ACC,passingTDs,14
+2019,Kent State,Mid-American,passingTDs,24
+2019,Northern Illinois,Mid-American,passesIntercepted,4
+2019,Utah,Pac-12,netPassingYards,3187
+2019,Kansas,Big 12,netPassingYards,2775
+2019,UMass,FBS Independents,possessionTime,18772
+2019,Maryland,Big Ten,interceptionYards,94
+2019,TCU,Big 12,games,12
+2019,Texas State,Sun Belt,kickReturns,41
+2019,Boston College,ACC,interceptionYards,61
+2019,Akron,Mid-American,rushingYards,562
+2019,UAB,Conference USA,passingTDs,20
+2019,Missouri,SEC,games,12
+2019,Vanderbilt,SEC,kickReturnTDs,0
+2019,Louisville,ACC,interceptionTDs,0
+2019,Utah,Pac-12,kickReturnYards,176
+2019,Toledo,Mid-American,kickReturnTDs,0
+2019,New Mexico,Mountain West,sacks,31
+2019,Louisville,ACC,passCompletions,178
+2019,Georgia Tech,ACC,fumblesRecovered,13
+2019,Pittsburgh,ACC,rushingAttempts,441
+2019,East Carolina,American Athletic,interceptionTDs,0
+2019,Virginia,ACC,fourthDowns,16
+2019,Charlotte,Conference USA,totalYards,5354
+2019,Toledo,Mid-American,kickReturnYards,957
+2019,West Virginia,Big 12,kickReturnTDs,1
+2019,Vanderbilt,SEC,firstDowns,190
+2019,Illinois,Big Ten,fourthDowns,14
+2019,Buffalo,Mid-American,thirdDowns,194
+2019,Stanford,Pac-12,fumblesLost,5
+2019,Florida,SEC,penaltyYards,618
+2019,UAB,Conference USA,kickReturnTDs,1
+2019,Utah State,Mountain West,kickReturnYards,749
+2019,Iowa State,Big 12,rushingYards,1729
+2019,Wyoming,Mountain West,passCompletions,120
+2019,Texas A&M,SEC,fourthDowns,11
+2019,Florida International,Conference USA,puntReturnYards,205
+2019,Oregon State,Pac-12,tacklesForLoss,105
+2019,Army,FBS Independents,fumblesLost,11
+2019,Florida International,Conference USA,puntReturns,13
+2019,South Carolina,SEC,thirdDowns,186
+2019,Air Force,Mountain West,rushingTDs,41
+2019,Washington State,Pac-12,passAttempts,710
+2019,UCLA,Pac-12,penalties,81
+2019,Ball State,Mid-American,rushingTDs,27
+2019,Army,FBS Independents,possessionTime,25472
+2019,Baylor,Big 12,interceptionYards,250
+2019,Appalachian State,Sun Belt,puntReturns,24
+2019,Georgia,SEC,rushingYards,2591
+2019,UMass,FBS Independents,puntReturnYards,113
+2019,Purdue,Big Ten,passingTDs,29
+2019,Buffalo,Mid-American,passingTDs,14
+2019,Arizona,Pac-12,passingTDs,23
+2019,Iowa,Big Ten,thirdDownConversions,78
+2019,Temple,American Athletic,totalYards,5096
+2019,Minnesota,Big Ten,totalYards,5616
+2019,East Carolina,American Athletic,sacks,32
+2019,Old Dominion,Conference USA,rushingTDs,16
+2019,Virginia,ACC,rushingAttempts,442
+2019,Michigan,Big Ten,thirdDownConversions,68
+2019,Memphis,American Athletic,fourthDownConversions,14
+2019,Temple,American Athletic,passCompletions,282
+2019,Florida Atlantic,Conference USA,fumblesLost,4
+2019,Kentucky,SEC,fumblesRecovered,16
+2019,Minnesota,Big Ten,kickReturnTDs,0
+2019,Appalachian State,Sun Belt,turnovers,9
+2019,UTEP,Conference USA,penaltyYards,738
+2019,Southern Mississippi,Conference USA,tacklesForLoss,111
+2019,Purdue,Big Ten,puntReturnTDs,0
+2019,Florida International,Conference USA,turnovers,14
+2019,Southern Mississippi,Conference USA,thirdDownConversions,68
+2019,Connecticut,American Athletic,turnovers,22
+2019,Arkansas State,Sun Belt,possessionTime,21572
+2019,Temple,American Athletic,passingTDs,25
+2019,Syracuse,ACC,passesIntercepted,13
+2019,East Carolina,American Athletic,kickReturnTDs,1
+2019,North Texas,Conference USA,rushingYards,1626
+2019,Troy,Sun Belt,rushingAttempts,402
+2019,UCLA,Pac-12,firstDowns,269
+2019,Akron,Mid-American,penaltyYards,628
+2019,LSU,SEC,fourthDowns,10
+2019,Louisiana Monroe,Sun Belt,rushingYards,2490
+2019,Ohio,Mid-American,kickReturnTDs,0
+2019,UNLV,Mountain West,kickReturnYards,454
+2019,Army,FBS Independents,kickReturnYards,285
+2019,Ole Miss,SEC,kickReturns,25
+2019,Southern Mississippi,Conference USA,passCompletions,291
+2019,Eastern Michigan,Mid-American,passesIntercepted,11
+2019,Utah,Pac-12,rushingAttempts,591
+2019,Arizona State,Pac-12,fumblesRecovered,25
+2019,Miami,ACC,passingTDs,27
+2019,Charlotte,Conference USA,penalties,68
+2019,Miami (OH),Mid-American,fumblesLost,8
+2019,Charlotte,Conference USA,tacklesForLoss,107
+2019,Arizona State,Pac-12,kickReturns,23
+2019,Texas,Big 12,penaltyYards,890
+2019,Iowa State,Big 12,possessionTime,23715
+2019,Eastern Michigan,Mid-American,interceptions,12
+2019,Washington,Pac-12,puntReturnTDs,1
+2019,Ohio,Mid-American,thirdDowns,168
+2019,Wake Forest,ACC,thirdDownConversions,108
+2019,Western Michigan,Mid-American,passCompletions,246
+2019,Louisiana,Sun Belt,rushingAttempts,574
+2019,Georgia,SEC,kickReturnYards,268
+2019,Arizona,Pac-12,fourthDowns,20
+2019,Western Michigan,Mid-American,puntReturns,15
+2019,California,Pac-12,rushingAttempts,475
+2019,North Carolina,ACC,thirdDownConversions,79
+2019,Air Force,Mountain West,rushingYards,3881
+2019,California,Pac-12,interceptionYards,65
+2019,Georgia Southern,Sun Belt,thirdDownConversions,51
+2019,San José State,Mountain West,puntReturnTDs,0
+2019,Connecticut,American Athletic,kickReturnYards,790
+2019,Georgia,SEC,rushingTDs,21
+2019,Auburn,SEC,kickReturnYards,451
+2019,Kansas State,Big 12,rushingAttempts,538
+2019,Arkansas State,Sun Belt,turnovers,22
+2019,UT San Antonio,Conference USA,thirdDownConversions,65
+2019,Memphis,American Athletic,netPassingYards,4177
+2019,Texas,Big 12,passesIntercepted,12
+2019,Texas A&M,SEC,fumblesRecovered,8
+2019,Florida Atlantic,Conference USA,interceptionTDs,0
+2019,Liberty,FBS Independents,fourthDowns,16
+2019,Michigan State,Big Ten,fumblesLost,9
+2019,East Carolina,American Athletic,rushingAttempts,449
+2019,West Virginia,Big 12,penaltyYards,586
+2019,Miami (OH),Mid-American,interceptions,10
+2019,Florida Atlantic,Conference USA,passCompletions,314
+2019,Arizona State,Pac-12,firstDowns,233
+2019,LSU,SEC,puntReturnYards,252
+2019,Nevada,Mountain West,firstDowns,250
+2019,Miami (OH),Mid-American,puntReturns,23
+2019,UAB,Conference USA,penalties,101
+2019,Virginia Tech,ACC,interceptions,8
+2019,Central Michigan,Mid-American,passesIntercepted,10
+2019,Southern Mississippi,Conference USA,interceptionTDs,1
+2019,UAB,Conference USA,interceptionYards,87
+2019,Indiana,Big Ten,kickReturns,37
+2019,LSU,SEC,kickReturnTDs,0
+2019,Appalachian State,Sun Belt,puntReturnTDs,1
+2019,California,Pac-12,thirdDownConversions,66
+2019,Toledo,Mid-American,interceptionTDs,0
+2019,Miami (OH),Mid-American,rushingTDs,22
+2019,Miami,ACC,kickReturns,25
+2019,Alabama,SEC,rushingAttempts,436
+2019,Cincinnati,American Athletic,possessionTime,26673
+2019,LSU,SEC,interceptionYards,87
+2019,Nebraska,Big Ten,rushingAttempts,544
+2019,Vanderbilt,SEC,fourthDowns,21
+2019,Pittsburgh,ACC,games,13
+2019,Louisville,ACC,netPassingYards,3048
+2019,Tennessee,SEC,turnovers,20
+2019,Arkansas State,Sun Belt,passesIntercepted,12
+2019,Georgia,SEC,kickReturnTDs,0
+2019,Michigan State,Big Ten,interceptions,15
+2019,Arizona,Pac-12,passesIntercepted,11
+2019,Boise State,Mountain West,puntReturnTDs,2
+2019,Baylor,Big 12,rushingAttempts,504
+2019,Charlotte,Conference USA,games,13
+2019,Bowling Green,Mid-American,penalties,84
+2019,UCF,American Athletic,kickReturns,22
+2019,Oregon,Pac-12,passesIntercepted,20
+2019,Nebraska,Big Ten,fumblesLost,11
+2019,Old Dominion,Conference USA,sacks,23
+2019,Marshall,Conference USA,passesIntercepted,10
+2019,Appalachian State,Sun Belt,fumblesRecovered,15
+2019,Old Dominion,Conference USA,kickReturnYards,700
+2019,Texas State,Sun Belt,firstDowns,203
+2019,Florida International,Conference USA,fumblesLost,8
+2019,Army,FBS Independents,sacks,21
+2019,Michigan,Big Ten,fourthDownConversions,12
+2019,Utah State,Mountain West,passesIntercepted,11
+2019,Pittsburgh,ACC,tacklesForLoss,124
+2019,Vanderbilt,SEC,kickReturnYards,423
+2019,Middle Tennessee,Conference USA,sacks,15
+2019,Navy,American Athletic,fourthDowns,34
+2019,Virginia,ACC,rushingYards,1697
+2019,Duke,ACC,penalties,63
+2019,Texas State,Sun Belt,thirdDownConversions,58
+2019,Vanderbilt,SEC,sacks,25
+2019,Marshall,Conference USA,tacklesForLoss,65
+2019,Utah,Pac-12,kickReturns,11
+2019,UTEP,Conference USA,interceptions,8
+2019,Connecticut,American Athletic,interceptionTDs,1
+2019,Duke,ACC,penaltyYards,544
+2019,Florida State,ACC,netPassingYards,3479
+2019,Army,FBS Independents,puntReturnYards,37
+2019,Kansas State,Big 12,thirdDowns,174
+2019,UMass,FBS Independents,thirdDowns,192
+2019,Stanford,Pac-12,interceptionTDs,0
+2019,Nevada,Mountain West,passingTDs,14
+2019,Rice,Conference USA,puntReturnTDs,0
+2019,South Florida,American Athletic,puntReturnYards,125
+2019,Wake Forest,ACC,rushingAttempts,586
+2019,Michigan State,Big Ten,kickReturnTDs,0
+2019,Louisville,ACC,fumblesLost,10
+2019,Pittsburgh,ACC,thirdDowns,211
+2019,North Carolina,ACC,kickReturnYards,518
+2019,Kansas State,Big 12,sacks,26
+2019,Syracuse,ACC,kickReturnTDs,0
+2019,Rutgers,Big Ten,rushingYards,1605
+2019,Coastal Carolina,Sun Belt,puntReturnYards,183
+2019,UCF,American Athletic,interceptionTDs,2
+2019,Florida,SEC,fumblesRecovered,13
+2019,Mississippi State,SEC,rushingYards,2868
+2019,Cincinnati,American Athletic,kickReturnTDs,0
+2019,Washington,Pac-12,possessionTime,23490
+2019,Missouri,SEC,passingTDs,17
+2019,Charlotte,Conference USA,fourthDownConversions,13
+2019,Charlotte,Conference USA,sacks,50
+2019,Syracuse,ACC,sacks,32
+2019,Charlotte,Conference USA,puntReturnTDs,1
+2019,East Carolina,American Athletic,fumblesRecovered,12
+2019,San Diego State,Mountain West,fourthDownConversions,13
+2019,Louisiana Tech,Conference USA,kickReturnTDs,1
+2019,Florida State,ACC,fumblesLost,8
+2019,Charlotte,Conference USA,turnovers,19
+2019,UTEP,Conference USA,thirdDowns,162
+2019,Alabama,SEC,netPassingYards,4449
+2019,Akron,Mid-American,puntReturns,12
+2019,Florida Atlantic,Conference USA,netPassingYards,3922
+2019,Florida State,ACC,interceptionYards,94
+2019,South Florida,American Athletic,kickReturnTDs,0
+2019,Ball State,Mid-American,rushingYards,2633
+2019,Ohio State,Big Ten,fourthDownConversions,8
+2019,Rice,Conference USA,fourthDownConversions,8
+2019,New Mexico,Mountain West,puntReturns,24
+2019,Connecticut,American Athletic,passingTDs,14
+2019,TCU,Big 12,passingTDs,15
+2019,SMU,American Athletic,rushingAttempts,534
+2019,Tennessee,SEC,thirdDowns,176
+2019,Missouri,SEC,passCompletions,226
+2019,California,Pac-12,possessionTime,22639
+2019,Oregon,Pac-12,firstDowns,319
+2019,UTEP,Conference USA,fumblesRecovered,8
+2019,Temple,American Athletic,puntReturnTDs,0
+2019,Nebraska,Big Ten,penaltyYards,518
+2019,Ball State,Mid-American,turnovers,16
+2019,UCF,American Athletic,interceptions,8
+2019,Illinois,Big Ten,rushingAttempts,484
+2019,Tulsa,American Athletic,games,12
+2019,Ball State,Mid-American,fumblesRecovered,16
+2019,TCU,Big 12,netPassingYards,2444
+2019,North Texas,Conference USA,games,12
+2019,Appalachian State,Sun Belt,rushingTDs,35
+2019,Washington,Pac-12,firstDowns,264
+2019,UCF,American Athletic,tacklesForLoss,142
+2019,Liberty,FBS Independents,passesIntercepted,12
+2019,Rutgers,Big Ten,thirdDowns,178
+2019,Purdue,Big Ten,puntReturns,12
+2019,Northern Illinois,Mid-American,puntReturnTDs,1
+2019,Indiana,Big Ten,thirdDowns,178
+2019,Rutgers,Big Ten,puntReturnYards,35
+2019,Missouri,SEC,thirdDowns,181
+2019,Penn State,Big Ten,turnovers,14
+2019,Liberty,FBS Independents,sacks,45
+2019,Middle Tennessee,Conference USA,rushingTDs,18
+2019,UCF,American Athletic,passesIntercepted,13
+2019,Air Force,Mountain West,puntReturnTDs,0
+2019,Liberty,FBS Independents,rushingYards,1956
+2019,Kentucky,SEC,passesIntercepted,8
+2019,Southern Mississippi,Conference USA,firstDowns,246
+2019,Missouri,SEC,kickReturnTDs,0
+2019,Ohio,Mid-American,possessionTime,24780
+2019,UT San Antonio,Conference USA,interceptionYards,91
+2019,UCLA,Pac-12,passingTDs,22
+2019,UNLV,Mountain West,penaltyYards,536
+2019,New Mexico State,FBS Independents,sacks,19
+2019,Louisville,ACC,kickReturnTDs,1
+2019,Stanford,Pac-12,fourthDowns,14
+2019,Michigan,Big Ten,penaltyYards,649
+2019,Michigan,Big Ten,rushingAttempts,495
+2019,Southern Mississippi,Conference USA,puntReturns,17
+2019,Oklahoma,Big 12,fourthDowns,12
+2019,Texas Tech,Big 12,passAttempts,531
+2019,South Alabama,Sun Belt,penaltyYards,541
+2019,Ohio State,Big Ten,rushingYards,3735
+2019,Nebraska,Big Ten,thirdDowns,187
+2019,Penn State,Big Ten,rushingAttempts,516
+2019,Oklahoma,Big 12,tacklesForLoss,139
+2019,Tulsa,American Athletic,sacks,17
+2019,TCU,Big 12,firstDowns,257
+2019,New Mexico,Mountain West,turnovers,26
+2019,Nevada,Mountain West,fourthDownConversions,14
+2019,Cincinnati,American Athletic,games,14
+2019,Southern Mississippi,Conference USA,kickReturnYards,779
+2019,Southern Mississippi,Conference USA,passingTDs,20
+2019,Fresno State,Mountain West,turnovers,18
+2019,Tulsa,American Athletic,puntReturnTDs,0
+2019,Nebraska,Big Ten,turnovers,20
+2019,Appalachian State,Sun Belt,firstDowns,294
+2019,Northwestern,Big Ten,passAttempts,311
+2019,Kentucky,SEC,fumblesLost,12
+2019,Houston,American Athletic,sacks,21
+2019,Kentucky,SEC,totalYards,5102
+2019,Middle Tennessee,Conference USA,penaltyYards,511
+2019,Penn State,Big Ten,fourthDownConversions,11
+2019,Wisconsin,Big Ten,puntReturnYards,259
+2019,UTEP,Conference USA,sacks,12
+2019,California,Pac-12,totalYards,4271
+2019,Arizona State,Pac-12,puntReturnYards,247
+2019,North Texas,Conference USA,puntReturnYards,160
+2019,USC,Pac-12,passAttempts,514
+2019,Stanford,Pac-12,passAttempts,442
+2019,Old Dominion,Conference USA,interceptions,12
+2019,Army,FBS Independents,interceptionYards,155
+2019,Coastal Carolina,Sun Belt,sacks,27
+2019,Cincinnati,American Athletic,passingTDs,19
+2019,North Texas,Conference USA,interceptions,12
+2019,Bowling Green,Mid-American,rushingAttempts,502
+2019,Ohio State,Big Ten,passAttempts,406
+2019,Vanderbilt,SEC,puntReturnYards,158
+2019,Eastern Michigan,Mid-American,thirdDowns,169
+2019,Memphis,American Athletic,rushingYards,2614
+2019,Utah State,Mountain West,fumblesLost,8
+2019,Clemson,ACC,interceptions,10
+2019,Vanderbilt,SEC,games,12
+2019,Hawai'i,Mountain West,possessionTime,28108
+2019,Hawai'i,Mountain West,fourthDowns,33
+2019,BYU,FBS Independents,kickReturns,23
+2019,Arizona,Pac-12,fourthDownConversions,13
+2019,Duke,ACC,thirdDowns,195
+2019,Iowa State,Big 12,thirdDownConversions,64
+2019,Texas Tech,Big 12,sacks,35
+2019,South Carolina,SEC,passingTDs,12
+2019,Fresno State,Mountain West,interceptions,11
+2019,UCLA,Pac-12,interceptionTDs,0
+2019,New Mexico,Mountain West,interceptionTDs,1
+2019,Southern Mississippi,Conference USA,penaltyYards,716
+2019,Army,FBS Independents,thirdDownConversions,76
+2019,Wisconsin,Big Ten,netPassingYards,2802
+2019,Kansas,Big 12,fourthDownConversions,7
+2019,Ohio,Mid-American,passCompletions,203
+2019,Baylor,Big 12,passAttempts,444
+2019,USC,Pac-12,thirdDownConversions,77
+2019,Northern Illinois,Mid-American,firstDowns,207
+2019,Louisville,ACC,turnovers,19
+2019,Western Michigan,Mid-American,passesIntercepted,13
+2019,Boston College,ACC,penalties,67
+2019,Eastern Michigan,Mid-American,passAttempts,465
+2019,Minnesota,Big Ten,games,13
+2019,South Carolina,SEC,passCompletions,268
+2019,Georgia Tech,ACC,interceptionTDs,0
+2019,Arizona State,Pac-12,thirdDowns,187
+2019,UNLV,Mountain West,fourthDowns,33
+2019,Arizona State,Pac-12,interceptionYards,113
+2019,TCU,Big 12,possessionTime,23704
+2019,Colorado,Pac-12,puntReturnTDs,0
+2019,Vanderbilt,SEC,netPassingYards,2064
+2019,Stanford,Pac-12,passCompletions,274
+2019,Penn State,Big Ten,passesIntercepted,10
+2019,Bowling Green,Mid-American,interceptions,15
+2019,Texas State,Sun Belt,penaltyYards,617
+2019,Wyoming,Mountain West,fourthDownConversions,6
+2019,Toledo,Mid-American,puntReturns,20
+2019,UTEP,Conference USA,games,12
+2019,Michigan State,Big Ten,passAttempts,464
+2019,Florida,SEC,tacklesForLoss,108
+2019,Fresno State,Mountain West,fumblesRecovered,19
+2019,Memphis,American Athletic,thirdDowns,194
+2019,Georgia,SEC,fumblesRecovered,9
+2019,Coastal Carolina,Sun Belt,interceptionYards,127
+2019,Western Kentucky,Conference USA,sacks,29
+2019,Boston College,ACC,fumblesLost,6
+2019,Ohio State,Big Ten,kickReturnYards,283
+2019,Northwestern,Big Ten,penaltyYards,582
+2019,Alabama,SEC,interceptions,6
+2019,SMU,American Athletic,fumblesRecovered,20
+2019,North Texas,Conference USA,puntReturnTDs,1
+2019,Virginia,ACC,passesIntercepted,12
+2019,Northern Illinois,Mid-American,penaltyYards,534
+2019,Western Kentucky,Conference USA,games,13
+2019,Florida International,Conference USA,rushingAttempts,487
+2019,UT San Antonio,Conference USA,thirdDowns,181
+2019,West Virginia,Big 12,fourthDownConversions,10
+2019,Alabama,SEC,passesIntercepted,17
+2019,Hawai'i,Mountain West,kickReturnYards,1092
+2019,Texas Tech,Big 12,passCompletions,342
+2019,UMass,FBS Independents,kickReturns,75
+2019,Arizona State,Pac-12,puntReturns,19
+2019,South Alabama,Sun Belt,puntReturnYards,41
+2019,Miami (OH),Mid-American,sacks,49
+2019,Memphis,American Athletic,passAttempts,441
+2019,Texas,Big 12,penalties,95
+2019,Ole Miss,SEC,games,12
+2019,Central Michigan,Mid-American,rushingAttempts,473
+2019,UAB,Conference USA,turnovers,28
+2019,Georgia,SEC,rushingAttempts,525
+2019,Pittsburgh,ACC,fumblesRecovered,8
+2019,Florida International,Conference USA,kickReturns,35
+2019,Georgia,SEC,turnovers,13
+2019,Rice,Conference USA,thirdDownConversions,66
+2019,Boise State,Mountain West,passCompletions,287
+2019,San Diego State,Mountain West,firstDowns,259
+2019,Oregon State,Pac-12,kickReturnYards,713
+2019,Nebraska,Big Ten,games,12
+2019,Mississippi State,SEC,netPassingYards,2333
+2019,Georgia State,Sun Belt,totalYards,5718
+2019,TCU,Big 12,fourthDowns,11
+2019,Florida State,ACC,fourthDowns,19
+2019,UMass,FBS Independents,fourthDownConversions,11
+2019,New Mexico,Mountain West,thirdDownConversions,62
+2019,Colorado,Pac-12,interceptionTDs,0
+2019,Cincinnati,American Athletic,thirdDownConversions,92
+2019,Fresno State,Mountain West,puntReturnTDs,0
+2019,Northwestern,Big Ten,rushingYards,2160
+2019,Tennessee,SEC,passesIntercepted,15
+2019,Western Kentucky,Conference USA,puntReturns,16
+2019,Miami,ACC,kickReturnYards,511
+2019,Texas,Big 12,kickReturnTDs,1
+2019,East Carolina,American Athletic,games,12
+2019,Indiana,Big Ten,thirdDownConversions,83
+2019,Texas State,Sun Belt,puntReturns,15
+2019,Oregon,Pac-12,kickReturnYards,762
+2019,Northern Illinois,Mid-American,kickReturnTDs,0
+2019,Miami,ACC,games,13
+2019,Oklahoma State,Big 12,rushingTDs,27
+2019,UCF,American Athletic,penaltyYards,959
+2019,Connecticut,American Athletic,passAttempts,382
+2019,Arkansas State,Sun Belt,puntReturnTDs,0
+2019,Western Michigan,Mid-American,rushingYards,2666
+2019,Oregon,Pac-12,thirdDownConversions,74
+2019,Texas A&M,SEC,interceptions,10
+2019,Tennessee,SEC,puntReturnYards,235
+2019,Florida Atlantic,Conference USA,interceptions,8
+2019,Colorado State,Mountain West,thirdDownConversions,67
+2019,Miami (OH),Mid-American,turnovers,18
+2019,Western Michigan,Mid-American,kickReturnTDs,0
+2019,Texas State,Sun Belt,passesIntercepted,7
+2019,Kansas State,Big 12,puntReturnTDs,1
+2019,Liberty,FBS Independents,puntReturnTDs,0
+2019,Mississippi State,SEC,fumblesRecovered,18
+2019,Iowa,Big Ten,kickReturns,23
+2019,Alabama,SEC,fumblesRecovered,17
+2019,Kentucky,SEC,firstDowns,252
+2019,NC State,ACC,passesIntercepted,4
+2019,Arizona,Pac-12,tacklesForLoss,79
+2019,Northern Illinois,Mid-American,tacklesForLoss,87
+2019,TCU,Big 12,rushingAttempts,510
+2019,Florida State,ACC,kickReturns,21
+2019,BYU,FBS Independents,rushingAttempts,465
+2019,Florida,SEC,puntReturnTDs,0
+2019,Texas A&M,SEC,penalties,87
+2019,Tulane,American Athletic,firstDowns,299
+2019,Boise State,Mountain West,firstDowns,316
+2019,Cincinnati,American Athletic,rushingYards,2937
+2019,Central Michigan,Mid-American,tacklesForLoss,137
+2019,Temple,American Athletic,games,13
+2019,Vanderbilt,SEC,penaltyYards,649
+2019,Tulane,American Athletic,fourthDowns,34
+2019,Western Kentucky,Conference USA,kickReturnTDs,0
+2019,Navy,American Athletic,penaltyYards,459
+2019,Western Michigan,Mid-American,totalYards,5794
+2019,Kentucky,SEC,puntReturnYards,143
+2019,San Diego State,Mountain West,possessionTime,26459
+2019,Memphis,American Athletic,games,14
+2019,UNLV,Mountain West,kickReturns,27
+2019,Indiana,Big Ten,netPassingYards,3931
+2019,Louisiana Monroe,Sun Belt,fourthDownConversions,16
+2019,Kansas State,Big 12,kickReturns,34
+2019,Miami,ACC,fourthDowns,25
+2019,Central Michigan,Mid-American,penalties,113
+2019,Texas A&M,SEC,sacks,36
+2019,BYU,FBS Independents,passCompletions,296
+2019,Kent State,Mid-American,interceptionTDs,0
+2019,Arkansas,SEC,kickReturns,42
+2019,Kentucky,SEC,thirdDownConversions,63
+2019,Stanford,Pac-12,rushingYards,1286
+2019,Kansas State,Big 12,fourthDownConversions,9
+2019,Old Dominion,Conference USA,firstDowns,203
+2019,Colorado,Pac-12,netPassingYards,2858
+2019,Tennessee,SEC,penaltyYards,683
+2019,Washington State,Pac-12,rushingAttempts,210
+2019,South Florida,American Athletic,fourthDowns,17
+2019,California,Pac-12,passCompletions,204
+2019,Connecticut,American Athletic,kickReturns,43
+2019,UCLA,Pac-12,fourthDownConversions,13
+2019,Houston,American Athletic,kickReturnYards,564
+2019,Arkansas State,Sun Belt,passAttempts,469
+2019,Kent State,Mid-American,passesIntercepted,7
+2019,Syracuse,ACC,interceptionYards,163
+2019,Virginia Tech,ACC,rushingTDs,22
+2019,UT San Antonio,Conference USA,netPassingYards,2189
+2019,Tulane,American Athletic,fourthDownConversions,20
+2019,San José State,Mountain West,passesIntercepted,16
+2019,Kent State,Mid-American,thirdDowns,196
+2019,Indiana,Big Ten,interceptionYards,159
+2019,Arizona,Pac-12,interceptionYards,129
+2019,Washington,Pac-12,kickReturns,21
+2019,Toledo,Mid-American,totalYards,5204
+2019,Arkansas State,Sun Belt,puntReturnYards,228
+2019,Navy,American Athletic,possessionTime,26104
+2019,Clemson,ACC,sacks,72
+2019,Texas State,Sun Belt,passCompletions,278
+2019,Miami (OH),Mid-American,penalties,80
+2019,Baylor,Big 12,penalties,89
+2019,Hawai'i,Mountain West,puntReturns,22
+2019,Texas A&M,SEC,thirdDowns,160
+2019,Florida International,Conference USA,passCompletions,223
+2019,Colorado State,Mountain West,interceptionYards,105
+2019,Kent State,Mid-American,fumblesRecovered,16
+2019,South Florida,American Athletic,rushingAttempts,445
+2019,Florida Atlantic,Conference USA,sacks,47
+2019,Illinois,Big Ten,firstDowns,223
+2019,Louisiana Tech,Conference USA,penaltyYards,611
+2019,UCF,American Athletic,thirdDownConversions,81
+2019,Air Force,Mountain West,interceptions,6
+2019,New Mexico,Mountain West,interceptions,15
+2019,Troy,Sun Belt,fourthDownConversions,13
+2019,Rutgers,Big Ten,fumblesRecovered,4
+2019,Pittsburgh,ACC,fumblesLost,12
+2019,Army,FBS Independents,tacklesForLoss,73
+2019,Ohio,Mid-American,rushingTDs,36
+2019,Oklahoma State,Big 12,netPassingYards,2916
+2019,BYU,FBS Independents,thirdDowns,186
+2019,Kansas,Big 12,fumblesLost,6
+2019,Purdue,Big Ten,sacks,34
+2019,Arizona State,Pac-12,penaltyYards,818
+2019,Mississippi State,SEC,fourthDowns,18
+2019,West Virginia,Big 12,kickReturnYards,656
+2019,Miami (OH),Mid-American,totalYards,4328
+2019,Appalachian State,Sun Belt,passesIntercepted,14
+2019,Baylor,Big 12,puntReturnTDs,1
+2019,San Diego State,Mountain West,kickReturns,23
+2019,Hawai'i,Mountain West,fumblesLost,13
+2019,Marshall,Conference USA,fourthDownConversions,6
+2019,Iowa State,Big 12,puntReturnTDs,0
+2019,Buffalo,Mid-American,passAttempts,278
+2019,Florida,SEC,puntReturnYards,68
+2019,Boise State,Mountain West,thirdDownConversions,93
+2019,Michigan State,Big Ten,tacklesForLoss,127
+2019,Nevada,Mountain West,interceptionTDs,1
+2019,Western Kentucky,Conference USA,rushingTDs,18
+2019,Virginia,ACC,passCompletions,337
+2019,Minnesota,Big Ten,puntReturnYards,37
+2019,Notre Dame,FBS Independents,passingTDs,37
+2019,Buffalo,Mid-American,rushingAttempts,659
+2019,Wyoming,Mountain West,kickReturnYards,305
+2019,LSU,SEC,games,15
+2019,Texas A&M,SEC,rushingYards,2069
+2019,Arkansas,SEC,totalYards,4081
+2019,Colorado,Pac-12,kickReturnYards,480
+2019,Wisconsin,Big Ten,puntReturns,32
+2019,Eastern Michigan,Mid-American,fourthDowns,25
+2019,Texas State,Sun Belt,totalYards,3814
+2019,UCF,American Athletic,rushingYards,2909
+2019,South Alabama,Sun Belt,kickReturnYards,712
+2019,Michigan State,Big Ten,interceptionTDs,1
+2019,USC,Pac-12,fourthDownConversions,6
+2019,Texas A&M,SEC,puntReturnTDs,0
+2019,Arkansas,SEC,thirdDowns,166
+2019,Louisiana Tech,Conference USA,passesIntercepted,17
+2019,Northern Illinois,Mid-American,kickReturnYards,133
+2019,Toledo,Mid-American,kickReturns,46
+2019,Notre Dame,FBS Independents,games,13
+2019,Texas,Big 12,rushingYards,2295
+2019,South Carolina,SEC,fourthDowns,27
+2019,Virginia Tech,ACC,rushingAttempts,565
+2019,Nevada,Mountain West,kickReturnYards,645
+2019,Florida State,ACC,kickReturnYards,483
+2019,Tennessee,SEC,rushingAttempts,462
+2019,Kent State,Mid-American,tacklesForLoss,95
+2019,Oregon State,Pac-12,interceptionTDs,1
+2019,Illinois,Big Ten,rushingYards,1845
+2019,Kansas State,Big 12,interceptionYards,128
+2019,Washington,Pac-12,interceptions,8
+2019,Florida Atlantic,Conference USA,thirdDownConversions,80
+2019,Baylor,Big 12,fourthDownConversions,6
+2019,Coastal Carolina,Sun Belt,totalYards,4725
+2019,Virginia Tech,ACC,kickReturnTDs,0
+2019,Louisiana Monroe,Sun Belt,rushingTDs,29
+2019,Wake Forest,ACC,sacks,36
+2019,Auburn,SEC,rushingYards,2591
+2019,Texas State,Sun Belt,kickReturnTDs,0
+2019,Ohio,Mid-American,interceptionYards,23
+2019,Boston College,ACC,kickReturnTDs,0
+2019,Arkansas State,Sun Belt,fumblesRecovered,10
+2019,Utah,Pac-12,sacks,40
+2019,Purdue,Big Ten,interceptions,15
+2019,Northwestern,Big Ten,thirdDowns,193
+2019,Clemson,ACC,thirdDownConversions,80
+2019,UNLV,Mountain West,passesIntercepted,9
+2019,New Mexico State,FBS Independents,fourthDownConversions,16
+2019,Ole Miss,SEC,netPassingYards,2328
+2019,Northern Illinois,Mid-American,kickReturns,19
+2019,Miami (OH),Mid-American,passCompletions,183
+2019,Maryland,Big Ten,firstDowns,201
+2019,Florida State,ACC,passAttempts,432
+2019,Florida,SEC,kickReturnTDs,0
+2019,Liberty,FBS Independents,firstDowns,289
+2019,LSU,SEC,thirdDowns,183
+2019,Florida International,Conference USA,interceptionTDs,1
+2019,Hawai'i,Mountain West,kickReturns,52
+2019,NC State,ACC,rushingTDs,14
+2019,Texas A&M,SEC,kickReturnYards,431
+2019,Arkansas,SEC,thirdDownConversions,55
+2019,Boise State,Mountain West,passesIntercepted,9
+2019,UT San Antonio,Conference USA,kickReturnTDs,0
+2019,North Carolina,ACC,fourthDowns,23
+2019,Kentucky,SEC,rushingYards,3624
+2019,Duke,ACC,fumblesRecovered,15
+2019,Syracuse,ACC,rushingYards,1848
+2019,Appalachian State,Sun Belt,passingTDs,30
+2019,Washington,Pac-12,fumblesLost,6
+2019,Connecticut,American Athletic,penalties,74
+2019,Utah State,Mountain West,kickReturnTDs,2
+2019,Michigan,Big Ten,fumblesLost,11
+2019,Texas,Big 12,possessionTime,24006
+2019,Memphis,American Athletic,tacklesForLoss,100
+2019,Mississippi State,SEC,fumblesLost,13
+2019,Washington,Pac-12,games,13
+2019,Troy,Sun Belt,netPassingYards,3758
+2019,Appalachian State,Sun Belt,fourthDownConversions,14
+2019,Kansas,Big 12,penalties,66
+2019,Michigan State,Big Ten,puntReturns,27
+2019,Maryland,Big Ten,turnovers,21
+2019,Texas A&M,SEC,firstDowns,287
+2019,Central Michigan,Mid-American,totalYards,5461
+2019,Virginia Tech,ACC,passAttempts,317
+2019,USC,Pac-12,netPassingYards,4365
+2019,Colorado,Pac-12,puntReturns,10
+2019,Texas,Big 12,turnovers,14
+2019,Oklahoma State,Big 12,penalties,67
+2019,Missouri,SEC,rushingYards,1820
+2019,Oregon State,Pac-12,sacks,50
+2019,Houston,American Athletic,possessionTime,22289
+2019,Eastern Michigan,Mid-American,puntReturnTDs,1
+2019,Alabama,SEC,penalties,95
+2019,California,Pac-12,kickReturns,29
+2019,UT San Antonio,Conference USA,tacklesForLoss,117
+2019,Rice,Conference USA,passAttempts,320
+2019,California,Pac-12,penaltyYards,544
+2019,Colorado,Pac-12,rushingYards,1804
+2019,Georgia Southern,Sun Belt,games,13
+2019,Ohio,Mid-American,puntReturnTDs,0
+2019,Arizona,Pac-12,passAttempts,422
+2019,Washington State,Pac-12,possessionTime,23144
+2019,Louisiana,Sun Belt,possessionTime,25549
+2019,Toledo,Mid-American,penalties,67
+2019,Stanford,Pac-12,puntReturnTDs,1
+2019,Boston College,ACC,totalYards,5579
+2019,Coastal Carolina,Sun Belt,turnovers,17
+2019,South Florida,American Athletic,thirdDownConversions,70
+2019,New Mexico State,FBS Independents,kickReturnYards,378
+2019,Wake Forest,ACC,passingTDs,31
+2019,Louisville,ACC,fumblesRecovered,15
+2019,Ole Miss,SEC,thirdDownConversions,67
+2019,Boise State,Mountain West,penalties,75
+2019,Georgia Southern,Sun Belt,firstDowns,224
+2019,San José State,Mountain West,interceptionYards,116
+2019,Texas Tech,Big 12,thirdDownConversions,68
+2019,Texas State,Sun Belt,netPassingYards,2893
+2019,West Virginia,Big 12,interceptionYards,102
+2019,Army,FBS Independents,penaltyYards,496
+2019,Central Michigan,Mid-American,passCompletions,272
+2019,Georgia Tech,ACC,sacks,20
+2019,UT San Antonio,Conference USA,interceptionTDs,2
+2019,Old Dominion,Conference USA,turnovers,19
+2019,Air Force,Mountain West,passingTDs,14
+2019,Texas State,Sun Belt,passAttempts,441
+2019,New Mexico,Mountain West,rushingAttempts,501
+2019,Akron,Mid-American,fumblesRecovered,9
+2019,Northern Illinois,Mid-American,puntReturnYards,83
+2019,California,Pac-12,thirdDowns,175
+2019,Boise State,Mountain West,turnovers,19
+2019,Miami (OH),Mid-American,kickReturnYards,881
+2019,LSU,SEC,tacklesForLoss,118
+2019,Miami,ACC,fourthDownConversions,13
+2019,Cincinnati,American Athletic,sacks,43
+2019,North Carolina,ACC,sacks,38
+2019,Georgia State,Sun Belt,fumblesLost,7
+2019,Houston,American Athletic,totalYards,4698
+2019,Notre Dame,FBS Independents,passesIntercepted,9
+2019,Florida State,ACC,thirdDownConversions,68
+2019,Southern Mississippi,Conference USA,games,13
+2019,South Alabama,Sun Belt,netPassingYards,1906
+2019,Kansas State,Big 12,puntReturnYards,163
+2019,Wisconsin,Big Ten,rushingTDs,38
+2019,Notre Dame,FBS Independents,interceptionTDs,1
+2019,South Florida,American Athletic,netPassingYards,2035
+2019,Middle Tennessee,Conference USA,puntReturns,4
+2019,Navy,American Athletic,rushingYards,4687
+2019,Texas A&M,SEC,fourthDownConversions,7
+2019,Western Kentucky,Conference USA,fourthDowns,25
+2019,Michigan State,Big Ten,firstDowns,274
+2019,Bowling Green,Mid-American,interceptionTDs,0
+2019,New Mexico,Mountain West,games,12
+2019,Missouri,SEC,interceptionYards,266
+2019,Nevada,Mountain West,interceptions,13
+2019,Northern Illinois,Mid-American,fumblesRecovered,13
+2019,Notre Dame,FBS Independents,fourthDownConversions,17
+2019,North Texas,Conference USA,interceptionYards,39
+2019,Minnesota,Big Ten,rushingTDs,25
+2019,Indiana,Big Ten,sacks,38
+2019,Charlotte,Conference USA,rushingYards,2605
+2019,Georgia Tech,ACC,kickReturns,36
+2019,Stanford,Pac-12,possessionTime,23174
+2019,Houston,American Athletic,interceptionTDs,1
+2019,Akron,Mid-American,interceptionYards,120
+2019,North Texas,Conference USA,kickReturns,51
+2019,California,Pac-12,penalties,62
+2019,Louisiana Monroe,Sun Belt,firstDowns,272
+2019,Pittsburgh,ACC,turnovers,22
+2019,Kent State,Mid-American,kickReturns,52
+2019,Arizona State,Pac-12,rushingAttempts,459
+2019,Arkansas,SEC,passesIntercepted,6
+2019,Georgia Southern,Sun Belt,interceptions,1
+2019,Toledo,Mid-American,passCompletions,193
+2019,Alabama,SEC,turnovers,10
+2019,Marshall,Conference USA,passingTDs,16
+2019,Navy,American Athletic,thirdDownConversions,80
+2019,Ohio State,Big Ten,puntReturnTDs,0
+2019,Eastern Michigan,Mid-American,possessionTime,22260
+2019,Western Kentucky,Conference USA,kickReturns,36
+2019,Marshall,Conference USA,thirdDownConversions,69
+2019,Toledo,Mid-American,netPassingYards,2515
+2019,Mississippi State,SEC,interceptionTDs,2
+2019,TCU,Big 12,kickReturnTDs,0
+2019,Duke,ACC,puntReturnYards,231
+2019,New Mexico State,FBS Independents,rushingTDs,16
+2019,Kent State,Mid-American,passAttempts,355
+2019,Utah State,Mountain West,puntReturnYards,138
+2019,BYU,FBS Independents,fourthDowns,19
+2019,Vanderbilt,SEC,passesIntercepted,6
+2019,SMU,American Athletic,kickReturns,46
+2019,Central Michigan,Mid-American,thirdDowns,185
+2019,Tulsa,American Athletic,fumblesRecovered,18
+2019,North Texas,Conference USA,kickReturnYards,1141
+2019,West Virginia,Big 12,interceptions,15
+2019,Akron,Mid-American,fourthDownConversions,7
+2019,Clemson,ACC,rushingTDs,45
+2019,Kansas State,Big 12,passAttempts,302
+2019,Penn State,Big Ten,kickReturns,31
+2019,Clemson,ACC,passingTDs,40
+2019,Kansas State,Big 12,firstDowns,254
+2019,Washington State,Pac-12,firstDowns,335
+2019,Northwestern,Big Ten,passesIntercepted,7
+2019,Wyoming,Mountain West,firstDowns,230
+2019,Virginia Tech,ACC,thirdDownConversions,69
+2019,Oklahoma State,Big 12,kickReturnTDs,0
+2019,North Texas,Conference USA,penalties,64
+2019,Florida State,ACC,interceptions,13
+2019,Clemson,ACC,puntReturnYards,185
+2019,Georgia,SEC,interceptionTDs,0
+2019,Maryland,Big Ten,puntReturns,9
+2019,New Mexico State,FBS Independents,passingTDs,15
+2019,San Diego State,Mountain West,penaltyYards,655
+2019,UAB,Conference USA,kickReturnYards,534
+2019,Oregon,Pac-12,kickReturnTDs,2
+2019,Oklahoma,Big 12,kickReturnTDs,0
+2019,Kansas State,Big 12,tacklesForLoss,70
+2019,Arkansas State,Sun Belt,penaltyYards,878
+2019,Wyoming,Mountain West,penalties,67
+2019,Ole Miss,SEC,kickReturnTDs,1
+2019,Utah State,Mountain West,puntReturnTDs,1
+2019,Florida State,ACC,puntReturnTDs,0
+2019,Navy,American Athletic,rushingTDs,52
+2019,Tulsa,American Athletic,puntReturns,14
+2019,Old Dominion,Conference USA,passAttempts,379
+2019,Texas,Big 12,games,13
+2019,Arizona State,Pac-12,netPassingYards,3235
+2019,Boise State,Mountain West,penaltyYards,680
+2019,USC,Pac-12,interceptions,15
+2019,Missouri,SEC,rushingTDs,14
+2019,Louisville,ACC,fourthDowns,22
+2019,Kansas,Big 12,passAttempts,389
+2019,Northwestern,Big Ten,puntReturns,21
+2019,Purdue,Big Ten,thirdDownConversions,73
+2019,North Carolina,ACC,passingTDs,39
+2019,West Virginia,Big 12,passesIntercepted,8
+2019,Louisiana Monroe,Sun Belt,games,12
+2019,Louisiana Monroe,Sun Belt,turnovers,18
+2019,Ohio,Mid-American,passingTDs,21
+2019,Penn State,Big Ten,kickReturnYards,549
+2019,Kentucky,SEC,fourthDowns,27
+2019,Arizona State,Pac-12,possessionTime,22795
+2019,Ohio State,Big Ten,possessionTime,26854
+2019,SMU,American Athletic,firstDowns,322
+2019,Tulsa,American Athletic,possessionTime,22070
+2019,Navy,American Athletic,thirdDowns,170
+2019,Rutgers,Big Ten,rushingAttempts,457
+2019,Louisville,ACC,fourthDownConversions,13
+2019,SMU,American Athletic,kickReturnTDs,2
+2019,Air Force,Mountain West,penaltyYards,368
+2019,North Carolina,ACC,fourthDownConversions,15
+2019,Air Force,Mountain West,fumblesRecovered,14
+2019,Kentucky,SEC,interceptionTDs,0
+2019,Hawai'i,Mountain West,firstDowns,368
+2019,UCLA,Pac-12,puntReturnTDs,1
+2019,Washington,Pac-12,penalties,79
+2019,Middle Tennessee,Conference USA,thirdDownConversions,52
+2019,Texas,Big 12,passingTDs,32
+2019,Ole Miss,SEC,penalties,59
+2019,New Mexico State,FBS Independents,passCompletions,278
+2019,Appalachian State,Sun Belt,interceptionTDs,4
+2019,Colorado State,Mountain West,fourthDowns,21
+2019,Texas Tech,Big 12,penaltyYards,695
+2019,Maryland,Big Ten,thirdDowns,169
+2019,Georgia Southern,Sun Belt,possessionTime,25414
+2019,Tennessee,SEC,puntReturns,17
+2019,Virginia,ACC,fumblesLost,6
+2019,San José State,Mountain West,totalYards,5129
+2019,Nevada,Mountain West,fumblesLost,11
+2019,Oregon,Pac-12,tacklesForLoss,110
+2019,Western Kentucky,Conference USA,totalYards,5041
+2019,Liberty,FBS Independents,possessionTime,21746
+2019,Florida Atlantic,Conference USA,turnovers,12
+2019,SMU,American Athletic,thirdDownConversions,94
+2019,Arkansas,SEC,netPassingYards,2315
+2019,Auburn,SEC,turnovers,17
+2019,Iowa,Big Ten,fumblesRecovered,11
+2019,Western Kentucky,Conference USA,passCompletions,313
+2019,Liberty,FBS Independents,fumblesRecovered,10
+2019,Oregon State,Pac-12,totalYards,4942
+2019,TCU,Big 12,thirdDownConversions,94
+2019,Louisiana Tech,Conference USA,penalties,72
+2019,Northwestern,Big Ten,games,12
+2019,San José State,Mountain West,sacks,29
+2019,Florida,SEC,interceptions,10
+2019,Clemson,ACC,fourthDownConversions,6
+2019,Florida State,ACC,penalties,119
+2019,Army,FBS Independents,turnovers,18
+2019,Ohio State,Big Ten,tacklesForLoss,135
+2019,Baylor,Big 12,interceptionTDs,0
+2019,Georgia Southern,Sun Belt,kickReturnYards,398
+2019,California,Pac-12,games,13
+2019,Central Michigan,Mid-American,fourthDownConversions,17
+2019,Colorado,Pac-12,kickReturns,25
+2019,Maryland,Big Ten,passCompletions,172
+2019,Southern Mississippi,Conference USA,possessionTime,24465
+2019,Stanford,Pac-12,thirdDowns,166
+2019,Mississippi State,SEC,passCompletions,186
+2019,Ohio State,Big Ten,penaltyYards,770
+2019,Georgia Southern,Sun Belt,fourthDownConversions,6
+2019,Georgia,SEC,possessionTime,27109
+2019,Ohio,Mid-American,netPassingYards,2866
+2019,Louisiana Tech,Conference USA,thirdDowns,175
+2019,Miami,ACC,passCompletions,255
+2019,Auburn,SEC,thirdDownConversions,76
+2019,Purdue,Big Ten,passesIntercepted,9
+2019,Connecticut,American Athletic,netPassingYards,2592
+2019,Western Michigan,Mid-American,rushingAttempts,503
+2019,UCLA,Pac-12,netPassingYards,3066
+2019,UNLV,Mountain West,thirdDowns,169
+2019,Pittsburgh,ACC,interceptionYards,132
+2019,Miami (OH),Mid-American,rushingYards,1833
+2019,Wake Forest,ACC,kickReturns,26
+2019,Wisconsin,Big Ten,passingTDs,18
+2019,Bowling Green,Mid-American,possessionTime,21114
+2019,Kansas,Big 12,firstDowns,221
+2019,Buffalo,Mid-American,puntReturnYards,94
+2019,Boise State,Mountain West,netPassingYards,3664
+2019,Toledo,Mid-American,turnovers,19
+2019,Hawai'i,Mountain West,puntReturnTDs,1
+2019,UMass,FBS Independents,turnovers,20
+2019,Iowa State,Big 12,passesIntercepted,6
+2019,New Mexico State,FBS Independents,interceptions,15
+2019,Florida State,ACC,interceptionTDs,1
+2019,Ohio State,Big Ten,firstDowns,393
+2019,Utah,Pac-12,kickReturnTDs,0
+2019,Georgia State,Sun Belt,kickReturnTDs,0
+2019,Utah,Pac-12,passingTDs,20
+2019,Northern Illinois,Mid-American,sacks,21
+2019,Texas State,Sun Belt,rushingAttempts,327
+2019,UTEP,Conference USA,fumblesLost,6
+2019,Georgia State,Sun Belt,passesIntercepted,9
+2019,Akron,Mid-American,tacklesForLoss,64
+2019,Ohio State,Big Ten,kickReturnTDs,0
+2019,Arkansas State,Sun Belt,passingTDs,37
+2019,Charlotte,Conference USA,interceptions,14
+2019,Arkansas State,Sun Belt,kickReturns,50
+2019,Kansas,Big 12,puntReturns,9
+2019,Maryland,Big Ten,rushingAttempts,425
+2019,UAB,Conference USA,fourthDowns,20
+2019,Akron,Mid-American,passCompletions,204
+2019,Georgia Tech,ACC,passAttempts,269
+2019,Kansas,Big 12,tacklesForLoss,90
+2019,Auburn,SEC,tacklesForLoss,111
+2019,Kentucky,SEC,rushingTDs,36
+2019,New Mexico State,FBS Independents,kickReturns,31
+2019,Troy,Sun Belt,puntReturns,11
+2019,Wisconsin,Big Ten,firstDowns,320
+2019,South Carolina,SEC,totalYards,4463
+2019,Appalachian State,Sun Belt,kickReturnTDs,1
+2019,Colorado,Pac-12,interceptions,11
+2019,Georgia Tech,ACC,possessionTime,19230
+2019,Buffalo,Mid-American,rushingYards,3256
+2019,SMU,American Athletic,interceptions,11
+2019,Boston College,ACC,firstDowns,277
+2019,Houston,American Athletic,fourthDownConversions,12
+2019,Florida International,Conference USA,fourthDowns,24
+2019,Wake Forest,ACC,thirdDowns,230
+2019,Washington,Pac-12,totalYards,5086
+2019,Michigan,Big Ten,puntReturnTDs,0
+2019,West Virginia,Big 12,possessionTime,20418
+2019,Old Dominion,Conference USA,thirdDowns,183
+2019,UCF,American Athletic,thirdDowns,201
+2019,Northwestern,Big Ten,sacks,30
+2019,Louisiana Monroe,Sun Belt,passAttempts,411
+2019,Memphis,American Athletic,thirdDownConversions,89
+2019,Vanderbilt,SEC,puntReturns,17
+2019,Cincinnati,American Athletic,tacklesForLoss,116
+2019,Texas Tech,Big 12,rushingTDs,20
+2019,Oklahoma,Big 12,games,14
+2019,Washington State,Pac-12,interceptionYards,126
+2019,New Mexico State,FBS Independents,puntReturnTDs,1
+2019,Texas Tech,Big 12,possessionTime,20323
+2019,Appalachian State,Sun Belt,passCompletions,230
+2019,Old Dominion,Conference USA,tacklesForLoss,93
+2019,San José State,Mountain West,passAttempts,497
+2019,Washington,Pac-12,tacklesForLoss,89
+2019,Alabama,SEC,interceptionTDs,2
+2019,New Mexico,Mountain West,fourthDowns,16
+2019,UMass,FBS Independents,rushingAttempts,429
+2019,San Diego State,Mountain West,rushingAttempts,536
+2019,UTEP,Conference USA,passCompletions,177
+2019,Hawai'i,Mountain West,rushingTDs,21
+2019,Mississippi State,SEC,rushingTDs,27
+2019,Mississippi State,SEC,fourthDownConversions,7
+2019,Kentucky,SEC,penalties,75
+2019,Kansas State,Big 12,rushingTDs,29
+2019,Oregon State,Pac-12,possessionTime,20499
+2019,Arizona State,Pac-12,penalties,85
+2019,Connecticut,American Athletic,kickReturnTDs,0
+2019,Troy,Sun Belt,puntReturnYards,16
+2019,Boston College,ACC,interceptions,6
+2019,Navy,American Athletic,puntReturns,19
+2019,Georgia Southern,Sun Belt,interceptionTDs,2
+2019,Wyoming,Mountain West,rushingTDs,27
+2019,Arkansas State,Sun Belt,thirdDownConversions,78
+2019,Georgia Southern,Sun Belt,puntReturnTDs,1
+2019,Cincinnati,American Athletic,totalYards,5489
+2019,Ohio,Mid-American,fourthDowns,9
+2019,Ole Miss,SEC,totalYards,5340
+2019,UCF,American Athletic,rushingTDs,34
+2019,Michigan,Big Ten,games,13
+2019,Maryland,Big Ten,fourthDowns,26
+2019,Florida International,Conference USA,passesIntercepted,12
+2019,Air Force,Mountain West,interceptionYards,240
+2019,Memphis,American Athletic,puntReturns,26
+2019,Fresno State,Mountain West,firstDowns,232
+2019,South Florida,American Athletic,fumblesLost,9
+2019,Baylor,Big 12,passCompletions,277
+2019,West Virginia,Big 12,rushingYards,879
+2019,Akron,Mid-American,passingTDs,12
+2019,Kentucky,SEC,interceptions,8
+2019,Washington State,Pac-12,interceptionTDs,0
+2019,Texas,Big 12,firstDowns,324
+2019,Oklahoma State,Big 12,puntReturns,20
+2019,Louisiana,Sun Belt,puntReturnTDs,0
+2019,NC State,ACC,thirdDownConversions,64
+2019,UMass,FBS Independents,games,12
+2019,Indiana,Big Ten,interceptions,9
+2019,UMass,FBS Independents,passesIntercepted,10
+2019,NC State,ACC,fumblesLost,11
+2019,UCLA,Pac-12,interceptionYards,76
+2019,Arkansas State,Sun Belt,rushingAttempts,456
+2019,UCLA,Pac-12,sacks,32
+2019,Missouri,SEC,turnovers,14
+2019,South Florida,American Athletic,interceptions,10
+2019,Purdue,Big Ten,penaltyYards,452
+2019,Ball State,Mid-American,passesIntercepted,15
+2019,Minnesota,Big Ten,rushingAttempts,560
+2019,Middle Tennessee,Conference USA,fourthDowns,17
+2019,Western Kentucky,Conference USA,puntReturnTDs,0
+2019,Florida International,Conference USA,thirdDowns,184
+2019,Syracuse,ACC,passingTDs,23
+2019,Appalachian State,Sun Belt,fourthDowns,16
+2019,Tennessee,SEC,passCompletions,200
+2019,TCU,Big 12,thirdDowns,201
+2019,UNLV,Mountain West,possessionTime,21614
+2019,Michigan State,Big Ten,fourthDownConversions,13
+2019,West Virginia,Big 12,games,12
+2019,Ohio State,Big Ten,rushingAttempts,663
+2019,Coastal Carolina,Sun Belt,thirdDowns,172
+2019,Michigan,Big Ten,kickReturnYards,665
+2019,Liberty,FBS Independents,passCompletions,257
+2019,Louisiana,Sun Belt,penalties,98
+2019,Virginia Tech,ACC,fourthDownConversions,9
+2019,Oklahoma,Big 12,penaltyYards,1038
+2019,Mississippi State,SEC,thirdDownConversions,58
+2019,Connecticut,American Athletic,games,12
+2019,Texas Tech,Big 12,interceptions,8
+2019,North Texas,Conference USA,firstDowns,252
+2019,Georgia State,Sun Belt,interceptionTDs,1
+2019,Texas,Big 12,interceptionTDs,0
+2019,Western Michigan,Mid-American,interceptions,8
+2019,Army,FBS Independents,rushingTDs,45
+2019,Wisconsin,Big Ten,interceptionYards,200
+2019,Washington,Pac-12,fourthDownConversions,23
+2019,Baylor,Big 12,fourthDowns,15
+2019,Wisconsin,Big Ten,thirdDowns,189
+2019,UNLV,Mountain West,sacks,18
+2019,Notre Dame,FBS Independents,fumblesLost,5
+2019,Oregon,Pac-12,sacks,57
+2019,Baylor,Big 12,kickReturns,24
+2019,USC,Pac-12,passesIntercepted,9
+2019,NC State,ACC,sacks,42
+2019,Temple,American Athletic,possessionTime,22807
+2019,Texas Tech,Big 12,fourthDownConversions,12
+2019,South Alabama,Sun Belt,passesIntercepted,9
+2019,Rice,Conference USA,fourthDowns,18
+2019,South Carolina,SEC,interceptionYards,102
+2019,SMU,American Athletic,interceptionTDs,1
+2019,Central Michigan,Mid-American,netPassingYards,3243
+2019,Penn State,Big Ten,rushingTDs,34
+2019,Eastern Michigan,Mid-American,thirdDownConversions,67
+2019,North Texas,Conference USA,netPassingYards,3400
+2019,Fresno State,Mountain West,kickReturnYards,625
+2019,Louisville,ACC,passesIntercepted,7
+2019,Akron,Mid-American,netPassingYards,2344
+2019,SMU,American Athletic,turnovers,16
+2019,Syracuse,ACC,kickReturns,35
+2019,Pittsburgh,ACC,netPassingYards,3402
+2019,Texas,Big 12,kickReturns,26
+2019,Houston,American Athletic,penalties,58
+2019,Virginia Tech,ACC,netPassingYards,2715
+2019,Arizona,Pac-12,kickReturnTDs,0
+2019,Oklahoma State,Big 12,possessionTime,22497
+2019,Buffalo,Mid-American,puntReturns,14
+2019,Old Dominion,Conference USA,interceptionTDs,0
+2019,Michigan,Big Ten,kickReturns,27
+2019,Western Kentucky,Conference USA,kickReturnYards,671
+2019,Tulane,American Athletic,puntReturns,17
+2019,Notre Dame,FBS Independents,firstDowns,272
+2019,Texas,Big 12,interceptions,10
+2019,Temple,American Athletic,fourthDowns,36
+2019,UTEP,Conference USA,rushingYards,1662
+2019,Eastern Michigan,Mid-American,puntReturnYards,180
+2019,Southern Mississippi,Conference USA,kickReturnTDs,3
+2019,Houston,American Athletic,fumblesLost,9
+2019,Oklahoma State,Big 12,kickReturns,34
+2019,UT San Antonio,Conference USA,puntReturnTDs,0
+2019,Colorado State,Mountain West,puntReturns,21
+2019,Purdue,Big Ten,tacklesForLoss,102
+2019,Western Michigan,Mid-American,rushingTDs,35
+2019,Fresno State,Mountain West,puntReturnYards,120
+2019,Miami,ACC,penalties,91
+2019,Utah State,Mountain West,turnovers,26
+2019,Texas A&M,SEC,puntReturns,26
+2019,Washington,Pac-12,rushingTDs,24
+2019,Arkansas,SEC,interceptionTDs,0
+2019,Ohio State,Big Ten,turnovers,16
+2019,Appalachian State,Sun Belt,passAttempts,369
+2019,Nevada,Mountain West,passesIntercepted,11
+2019,South Florida,American Athletic,fourthDownConversions,7
+2019,SMU,American Athletic,puntReturnTDs,0
+2019,Georgia Tech,ACC,netPassingYards,1607
+2019,Buffalo,Mid-American,kickReturnTDs,0
+2019,Louisville,ACC,kickReturns,35
+2019,Indiana,Big Ten,possessionTime,26311
+2019,Connecticut,American Athletic,tacklesForLoss,57
+2019,LSU,SEC,fumblesLost,5

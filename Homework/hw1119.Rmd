@@ -1,0 +1,34 @@
+```{r}
+library(tidyverse)
+cbb <- read_csv('cbblogs1521.csv')
+```
+
+```{r}
+cbb <- cbb %>% mutate(ScoreDiff = TeamScore - OpponentScore,
+                      ShootingDiff = TeamFGPCT - OpponentFGPCT,
+                      ReboundDiff = TeamTotalRebounds - OpponentTotalRebounds,
+                      TurnoverDiff = TeamTurnovers - OpponentTurnovers)
+```
+
+```{r}
+model1 <- lm(ScoreDiff ~ ShootingDiff + ReboundDiff + TurnoverDiff, data=cbb)
+summary(model1)
+```
+
+```{r}
+nebvswiu <- (-.0002628) + 90.84*0 + 0.649*(-20) - 1.312*(-7)
+
+nebvsshsu <- -.0002628 + 90.84*0.032 + 0.649*(-5) + -1.312*(-7)
+
+nebvscu <- -.0002628 + 90.84*(-.096) + 0.649*(-14) + -1.312*(-9)
+```
+
+```{r}
+library(Hmisc)
+simplecbb <- cbb %>% select_if(is.numeric) %>% select(-Game) %>% select(ScoreDiff, ShootingDiff, ReboundDiff, TurnoverDiff, everything())
+
+cormatrix <- rcorr(as.matrix(simplecbb))
+
+cormatrix$r
+```
+

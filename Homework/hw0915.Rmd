@@ -1,0 +1,23 @@
+```{r}
+library(tidyverse)
+footballlogs20 <- read_csv("footballlogs20.csv")
+```
+
+```{r}
+#created two datasets with our new variables
+cfbdata <- footballlogs20 %>% mutate(ScoreDiff = TeamScore - OpponentScore)
+cfbdata2 <- cfbdata %>% mutate(TurnoverDiff = DefTotalTurnovers - TotalTurnovers)
+```
+
+
+```{r}
+#determined the correlation between score and turnovers
+correlations <- cfbdata2 %>% summarise(correlation = cor(ScoreDiff, TurnoverDiff, method = "pearson"))
+```
+
+```{r}
+#ran a linear model to find the best fit of the data
+scoremodel <- lm(ScoreDiff ~ TurnoverDiff, data = cfbdata2)
+summary(scoremodel)
+```
+

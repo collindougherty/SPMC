@@ -1,0 +1,84 @@
+```{r}
+library(tidyverse)
+library(lubridate)
+logs <- read_csv("logs20.csv")
+```
+
+```{r}
+winlosslogs <- logs %>% mutate(winloss = case_when(
+  grepl("W", W_L) ~ 1, 
+  grepl("L", W_L) ~ 0)
+) 
+```
+
+```{r}
+dates <- winlosslogs %>% group_by(Date, Conference) %>% summarise(wins = sum(winloss))
+```
+
+```{r}
+ggplot() + geom_bar(data=dates, aes(x=Date, weight=wins, fill=Conference)) + theme_minimal()
+```
+
+```{r}
+ggplot() + geom_bar(data=dates, aes(x=Date, weight=wins, fill=Conference)) + theme_minimal() + coord_polar()
+```
+
+```{r}
+p5 <- c("SEC", "Big Ten", "Pac-12", "Big 12", "ACC")
+```
+
+```{r}
+wins <- winlosslogs %>% mutate(month = floor_date(Date, unit="months")) %>% group_by(month, Conference) %>% summarise(wins=sum(winloss)) %>% filter(Conference %in% p5) 
+```
+
+```{r}
+ggplot() + geom_bar(data=wins, aes(x=month, weight=wins, fill=Conference)) + theme_minimal() + coord_polar()
+```
+
+```{r}
+wins <- winlosslogs %>% mutate(week = floor_date(Date, unit="weeks")) %>% group_by(week, Conference) %>% summarise(wins=sum(winloss)) %>% filter(Conference %in% p5) 
+```
+
+```{r}
+ggplot() + geom_bar(data=wins, aes(x=week, weight=wins, fill=Conference)) + theme_minimal() + coord_polar()
+```
+
+
+
+
+
+
+
+
+```{r}
+oppwinlosslogs <- logs %>% mutate(winloss = case_when(
+  grepl("W", W_L) ~ 0, 
+  grepl("L", W_L) ~ 1)
+) %>% filter(Date < "2020-03-19")
+```
+
+```{r}
+oppwinlosslogs %>% group_by(Opponent) %>% summarise(games=n(), wins=sum(winloss)) %>% mutate(winpct = wins/games) -> opprecord
+```
+
+```{r}
+winlosslogs <- logs %>% mutate(winloss = case_when(
+  grepl("W", W_L) ~ 1, 
+  grepl("L", W_L) ~ 0)
+) %>% filter(Date < "2020-03-19")
+```
+
+```{r}
+winlosslogs %>% left_join(opprecord, by=("Opponent")) -> winswithopppct
+```
+
+```{r}
+p5 <- c("SEC", "Big Ten", "Pac-12", "Big 12", "ACC")
+winswithopppct %>% filter(winpct > .6) %>% mutate(week = floor_date(Date, unit="weeks")) %>% group_by(week, Conference) %>% summarise(wins=sum(winloss)) %>% filter(Conference %in% p5) -> qualitywins
+```
+
+```{r}
+ggplot() + geom_bar(data=qualitywins, aes(x=week, weight=wins, fill=Conference)) + theme_minimal() + coord_polar()
+```
+
+

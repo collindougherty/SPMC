@@ -1,0 +1,89 @@
+```{r}
+## comments on the models
+
+##training data
+## rmse	standard	12.1483271		
+## rsq	standard	0.1763315		
+## mae	standard	9.4974716	
+
+##test data
+##rmse	standard	12.1318810		
+##rsq	standard	0.1734152		
+##mae	standard	9.5191203	
+
+## the output between the training and test data is very comparable, so we can say that the model is stable
+
+## the model in the book had better success, with over double the predictive power in terms of r squared and less overall error
+```
+
+
+
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(zoo)
+library(hoopR)
+```
+
+```{r}
+teamgames <- load_mbb_team_box(seasons = 2015:2022) %>%
+  separate(field_goals_made_field_goals_attempted, into = c("field_goals_made","field_goals_attempted")) %>%
+  separate(three_point_field_goals_made_three_point_field_goals_attempted, into = c("three_point_field_goals_made","three_point_field_goals_attempted")) %>%
+  separate(free_throws_made_free_throws_attempted, into = c("free_throws_made","free_throws_attempted")) %>%
+  mutate_at(12:35, as.numeric)
+```
+
+```{r}
+teamstats <- teamgames %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    team_score = ((field_goals_made-three_point_field_goals_made) * 2) + (three_point_field_goals_made*3) + free_throws_made,
+    possessions = field_goals_attempted - offensive_rebounds + turnovers + (.475 * free_throws_attempted),
+    ppp = team_score/possessions,
+    true_shooting_percentage = (team_score / (2*(field_goals_attempted + (.44 * free_throws_attempted)))) * 100,
+    efg = ((field_goals_made - three_point_field_goals_made) + 0.5*(three_point_field_goals_made))/field_goals_attempted,
+    ftr = free_throws_made/field_goals_attempted
+  ) %>% ungroup()
+```
+
+
+```{r}
+teamstats <- teamstats %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    rolling_efg = rollmean(lag(efg, n=1), k=4, fill=efg),
+    rolling_ftr = rollmean(lag(ftr, n=1), k=4, fill=ftr)
+    ) %>% ungroup()
+```
+
+```{r}
+set.seed(69420)
+game_split <- initial_split(teamstats, prop = .8)
+game_split
+```
+
+```{r}
+game_train <- training(game_split)
+game_test <- testing(game_split)
+```
+
+```{r}
+lm_model <- linear_reg() %>%
+    set_engine("lm")
+fit_lm <- lm_model %>%
+  fit(team_score ~ rolling_efg + rolling_ftr, data = game_train)
+tidy(fit_lm, conf.int = TRUE)
+```
+
+```{r}
+trainresults <- game_train %>%
+    bind_cols(predict(fit_lm, game_train))
+metrics(trainresults, truth = team_score, estimate = .pred)
+```
+
+
+```{r}
+testresults <- game_test %>%
+    bind_cols(predict(fit_lm, game_test))
+metrics(testresults, truth = team_score, estimate = .pred)
+```

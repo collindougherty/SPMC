@@ -1,0 +1,42 @@
+```{r}
+#installing our packages and data
+install.packages("ggbeeswarm")
+install.packages("ggrepel")
+library(tidyverse)
+library(ggbeeswarm)
+library(ggrepel)
+logs <- read_csv("footballlogs21.csv")
+```
+
+```{r}
+# creating a new dataframe counting number of games and measuring rushing yards per game
+rpg <- logs %>% group_by(Team, Conference) %>%
+  summarise(RushTotal = sum(RushingYds),
+            GameTotal = sum(gamecounter)) %>%
+  mutate(RPG = RushTotal/GameTotal)
+```
+
+```{r}
+#geomswarm plot with conference on the y axis
+ggplot() + geom_beeswarm(data=rpg, groupOnX=FALSE, aes(x=RPG, y=Conference), color="grey")
+```
+
+```{r}
+#filtering out the teams that ran for over 250 ypg
+RPG250 <- rpg %>% filter(RPG>250)
+```
+
+```{r}
+# first plot, include the teams >250 ypg in red
+ggplot() + geom_beeswarm(data=rpg, groupOnX=FALSE, aes(x=RPG, y=Conference), color="grey") + geom_beeswarm(data=RPG250, groupOnX=FALSE, aes(x=RPG, y=Conference), color="red") +geom_text_repel(data=RPG250, aes(x=RPG, y=Conference, label=Team))
+```
+
+```{r}
+# second plot
+ggplot() + geom_quasirandom(data=rpg, groupOnX=FALSE, aes(x=RPG, y=Conference), color="grey") + geom_quasirandom(data=RPG250, groupOnX=FALSE, aes(x=RPG, y=Conference), color="red") +geom_text_repel(data=RPG250, aes(x=RPG, y=Conference, label=Team))
+```
+
+```{r}
+# third plot
+ggplot() + geom_jitter(data=rpg, aes(x=RPG, y=Conference), color="grey") + geom_jitter(data=RPG250, aes(x=RPG, y=Conference), color="red") +geom_text_repel(data=RPG250, aes(x=RPG, y=Conference, label=Team))
+```

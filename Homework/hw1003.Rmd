@@ -1,0 +1,41 @@
+```{r}
+#loading the tidyverse and our dataframe
+library(tidyverse)
+logs <- read_csv("logs21.csv")
+```
+
+```{r}
+#we first group the games by team
+B1G <- B1G %>% group_by(Team) %>% 
+  # then we create a variable that calculates the rebound differential
+  mutate(DiffRB = TeamTotalRebounds - OpponentTotalRebounds) %>%
+  # the following calculates the cumulative running total of rebound diff
+  mutate(CumDiffRB = cumsum(DiffRB)) %>%
+  # we narrow the data to big ten only
+  filter(Conference == "Big Ten")
+# we select nebraska out of the dataset and create a new dataframe for them
+nu <- B1G %>% filter(Team == "Nebraska")
+```
+
+```{r}
+#plotting nebraska on the stepwise chart in red
+ggplot() + geom_step(data=B1G, aes(x=Date, y=CumDiffRB, group = Team), color = "grey") + geom_step(data=nu, aes(x=Date, y=CumDiffRB), color = "red")
+```
+
+```{r}
+#we run some code to determine who had the best differential rebounding in the big ten
+B1G %>% group_by(Team) %>% 
+summarise(totaldiff = sum(DiffRB)) %>%
+arrange(desc(totaldiff))
+```
+
+```{r}
+#haaving determined the top result to be illinois, we create a new dataframe for them
+il <- B1G %>% filter(Team == "Illinois")
+```
+
+```{r}
+# plot a stepwise chart with illinois highlighted in orange and nebraska in red
+ggplot() + geom_step(data=B1G, aes(x=Date, y=CumDiffRB, group = Team), color = "grey") + geom_step(data=nu, aes(x=Date, y=CumDiffRB), color = "red") + geom_step(data = il, aes(x=Date, y=CumDiffRB), color = "orange")
+```
+

@@ -1,0 +1,227 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+# here is a vector of every team you want to project against
+teams <- c("Nebraska", "Minnesota", "Northwestern", "Ohio State")
+
+# initializing a new dataframe, empty for now
+sim_games <- data.frame(team = c(NA), opponent = c(NA))
+
+# team we want to simulate games for
+sim_team <- "Ohio State"
+for(i in teams){sim_games <- sim_games %>% add_row(team = sim_team, opponent = i)}
+sim_games <- sim_games %>% na.omit()
+```
+
+```{r}
+# here is a vector of every team you want to project against
+teams <- c("Nebraska", "Minnesota", "Northwestern", "Ohio State", "Rutgers", "Iowa", "Illinois", 
+           "Michigan State,", "Michigan", "Penn State", "Wisconsin", "Maryland", "Purdue", "Indiana")
+
+# initializing a new dataframe, empty for now
+sim_games <- data.frame(team = c(NA), opponent = c(NA))
+
+# a double for loop which iterates every possible combination of matchups and drops NA's and duplicates
+sim_teams <- c("Nebraska", "Minnesota", "Northwestern", "Ohio State", "Rutgers", "Iowa", "Illinois", 
+           "Michigan State,", "Michigan", "Penn State", "Wisconsin", "Maryland", "Purdue", "Indiana")
+for(k in sim_teams){for(i in teams){sim_games <- sim_games %>% add_row(team = sim_teams, opponent = i)}
+sim_games <- sim_games %>% na.omit()}
+sim_games <- sim_games %>% distinct(team, opponent)
+```
+
+```{r}
+sim_games <- games %>% group_by(team) %>% filter(game_date == max(game_date) & season == 2022) %>% select(-TeamResult, -starts_with("opp")) %>% right_join(sim_games)
+
+sim_games <- games %>% group_by(opponent_name) %>% filter(game_date == max(game_date) & season == 2022) %>% ungroup() %>% select(-TeamResult, -starts_with("team"), -game_id, -game_date, -season) %>% right_join(sim_games) 
+
+sim_games <- rf_fit %>% predict(new_data = sim_games) %>%
+  bind_cols(sim_games) %>% select(.pred_class, team, opponent_name, everything())
+```
+
+```{r}
+# tool to look up any given matchup
+team_of_interest <- "Nebraska"
+opponent_of_interest <- "Northwestern"
+
+sim_games %>% filter(team == team_of_interest, opponent == opponent_of_interest)
+```
+
+```{r}
+# ROUND OF 64                                                ROUND OF 32
+
+# game 1-----------------------
+team1advanceprob = 0.5        #
+team16advanceprob = 0.5       #                                 
+                        
+team8advanceprob = 0.5        #
+team9advanceprob = 0.5        #
+#game 2------------------------                                #game9
+                        team1advanceprob = team1advanceprob*((prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+                        team16advanceprob = team16advanceprob*((prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+                        team8advanceprob = team8advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob))
+                        team9advanceprob = team9advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob))
+
+
+#game 3------------------------
+team5advanceprob = 0.5        #
+team12advanceprob = 0.5       #                                 
+                       
+team4advanceprob = 0.5        #
+team13advanceprob = 0.5       #
+#game 4------------------------                               #game 10
+                       team5advanceprob = team5advanceprob*((prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+                       team12advanceprob = team12advanceprob*((prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+                       team4advanceprob = team4advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob))
+                       team13advanceprob = team13advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob))
+
+
+# game 5-----------------------
+team6advanceprob = 0.5        #
+team11advanceprob = 0.5       #
+
+team3advanceprob = 0.5        #
+team14advanceprob = 0.5       #
+# game 6-----------------------                               #game 11
+                      team6advanceprob = team6advanceprob*((prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+                      team11advanceprob = team11advanceprob*((prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+                      team3advanceprob = team3advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob))
+                      team14advanceprob = team14advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob))
+
+
+# game 7-----------------------
+team7advanceprob = 0.5        #
+team10advanceprob = 0.5       #                                
+
+team2advanceprob = 0.5        #
+team15advanceprob = 0.5       #
+# game 8-----------------------                               #game 12
+                      team7advanceprob = team7advanceprob*((prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+                      team10advanceprob = team10advanceprob*((prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+                      team2advanceprob = team2advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob))
+                      team15advanceprob = team15advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob))
+
+
+
+
+
+
+
+
+# SWEET 16
+
+# game 13
+team1advanceprob = team1advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team16advanceprob = team16advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team8advanceprob = team8advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team9advanceprob = team9advanceprob*((prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+
+team5advanceprob = team5advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+team12advanceprob = team12advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+team4advanceprob = team4advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+team13advanceprob = team13advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob))
+
+
+
+# game 14
+team6advanceprob = team6advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team11advanceprob = team11advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team3advanceprob = team3advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team14advanceprob = team14advanceprob*((prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+
+team7advanceprob = team7advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+team10advanceprob = team10advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+team2advanceprob = team2advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+team15advanceprob = team15advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob))
+
+
+
+
+
+# ELITE 8
+
+# game 15---------------------------------------------------------------------
+team1advanceprob = team1advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team16advanceprob = team16advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team8advanceprob = team8advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team9advanceprob = team9advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team5advanceprob = team5advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team12advanceprob = team12advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team4advanceprob = team4advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+team13advanceprob = team13advanceprob*((prob_beat_team6*team6advanceprob)+(prob_beat_team11*team11advanceprob)+(prob_beat_team3*team3advanceprob)+(prob_beat_team14*team14advanceprob)+(prob_beat_team7*team7advanceprob)+(prob_beat_team10*team10advanceprob)+(prob_beat_team2*team2advanceprob)+(prob_beat_team15*team15advanceprob))
+
+team6advanceprob = team6advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team11advanceprob = team11advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team3advanceprob = team3advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team14advanceprob = team14advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team7advanceprob = team7advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team10advanceprob = team10advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team2advanceprob = team2advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+team15advanceprob = team15advanceprob*((prob_beat_team1*team1advanceprob)+(prob_beat_team16*team16advanceprob)+(prob_beat_team8*team8advanceprob)+(prob_beat_team9*team9advanceprob)+(prob_beat_team5*team5advanceprob)+(prob_beat_team12*team12advanceprob)+(prob_beat_team4*team4advanceprob)+(prob_beat_team13*team13advanceprob))
+#---------------------------------------------------------------------------------
+```
+
+
+
+```{r}
+games <- tibble(team = "Nebraska",
+                pred_class = "L") %>% 
+  add_row(team = "Northwestern",
+          pred_class = "W")
+opponent_side <- tibble(opponent_name = "Nebraska") %>% add_row(opponent_name = "Northwestern")
+excluded_vars <- c()
+team_side <- games %>% select(-excluded_vars, -starts_with("opp"))
+
+seed1 <- "Illinois"
+seed2 <- "Wisconsin"
+seed3 <- "Purdue"
+seed4 <- "Rutgers"
+seed5 <- "Iowa"
+seed6 <- "Ohio State"
+seed7 <- "Michigan State"
+seed8 <- "Michigan"
+seed9 <- "Indiana"
+seed10 <- "Maryland"
+seed11 <- "Penn State"
+seed12 <- "Northwestern"
+seed13 <- "Nebraska"
+seed14 <- "Minnesota"
+
+seed12 <- team_side %>% filter(team == seed12)
+seed13 <- opponent_side %>% filter(opponent_name == seed13)
+game1 <- merge(seed12, seed13)
+game1winner <- game1 %>% ifelse(pred_class == "L", team, opponent_name)
+
+seed11 <- team_side %>% filter(team = seed11)
+seed14 <- opponent_side %>% filter(team = seed14)
+game2 <- seed11 %>% inner_join(seed14)
+game2winner <- game2 %>% ifelse(pred_Class = "W", team, opponent_name)
+```
+
+
+```{r}
+round1games <- tibble(
+  team_short_display_name="Penn State",
+  opponent_short_display_name="Illinois"
+) %>% add_row(
+  team_short_display_name="Michigan State",
+  opponent_short_display_name="Ohio State"
+) %>% add_row(
+  team_short_display_name="Iowa",
+  opponent_short_display_name="Michigan"
+)
+
+round1games <- cumulativesimplemodelgames %>% group_by(team_short_display_name) %>% filter(game_date == max(game_date) & season == 2022) %>% select(-TeamResult, -starts_with("opponent")) %>% right_join(round1games)
+
+round1games <- cumulativesimplemodelgames %>% group_by(opponent_short_display_name) %>% filter(game_date == max(game_date) & season == 2022) %>% ungroup() %>% select(-TeamResult, -starts_with("team"), -game_id, -game_date, -season) %>% right_join(round1games) 
+
+round1 <- svm_cumulative_fit %>% predict(new_data = round1games) %>%
+  bind_cols(round1games) %>% select(.pred_class, team_short_display_name, opponent_short_display_name, everything())
+
+
+round1winners <- round1 %>% filter(pred_class == "W") %>% select(-TeamResult, -starts_with("opponent"))
+```
+
+
+

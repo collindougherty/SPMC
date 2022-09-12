@@ -1,0 +1,55 @@
+```{r}
+library(tidyverse)
+library(hoopR)
+library(zoo)
+```
+
+```{r}
+teamgames <- load_mbb_team_box(seasons = most_recent_mbb_season()) %>%
+  separate(field_goals_made_field_goals_attempted, into = c("field_goals_made","field_goals_attempted")) %>%
+  separate(three_point_field_goals_made_three_point_field_goals_attempted, into = c("three_point_field_goals_made","three_point_field_goals_attempted")) %>%
+  separate(free_throws_made_free_throws_attempted, into = c("free_throws_made","free_throws_attempted")) %>%
+  mutate_at(12:35, as.numeric)
+
+schedule <- load_mbb_schedule(seasons = most_recent_mbb_season())
+```
+
+```{r}
+teamstats <- teamgames %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    team_score = ((field_goals_made-three_point_field_goals_made) * 2) + (three_point_field_goals_made*3) + free_throws_made, possessions = field_goals_attempted - offensive_rebounds + turnovers + (0.475 * free_throws_attempted),
+    points = three_point_field_goals_made*3 + (field_goals_made - three_point_field_goals_made)*2 + free_throws_made,
+    ppp = points/possessions,
+    rolling_shooting_percentage = rollmean(lag(field_goal_pct, n=1), k=5, fill=field_goal_pct),
+    rolling_ppp = rollmean(lag(ppp, n=1), k=5, fill=ppp)
+    ) %>%
+  select(team_short_display_name, team_uid, game_id, game_date, team_score, rolling_shooting_percentage, possessions, points)
+```
+
+```{r}
+home_games <- schedule %>%
+  select(id, home.uid)
+
+away_games <- schedule %>%
+  select(id, away.uid)
+
+home_games %>% 
+  inner_join(teamstats, by=c("id"="game_id", "home.uid"="team_uid")) %>%
+  rename(
+    home_team_short_display_name = team_short_display_name, 
+    home_team_score=team_score, 
+    home_rolling_shooting_percentage = rolling_shooting_percentage
+    )
+
+away_games %>% 
+  inner_join(teamstats, by=c("id"="game_id", "away.uid"="team_uid")) %>%
+  rename(
+    away_team_short_display_name = team_short_display_name, 
+    away_team_score=team_score, 
+    away_rolling_shooting_percentage = rolling_shooting_percentage
+    )
+
+home_games %>% inner_join(away_games)
+```
+

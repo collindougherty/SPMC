@@ -1,0 +1,27 @@
+```{r}
+#installing packages
+install.packages("wehoop")
+install.packages("progressr")
+library(tidyverse)
+library(wehoop)
+library(progressr)
+```
+
+```{r}
+#loading data from wehoop
+progressr::with_progress({
+  wbb_team_box <- wehoop::load_wbb_team_box(2015:2021)
+})
+```
+
+```{r}
+#filtering for nebraska and sorting in descending order based on most fouls
+wbb_team_box %>%
+filter(team_short_display_name == "Nebraska") %>% 
+  summarise(opponent_name, game_date, totalFouls = as.numeric(fouls)) %>% 
+  arrange(desc(totalFouls)) %>%
+  top_n(10, wt=totalFouls)
+```
+
+
+

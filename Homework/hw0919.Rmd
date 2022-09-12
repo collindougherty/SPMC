@@ -1,0 +1,27 @@
+```{r}
+#loading the tidyverse and setting our new variables
+library(tidyverse)
+gamelogs <- read.csv("logs21.csv")
+gamelogs <- gamelogs %>% mutate(differential = TeamTotalRebounds - OpponentTotalRebounds)
+teamtotals <- gamelogs %>% group_by(Conference, TeamFull) %>% 
+  summarise(avgdifferential = mean(differential),
+            FGavg = mean(TeamFGPCT), 
+            OppFGAvg = mean(OpponentFGPCT))
+```
+
+```{r}
+# creating a datafram with the z scores of our variables
+teamzscore <- teamtotals %>% mutate(differentialzscore = as.numeric(scale(avgdifferential, center = TRUE, scale = TRUE)),
+    FGzscore = as.numeric(scale(FGavg, center = TRUE, scale = TRUE)),
+    OppZscore = as.numeric(scale(OppFGAvg, center = TRUE, scale = TRUE)) * -1,
+    TotalZscore = FGzscore + OppZscore + differentialzscore
+    )
+```
+
+```{r}
+#sorting the Big ten
+teamzscore %>% filter(Conference == "Big Ten") %>%
+arrange(desc(TotalZscore))
+```
+
+

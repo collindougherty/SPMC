@@ -1,0 +1,27 @@
+```{r}
+library(tidyverse)
+logs <- read_csv("footballlogs20.csv")
+```
+
+```{r}
+#creating new dataframes for the country and the big ten as a whole
+logs <- logs %>% mutate(TOmargin = DefTotalTurnovers - TotalTurnovers) %>%
+group_by(Team, Conference) %>%
+summarise(PPG = mean(TeamScore),
+          DPPG = mean(OpponentScore),
+          net = sum(TOmargin))
+B1G <- logs %>% filter(Conference == "Big Ten Conference")
+```
+
+```{r}
+#creating a bubble chart comparing the big ten to the rest of the country
+ggplot() + 
+  geom_point(
+    data=logs, 
+    aes(x=PPG, y=DPPG, size=net), alpha = .5, color = "grey") + 
+  scale_size(range = c(3, 8), name="TO margin") + geom_point(
+    data=B1G, 
+    aes(x=PPG, y=DPPG, size=net), 
+    color="red")
+```
+

@@ -1,0 +1,34 @@
+```{r}
+#loading the tidyverse and the data
+library(tidyverse)
+logs <- read_csv("logs21.csv")
+```
+
+```{r}
+# this is the more complicated part, we first create a new dataframe called winlosslogs where we ultimately create a couple new variables, "wins" and "avgopp3Ppct", we then select out the data we want
+winlosslogs <- logs %>% 
+  mutate(
+    winloss = case_when(
+      grepl("W", W_L) ~ 1, 
+      grepl("L", W_L) ~ 0),
+) %>% group_by(Team) %>%
+  summarise(wins = sum(winloss),
+            d3p = sum(Opponent3P),
+            d3pa = sum(Opponent3PA)
+  ) %>% 
+  mutate(opp3Ppct = d3p/d3pa) %>%
+  select(Team, wins, opp3Ppct)
+```
+
+```{r}
+#devising a linear model and summarizing it
+model <- lm(wins~opp3Ppct, data = winlosslogs)
+summary(model)
+```
+
+```{r}
+#creating a scatter plot with a trendline using method linear regression
+winlosslogs %>%
+ggplot() + geom_point(data=winlosslogs, aes(x=opp3Ppct, y=wins)) + geom_smooth(data=winlosslogs, aes(x=opp3Ppct, y=wins), method="lm")
+```
+

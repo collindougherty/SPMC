@@ -1,0 +1,163 @@
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(zoo)
+library(hoopR)
+library(corrr)
+```
+
+
+```{r}
+# the second part of this quiz did not work because the team names in 
+```
+
+
+```{r}
+teamgames1 <- load_mbb_team_box(seasons = 2015:2022) %>%
+  separate(field_goals_made_field_goals_attempted, into = c("field_goals_made","field_goals_attempted")) %>%
+  separate(three_point_field_goals_made_three_point_field_goals_attempted, into = c("three_point_field_goals_made","three_point_field_goals_attempted")) %>%
+  separate(free_throws_made_free_throws_attempted, into = c("free_throws_made","free_throws_attempted")) %>%
+  mutate_at(12:35, as.numeric)
+
+
+teamgames2 <- teamgames1 %>% select(game_id, team_id, offensive_rebounds, defensive_rebounds)
+
+teamgames2 <- teamgames2 %>% rename("opponent_id" = team_id, 
+                                    "opponent_offensive_rebounds" = offensive_rebounds,
+                                   "opponent_defensive_rebounds" = defensive_rebounds)
+
+net1 <- ncaa_mbb_NET_rankings()
+net2 <- ncaa_mbb_NET_rankings()
+net1 <- net1 %>% mutate("team_short_display_name" = school)
+net2 <- net2 %>% mutate("opponent_name" = school)
+net2 <- net2 %>% rename("opponent_rank" = rank)
+net <- merge(net1, net2)
+
+
+teamgames <- merge(teamgames1, teamgames2, by = c("game_id", "opponent_id"))
+teamgames <- merge(teamgames,net1, by = "team_short_display_name")
+teamgames <- merge(teamgames,net2, by = "opponent_name")
+```
+
+```{r}
+teamstats <- teamgames %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    team_score = ((field_goals_made-three_point_field_goals_made) * 2) + (three_point_field_goals_made*3) + free_throws_made,
+    possessions = field_goals_attempted - offensive_rebounds + turnovers + (.475 * free_throws_attempted),
+    ppp = team_score/possessions,
+    true_shooting_percentage = (team_score / (2*(field_goals_attempted + (.44 * free_throws_attempted)))) * 100,
+    turnover_pct = turnovers/(field_goals_attempted + 0.44 * free_throws_attempted + turnovers),
+    free_throw_factor = free_throws_made/field_goals_attempted,
+    rolling_shooting_percentage = rollmean(lag(field_goal_pct, n=1), k=2, fill=field_goal_pct),
+    rolling_ppp = rollmean(lag(ppp, n=1), k=2, fill=ppp),
+    rolling_true_shooting_percentage = rollmean(lag(true_shooting_percentage, n=1), k=2, fill=true_shooting_percentage),
+    rolling_turnover_percentage = rollmean(lag(turnover_pct, n=1), k=2, fill=turnover_pct),
+    rolling_free_throw_factor = rollmean(lag(free_throw_factor, n=1), k=2, fill=free_throw_factor),
+    orb = offensive_rebounds/(offensive_rebounds+opponent_defensive_rebounds),
+    drb = defensive_rebounds/(defensive_rebounds+opponent_offensive_rebounds),
+    rolling_orb = rollmean(lag(orb, n=1), k=2, fill=orb),
+    rolling_drb = rollmean(lag(drb, n=1), k=2, fill=drb)
+  ) %>% ungroup()
+```
+
+```{r}
+modelgames <- teamstats %>%
+  select(team_short_display_name, opponent_name, game_date, season, team_score, rolling_ppp, rolling_free_throw_factor, rolling_turnover_percentage, rolling_orb, rolling_drb, rank, opponent_rank) %>% na.omit()
+```
+
+```{r}
+set.seed(1234)
+game_split <- initial_split(modelgames, prop = .8)
+game_train <- training(game_split)
+game_test <- testing(game_split)
+```
+
+```{r}
+score_rec <- 
+  recipe(team_score ~ rolling_ppp + rolling_turnover_percentage + rolling_free_throw_factor + rolling_orb + rolling_drb, data = game_train)
+ # except we want to make this run better, so we will use below from now on.
+score_rec <- 
+  recipe(team_score ~ ., data = game_train) %>%
+  update_role(team_short_display_name, opponent_name, game_date, season, new_role = "ID")
+```
+
+```{r}
+tree <- decision_tree() %>%
+   set_engine("rpart") %>%
+   set_mode("regression")
+```
+
+```{r}
+ tree_wf <- workflow() %>%
+   add_recipe(score_rec) %>%
+   add_model(tree)
+```
+
+```{r}
+tree_fit <- 
+  tree_wf %>% 
+  fit(data = game_train)
+```
+
+```{r}
+tree_fit %>% 
+  pull_workflow_fit() 
+```
+
+```{r}
+treeresults <- game_train %>%
+  bind_cols(predict(tree_fit, game_train))
+metrics(treeresults, truth = team_score, estimate = .pred)
+```
+
+```{r}
+rf_mod <- rand_forest() %>%
+  set_engine("ranger") %>%
+  set_mode("regression")
+```
+
+```{r}
+score_wflow <- 
+  workflow() %>% 
+  add_recipe(score_rec) %>% 
+  add_model(rf_mod)
+
+
+score_wflow
+```
+
+```{r}
+score_fit <- 
+  score_wflow %>% 
+  fit(data = game_train)
+```
+
+```{r}
+score_fit %>% 
+  pull_workflow_fit() 
+```
+
+```{r}
+trainresults <- game_train %>%
+  bind_cols(predict(score_fit, game_train))
+metrics(trainresults, truth = team_score, estimate = .pred)
+```
+
+```{r}
+testresults <- game_test %>%
+  bind_cols(predict(score_fit, game_test))
+metrics(testresults, truth = team_score, estimate = .pred)
+
+# lower r squared on training and testing, though this may be due to many schools who were omitted due to non-matching team names in net rankings and teamgames
+```
+
+```{r}
+nu <- modelgames %>% filter(season == 2022, team_short_display_name == "Nebraska")
+
+nupreds <- nu %>%
+    bind_cols(predict(score_fit, nu))
+
+nupreds %>% mutate(residual = team_score - .pred) %>% arrange(desc(residual)) %>% select(team_short_display_name, opponent_name, team_score, .pred, residual)
+```
+

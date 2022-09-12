@@ -1,0 +1,33 @@
+```{r}
+#load the data and tidyverse
+library(tidyverse)
+attend <- read.csv("attendance.csv")
+```
+
+```{r}
+#overwrite original dataset with a new column showing percentage change
+attend <- attend %>% mutate(Change = (X2018-X2013)/X2013)
+
+#create a top10 which shows only percent attendance change and the school
+top10 <- attend %>% 
+  arrange(desc(`Change`)) %>% 
+  top_n(10) %>% 
+  select(Institution, `Change`)
+```
+
+```{r}
+#create chart of top 10
+top10 %>%
+  #reorder the institutions in descending order with reorder function and - sign, choose y axis to be weighted by the category`Change`
+ggplot() + geom_bar(data=top10, aes(x=reorder(Institution, -Change), weight=`Change`)) +
+  #add labels 
+  labs(
+    title="Top 10 Football Programs By Attendance Change", 
+    x="School", 
+    y="Attendance Change") +
+  #change theme of graph
+theme_dark() +
+  #make graph horizontal
+  coord_flip()
+```
+

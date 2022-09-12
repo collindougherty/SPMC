@@ -1,0 +1,860 @@
+﻿id,season,week,seasonType,startTime,isStartTimeTBD,homeTeam,homeConference,awayTeam,awayConference,mediaType,outlet
+401110723,2019,1,regular,2019-08-24T23:00:00.000Z,,Florida,SEC,Miami,ACC,tv,ESPN
+401110723,2019,1,regular,2019-08-24T23:00:00.000Z,,Florida,SEC,Miami,ACC,radio,ESPNRM
+401114164,2019,1,regular,2019-08-25T02:30:00.000Z,,Hawai'i,Mountain West,Arizona,Pac-12,tv,CBSSN
+401111653,2019,1,regular,2019-08-30T00:00:00.000Z,,Clemson,ACC,Georgia Tech,ACC,tv,ACCN
+401110731,2019,1,regular,2019-08-30T00:30:00.000Z,,Texas A&M,SEC,Texas State,Sun Belt,tv,SECN
+401114223,2019,1,regular,2019-08-30T02:15:00.000Z,,BYU,FBS Independents,Utah,Pac-12,tv,ESPN
+401117853,2019,1,regular,2019-08-29T23:30:00.000Z,,UCF,American Athletic,Florida A&M,,tv,CBSSN
+401117854,2019,1,regular,2019-08-29T23:00:00.000Z,,Cincinnati,American Athletic,UCLA,Pac-12,tv,ESPN
+401117855,2019,1,regular,2019-08-29T23:00:00.000Z,,Connecticut,American Athletic,Wagner,,web,ESPN3
+401119254,2019,1,regular,2019-08-29T23:00:00.000Z,,Bowling Green,Mid-American,Morgan State,,web,ESPN3
+401119255,2019,1,regular,2019-08-29T23:00:00.000Z,,Buffalo,Mid-American,Robert Morris,,web,ESPN+
+401114246,2019,1,regular,2019-08-29T23:30:00.000Z,,Western Kentucky,Conference USA,Central Arkansas,,web,ESPN+
+401135910,2019,1,regular,2019-08-29T23:30:00.000Z,,Charlotte,Conference USA,Gardner-Webb,,web,ESPN+
+401114236,2019,1,regular,2019-08-30T00:00:00.000Z,,Tulane,American Athletic,Florida International,Conference USA,web,ESPN3
+401114237,2019,1,regular,2019-08-30T00:00:00.000Z,,UAB,Conference USA,Alabama State,,web,ESPN+
+401119253,2019,1,regular,2019-08-30T00:50:00.000Z,,Central Michigan,Mid-American,Albany,,web,ESPN3
+401112229,2019,1,regular,2019-08-30T01:00:00.000Z,,Minnesota,Big Ten,South Dakota State,,tv,FS1
+401114153,2019,1,regular,2019-08-30T02:00:00.000Z,,Arizona State,Pac-12,Kent State,Mid-American,tv,PAC12
+401112212,2019,1,regular,2019-08-30T23:00:00.000Z,,Michigan State,Big Ten,Tulsa,American Athletic,tv,FS1
+401117856,2019,1,regular,2019-08-30T23:55:00.000Z,,South Florida,American Athletic,Wisconsin,Big Ten,tv,ESPN
+401114238,2019,1,regular,2019-08-30T22:00:00.000Z,,Army,FBS Independents,Rice,Conference USA,tv,CBSSN
+401112264,2019,1,regular,2019-08-30T23:15:00.000Z,,Rutgers,Big Ten,UMass,FBS Independents,tv,BTN
+401112430,2019,1,regular,2019-08-31T00:00:00.000Z,,Wake Forest,ACC,Utah State,Mountain West,tv,ACCN
+401112262,2019,1,regular,2019-08-31T01:30:00.000Z,,Nevada,Mountain West,Purdue,Big Ten,tv,CBSSN
+401114184,2019,1,regular,2019-08-31T02:00:00.000Z,,Colorado,Pac-12,Colorado State,Mountain West,tv,ESPN
+401112122,2019,1,regular,2019-08-31T02:30:00.000Z,,Oregon State,Pac-12,Oklahoma State,Big 12,tv,FS1
+401110720,2019,1,regular,2019-08-31T19:30:00.000Z,,Alabama,SEC,Duke,ACC,tv,ABC
+401110720,2019,1,regular,2019-08-31T19:30:00.000Z,,Alabama,SEC,Duke,ACC,radio,ESPNRM
+401110732,2019,1,regular,2019-08-31T23:30:00.000Z,,Vanderbilt,SEC,Georgia,SEC,tv,ESPN
+401112251,2019,1,regular,2019-08-31T16:00:00.000Z,,Ohio State,Big Ten,Florida Atlantic,Conference USA,tv,FOX
+401110725,2019,1,regular,2019-08-31T23:30:00.000Z,,LSU,SEC,Georgia Southern,Sun Belt,tv,SECN
+401112222,2019,1,regular,2019-08-31T23:30:00.000Z,,Michigan,Big Ten,Middle Tennessee,Conference USA,tv,BTN
+401112135,2019,1,regular,2019-09-01T00:00:00.000Z,,Texas,Big 12,Louisiana Tech,Conference USA,tv,LHN
+401110722,2019,1,regular,2019-08-31T23:30:00.000Z,,Auburn,SEC,Oregon,Pac-12,tv,ABC
+401110722,2019,1,regular,2019-08-31T23:30:00.000Z,,Auburn,SEC,Oregon,Pac-12,radio,ESPNRM
+401114233,2019,1,regular,2019-08-31T19:00:00.000Z,,Washington,Pac-12,Eastern Washington,,tv,PAC12
+401112257,2019,1,regular,2019-08-31T19:30:00.000Z,,Penn State,Big Ten,Idaho,,tv,BTN
+401112191,2019,1,regular,2019-08-31T23:30:00.000Z,,Iowa,Big Ten,Miami (OH),Mid-American,tv,FS1
+401112085,2019,1,regular,2019-08-31T16:00:00.000Z,,Iowa State,Big 12,Northern Iowa,,tv,FS1
+401112434,2019,1,regular,2019-08-31T22:00:00.000Z,,Liberty,FBS Independents,Syracuse,ACC,web,ESPN+
+401114228,2019,1,regular,2019-09-01T02:00:00.000Z,,Washington State,Pac-12,New Mexico State,FBS Independents,tv,PAC12
+401112238,2019,1,regular,2019-08-31T16:00:00.000Z,,Nebraska,Big Ten,South Alabama,Sun Belt,tv,ESPN
+401112245,2019,1,regular,2019-08-31T20:00:00.000Z,,Stanford,Pac-12,Northwestern,Big Ten,tv,FOX
+401112145,2019,1,regular,2019-08-31T16:00:00.000Z,,Illinois,Big Ten,Akron,Mid-American,tv,BTN
+401112157,2019,1,regular,2019-08-31T16:00:00.000Z,,Ball State,Mid-American,Indiana,Big Ten,tv,CBSSN
+401112431,2019,1,regular,2019-08-31T16:00:00.000Z,,Florida State,ACC,Boise State,Mountain West,tv,ESPNN
+401112432,2019,1,regular,2019-08-31T16:00:00.000Z,,NC State,ACC,East Carolina,American Athletic,tv,ACCN
+401110724,2019,1,regular,2019-08-31T16:00:00.000Z,,Kentucky,SEC,Toledo,Mid-American,tv,SECN
+401110726,2019,1,regular,2019-08-31T16:00:00.000Z,,Memphis,American Athletic,Ole Miss,SEC,tv,ABC
+401110727,2019,1,regular,2019-08-31T16:00:00.000Z,,Louisiana,Sun Belt,Mississippi State,SEC,tv,ESPNU
+401112201,2019,1,regular,2019-08-31T16:00:00.000Z,,Maryland,Big Ten,Howard,,tv,BTN
+401119259,2019,1,regular,2019-08-31T18:00:00.000Z,,Ohio,Mid-American,Rhode Island,,web,ESPN+
+401117859,2019,1,regular,2019-08-31T19:00:00.000Z,,Temple,American Athletic,Bucknell,,web,ESPN3
+401117494,2019,1,regular,2019-08-31T19:30:00.000Z,,Air Force,Mountain West,Colgate,,web,ESPN3
+401117857,2019,1,regular,2019-08-31T19:30:00.000Z,,Navy,American Athletic,Holy Cross,,tv,CBSSN
+401119256,2019,1,regular,2019-08-31T19:30:00.000Z,,Coastal Carolina,Sun Belt,Eastern Michigan,Mid-American,web,ESPN+
+401110729,2019,1,regular,2019-08-31T19:30:00.000Z,,North Carolina,ACC,South Carolina,SEC,tv,ESPN
+401110730,2019,1,regular,2019-08-31T19:30:00.000Z,,Tennessee,SEC,Georgia State,Sun Belt,tv,ESPNU
+401121934,2019,1,regular,2019-08-31T19:30:00.000Z,,Appalachian State,Sun Belt,East Tennessee State,,web,ESPN+
+401110721,2019,1,regular,2019-08-31T20:00:00.000Z,,Arkansas,SEC,Portland State,,tv,SECN
+401112435,2019,1,regular,2019-08-31T20:00:00.000Z,,Boston College,ACC,Virginia Tech,ACC,tv,ACCN
+401114245,2019,1,regular,2019-08-31T22:00:00.000Z,,UT San Antonio,Conference USA,Incarnate Word,,web,ESPN3
+401121935,2019,1,regular,2019-08-31T22:00:00.000Z,,Troy,Sun Belt,Campbell,,web,ESPN+
+401114174,2019,1,regular,2019-08-31T22:30:00.000Z,,California,Pac-12,UC Davis,,tv,PAC12
+401114242,2019,1,regular,2019-08-31T23:00:00.000Z,,Old Dominion,Conference USA,Norfolk State,,web,ESPN3
+401114243,2019,1,regular,2019-08-31T23:00:00.000Z,,Southern Mississippi,Conference USA,Alcorn State,,web,ESPN+
+401119257,2019,1,regular,2019-08-31T23:00:00.000Z,,Northern Illinois,Mid-American,Illinois State,,web,ESPN+
+401119258,2019,1,regular,2019-08-31T23:00:00.000Z,,Western Michigan,Mid-American,Monmouth,,web,ESPN3
+401117858,2019,1,regular,2019-08-31T23:00:00.000Z,,Arkansas State,Sun Belt,SMU,American Athletic,web,ESPN+
+401112106,2019,1,regular,2019-08-31T23:00:00.000Z,,Kansas State,Big 12,Nicholls,,web,ESPN+
+401112073,2019,1,regular,2019-08-31T23:00:00.000Z,,Baylor,Big 12,Stephen F. Austin,,web,ESPN+
+401110728,2019,1,regular,2019-08-31T23:30:00.000Z,,Wyoming,Mountain West,Missouri,SEC,tv,CBSSN
+401112433,2019,1,regular,2019-08-31T23:30:00.000Z,,Pittsburgh,ACC,Virginia,ACC,tv,ACCN
+401114241,2019,1,regular,2019-08-31T23:30:00.000Z,,North Texas,Conference USA,Abilene Christian,,web,ESPN+
+401114244,2019,1,regular,2019-09-01T00:00:00.000Z,,UTEP,Conference USA,Houston Baptist,,web,ESPN+
+401128468,2019,1,regular,2019-09-01T00:00:00.000Z,,Louisiana Monroe,Sun Belt,Grambling,,web,ESPN3
+401114218,2019,1,regular,2019-09-01T02:30:00.000Z,,USC,Pac-12,Fresno State,Mountain West,tv,ESPN
+401112114,2019,1,regular,2019-09-01T23:30:00.000Z,,Oklahoma,Big 12,Houston,American Athletic,tv,ABC
+401112436,2019,1,regular,2019-09-03T00:00:00.000Z,,Louisville,ACC,Notre Dame,FBS Independents,tv,ESPN
+401114251,2019,2,regular,2019-09-07T01:00:00.000Z,,Boise State,Mountain West,Marshall,Conference USA,tv,ESPN2
+401112437,2019,2,regular,2019-09-07T00:00:00.000Z,,Virginia,ACC,William & Mary,,tv,ACCN
+401112447,2019,2,regular,2019-09-07T00:00:00.000Z,,Rice,Conference USA,Wake Forest,ACC,tv,CBSSN
+401114154,2019,2,regular,2019-09-07T02:00:00.000Z,,Arizona State,Pac-12,Sacramento State,,tv,PAC12
+401110784,2019,2,regular,2019-09-07T19:30:00.000Z,,Clemson,ACC,Texas A&M,SEC,tv,ABC
+401110773,2019,2,regular,2019-09-07T20:00:00.000Z,,Alabama,SEC,New Mexico State,FBS Independents,tv,SECN
+401110776,2019,2,regular,2019-09-07T20:00:00.000Z,,Georgia,SEC,Murray State,,tv,ESPN2
+401112252,2019,2,regular,2019-09-07T16:00:00.000Z,,Ohio State,Big Ten,Cincinnati,American Athletic,tv,ABC
+401110778,2019,2,regular,2019-09-07T23:30:00.000Z,,Texas,Big 12,LSU,SEC,tv,ABC
+401112223,2019,2,regular,2019-09-07T16:00:00.000Z,,Michigan,Big Ten,Army,FBS Independents,tv,FOX
+401110774,2019,2,regular,2019-09-07T23:30:00.000Z,,Auburn,SEC,Tulane,American Athletic,tv,ESPN2
+401110775,2019,2,regular,2019-09-07T23:30:00.000Z,,Florida,SEC,UT Martin,,tv,ESPNU
+401114224,2019,2,regular,2019-09-07T17:00:00.000Z,,Utah,Pac-12,Northern Illinois,Mid-American,tv,PAC12
+401114175,2019,2,regular,2019-09-08T02:30:00.000Z,,Washington,Pac-12,California,Pac-12,tv,FS1
+401112258,2019,2,regular,2019-09-07T23:30:00.000Z,,Penn State,Big Ten,Buffalo,Mid-American,tv,FOX
+401114193,2019,2,regular,2019-09-07T23:30:00.000Z,,Oregon,Pac-12,Nevada,Mountain West,tv,PAC12
+401112268,2019,2,regular,2019-09-07T19:30:00.000Z,,Wisconsin,Big Ten,Central Michigan,Mid-American,tv,BTN
+401114249,2019,2,regular,2019-09-07T23:00:00.000Z,,Florida Atlantic,Conference USA,UCF,American Athletic,tv,CBSSN
+401112213,2019,2,regular,2019-09-07T23:30:00.000Z,,Michigan State,Big Ten,Western Michigan,Mid-American,tv,BTN
+401112192,2019,2,regular,2019-09-07T16:00:00.000Z,,Iowa,Big Ten,Rutgers,Big Ten,tv,FS1
+401112202,2019,2,regular,2019-09-07T16:00:00.000Z,,Maryland,Big Ten,Syracuse,ACC,tv,ESPN
+401114207,2019,2,regular,2019-09-08T02:30:00.000Z,,USC,Pac-12,Stanford,Pac-12,tv,ESPN
+401114207,2019,2,regular,2019-09-08T02:30:00.000Z,,USC,Pac-12,Stanford,Pac-12,radio,ESPNRM
+401112239,2019,2,regular,2019-09-07T19:30:00.000Z,,Colorado,Pac-12,Nebraska,Big Ten,tv,FOX
+401112445,2019,2,regular,2019-09-07T15:00:00.000Z,,Pittsburgh,ACC,Ohio,Mid-American,tv,ACCN
+401112446,2019,2,regular,2019-09-07T16:00:00.000Z,,Virginia Tech,ACC,Old Dominion,Conference USA,tv,ESPNU
+401114254,2019,2,regular,2019-09-07T16:00:00.000Z,,Akron,Mid-American,UAB,Conference USA,tv,CBSSN
+401119261,2019,2,regular,2019-09-07T16:00:00.000Z,,Kent State,Mid-American,Kennesaw State,,web,ESPN3
+401117862,2019,2,regular,2019-09-07T16:00:00.000Z,,Memphis,American Athletic,Southern,,web,ESPN3
+401110781,2019,2,regular,2019-09-07T16:00:00.000Z,,Missouri,SEC,West Virginia,Big 12,tv,ESPN2
+401110782,2019,2,regular,2019-09-07T16:00:00.000Z,,South Carolina,SEC,Charleston Southern,,tv,SECN
+401110785,2019,2,regular,2019-09-07T16:00:00.000Z,,Purdue,Big Ten,Vanderbilt,SEC,tv,BTN
+401112444,2019,2,regular,2019-09-07T16:30:00.000Z,,NC State,ACC,Western Carolina,,web,ACCNX
+401119260,2019,2,regular,2019-09-07T18:00:00.000Z,,Ball State,Mid-American,Fordham,,web,ESPN3
+401112441,2019,2,regular,2019-09-07T18:00:00.000Z,,Georgia Tech,ACC,South Florida,American Athletic,tv,ACCN
+401119262,2019,2,regular,2019-09-07T18:30:00.000Z,,Miami (OH),Mid-American,Tennessee Tech,,web,ESPN+
+401114247,2019,2,regular,2019-09-07T19:30:00.000Z,,Appalachian State,Sun Belt,Charlotte,Conference USA,web,ESPN+
+401114250,2019,2,regular,2019-09-07T19:30:00.000Z,,Louisiana Tech,Conference USA,Grambling,,tv,NFL
+401112438,2019,2,regular,2019-09-07T19:30:00.000Z,,Boston College,ACC,Richmond,,web,ACCNX
+401112146,2019,2,regular,2019-09-07T19:30:00.000Z,,Connecticut,American Athletic,Illinois,Big Ten,tv,CBSSN
+401112158,2019,2,regular,2019-09-07T19:30:00.000Z,,Indiana,Big Ten,Eastern Illinois,,tv,BTN
+401110780,2019,2,regular,2019-09-07T19:30:00.000Z,,Mississippi State,SEC,Southern Mississippi,Conference USA,tv,ESPNU
+401114214,2019,2,regular,2019-09-07T20:15:00.000Z,,UCLA,Pac-12,San Diego State,Mountain West,tv,PAC12
+401112440,2019,2,regular,2019-09-07T21:00:00.000Z,,Florida State,ACC,Louisiana Monroe,Sun Belt,tv,ACCN
+401112439,2019,2,regular,2019-09-07T22:00:00.000Z,,Duke,ACC,North Carolina A&T,,web,ACCNX
+401117860,2019,2,regular,2019-09-07T22:00:00.000Z,,East Carolina,American Athletic,Gardner-Webb,,web,ESPN3
+401121936,2019,2,regular,2019-09-07T22:00:00.000Z,,Georgia Southern,Sun Belt,Maine,,web,ESPN+
+401121937,2019,2,regular,2019-09-07T23:00:00.000Z,,Georgia State,Sun Belt,Furman,,web,ESPN3
+401121938,2019,2,regular,2019-09-07T23:00:00.000Z,,South Alabama,Sun Belt,Jackson State,,web,ESPN3
+401117500,2019,2,regular,2019-09-07T23:00:00.000Z,,Texas State,Sun Belt,Wyoming,Mountain West,web,ESPN+
+401114248,2019,2,regular,2019-09-07T23:00:00.000Z,,Florida International,Conference USA,Western Kentucky,Conference USA,web,ESPN+
+401114252,2019,2,regular,2019-09-07T23:00:00.000Z,,Middle Tennessee,Conference USA,Tennessee State,,web,ESPN3
+401114253,2019,2,regular,2019-09-07T23:00:00.000Z,,SMU,American Athletic,North Texas,Conference USA,web,ESPN3
+401112442,2019,2,regular,2019-09-07T23:00:00.000Z,,Louisville,ACC,Eastern Kentucky,,web,ACCNX
+401110783,2019,2,regular,2019-09-07T23:00:00.000Z,,Tennessee,SEC,BYU,FBS Independents,tv,ESPN
+401112097,2019,2,regular,2019-09-07T23:00:00.000Z,,Kansas,Big 12,Coastal Carolina,Sun Belt,web,ESPN+
+401112123,2019,2,regular,2019-09-07T23:00:00.000Z,,Oklahoma State,Big 12,McNeese,,web,ESPN+
+401110777,2019,2,regular,2019-09-07T23:30:00.000Z,,Kentucky,SEC,Eastern Michigan,Mid-American,tv,SECN
+401110779,2019,2,regular,2019-09-07T23:30:00.000Z,,Ole Miss,SEC,Arkansas,SEC,tv,SECN
+401114347,2019,2,regular,2019-09-07T23:30:00.000Z,,Louisiana,Sun Belt,Liberty,FBS Independents,web,ESPN+
+401117861,2019,2,regular,2019-09-08T00:00:00.000Z,,Houston,American Athletic,Prairie View,,web,ESPN3
+401112443,2019,2,regular,2019-09-08T00:00:00.000Z,,North Carolina,ACC,Miami,ACC,tv,ACCN
+401117501,2019,2,regular,2019-09-08T01:00:00.000Z,,San José State,Mountain West,Tulsa,American Athletic,web,ESPN3
+401112230,2019,2,regular,2019-09-08T02:30:00.000Z,,Fresno State,Mountain West,Minnesota,Big Ten,tv,CBSSN
+401114165,2019,2,regular,2019-09-08T02:45:00.000Z,,Arizona,Pac-12,Northern Arizona,,tv,PAC12
+401114230,2019,3,regular,2019-09-14T01:15:00.000Z,,Houston,American Athletic,Washington State,Pac-12,tv,ESPN
+401112448,2019,3,regular,2019-09-13T22:00:00.000Z,,Wake Forest,ACC,North Carolina,ACC,tv,ESPN
+401112098,2019,3,regular,2019-09-13T23:30:00.000Z,,Boston College,ACC,Kansas,Big 12,tv,ACCN
+401112449,2019,3,regular,2019-09-14T23:30:00.000Z,,Syracuse,ACC,Clemson,ACC,tv,ABC
+401112449,2019,3,regular,2019-09-14T23:30:00.000Z,,Syracuse,ACC,Clemson,ACC,radio,ESPNRM
+401110794,2019,3,regular,2019-09-14T19:30:00.000Z,,South Carolina,SEC,Alabama,SEC,tv,CBS
+401110788,2019,3,regular,2019-09-14T16:00:00.000Z,,Georgia,SEC,Arkansas State,Sun Belt,tv,ESPN2
+401110790,2019,3,regular,2019-09-14T23:30:00.000Z,,LSU,SEC,Northwestern State,,tv,SECN
+401112116,2019,3,regular,2019-09-15T00:00:00.000Z,,UCLA,Pac-12,Oklahoma,Big 12,tv,FOX
+401112159,2019,3,regular,2019-09-14T16:00:00.000Z,,Indiana,Big Ten,Ohio State,Big Ten,tv,FOX
+401114336,2019,3,regular,2019-09-14T18:30:00.000Z,,Notre Dame,FBS Independents,New Mexico,Mountain West,tv,NBC
+401110787,2019,3,regular,2019-09-14T23:00:00.000Z,,Auburn,SEC,Kent State,Mid-American,tv,ESPN2
+401110789,2019,3,regular,2019-09-14T23:00:00.000Z,,Kentucky,SEC,Florida,SEC,tv,ESPN
+401112136,2019,3,regular,2019-09-15T00:00:00.000Z,,Rice,Conference USA,Texas,Big 12,tv,CBSSN
+401112259,2019,3,regular,2019-09-14T16:00:00.000Z,,Penn State,Big Ten,Pittsburgh,ACC,tv,ABC
+401114194,2019,3,regular,2019-09-15T02:45:00.000Z,,Oregon,Pac-12,Montana,,tv,PAC12
+401110796,2019,3,regular,2019-09-14T23:00:00.000Z,,Texas A&M,SEC,Lamar,,tv,ESPNU
+401114208,2019,3,regular,2019-09-14T19:30:00.000Z,,UCF,American Athletic,Stanford,Pac-12,tv,ESPN
+401112214,2019,3,regular,2019-09-14T20:00:00.000Z,,Michigan State,Big Ten,Arizona State,Pac-12,tv,FOX
+401112086,2019,3,regular,2019-09-14T20:00:00.000Z,,Iowa State,Big 12,Iowa,Big Ten,tv,FS1
+401112203,2019,3,regular,2019-09-14T16:00:00.000Z,,Temple,American Athletic,Maryland,Big Ten,tv,CBSSN
+401117503,2019,3,regular,2019-09-15T02:15:00.000Z,,Boise State,Mountain West,Portland State,,tv,ESPN2
+401114234,2019,3,regular,2019-09-14T23:30:00.000Z,,Washington,Pac-12,Hawai'i,Mountain West,tv,PAC12
+401114219,2019,3,regular,2019-09-14T19:30:00.000Z,,BYU,FBS Independents,USC,Pac-12,tv,ABC
+401112451,2019,3,regular,2019-09-14T23:30:00.000Z,,Virginia,ACC,Florida State,ACC,tv,ACCN
+401117863,2019,3,regular,2019-09-14T16:00:00.000Z,,Cincinnati,American Athletic,Miami (OH),Mid-American,tv,ESPNU
+401110795,2019,3,regular,2019-09-14T16:00:00.000Z,,Tennessee,SEC,Chattanooga,,tv,SECN
+401110792,2019,3,regular,2019-09-14T16:00:00.000Z,,Mississippi State,SEC,Kansas State,Big 12,tv,ESPN
+401112455,2019,3,regular,2019-09-14T16:00:00.000Z,,Virginia Tech,ACC,Furman,,tv,ACCN
+401112144,2019,3,regular,2019-09-14T16:00:00.000Z,,West Virginia,Big 12,NC State,ACC,tv,FS1
+401112147,2019,3,regular,2019-09-14T16:00:00.000Z,,Illinois,Big Ten,Eastern Michigan,Mid-American,tv,BTN
+401112452,2019,3,regular,2019-09-14T16:30:00.000Z,,Georgia Tech,ACC,The Citadel,,web,ACCNX
+401114185,2019,3,regular,2019-09-14T17:00:00.000Z,,Colorado,Pac-12,Air Force,Mountain West,tv,PAC12
+401114257,2019,3,regular,2019-09-14T18:00:00.000Z,,Ball State,Mid-American,Florida Atlantic,Conference USA,web,ESPN+
+401121939,2019,3,regular,2019-09-14T18:00:00.000Z,,Coastal Carolina,Sun Belt,Norfolk State,,web,ESPN3
+401119263,2019,3,regular,2019-09-14T19:00:00.000Z,,Central Michigan,Mid-American,Akron,Mid-American,web,ESPN+
+401117864,2019,3,regular,2019-09-14T19:30:00.000Z,,Navy,American Athletic,East Carolina,American Athletic,tv,CBSSN
+401117865,2019,3,regular,2019-09-14T19:30:00.000Z,,South Alabama,Sun Belt,Memphis,American Athletic,tv,ESPNU
+401114261,2019,3,regular,2019-09-14T19:30:00.000Z,,UT San Antonio,Conference USA,Army,FBS Independents,tv,NFL
+401112231,2019,3,regular,2019-09-14T19:30:00.000Z,,Minnesota,Big Ten,Georgia Southern,Sun Belt,tv,BTN
+401112246,2019,3,regular,2019-09-14T19:30:00.000Z,,Northwestern,Big Ten,UNLV,Mountain West,tv,BTN
+401112124,2019,3,regular,2019-09-14T19:30:00.000Z,,Tulsa,American Athletic,Oklahoma State,Big 12,tv,ESPN2
+401110791,2019,3,regular,2019-09-14T20:00:00.000Z,,Ole Miss,SEC,Southeastern Louisiana,,tv,SECN
+401110786,2019,3,regular,2019-09-14T20:00:00.000Z,,Arkansas,SEC,Colorado State,Mountain West,tv,SECN
+401112454,2019,3,regular,2019-09-14T20:00:00.000Z,,Miami,ACC,Bethune-Cookman,,tv,ACCN
+401114258,2019,3,regular,2019-09-14T21:00:00.000Z,,Bowling Green,Mid-American,Louisiana Tech,Conference USA,web,ESPN+
+401117504,2019,3,regular,2019-09-14T21:00:00.000Z,,Wyoming,Mountain West,Idaho,,web,ESPN3
+401114348,2019,3,regular,2019-09-14T22:00:00.000Z,,Liberty,FBS Independents,Buffalo,Mid-American,web,ESPN+
+401117866,2019,3,regular,2019-09-14T22:00:00.000Z,,South Florida,American Athletic,South Carolina State,,web,ESPN3
+401114255,2019,3,regular,2019-09-14T22:00:00.000Z,,Charlotte,Conference USA,UMass,FBS Independents,web,ESPN+
+401114260,2019,3,regular,2019-09-14T22:00:00.000Z,,Troy,Sun Belt,Southern Mississippi,Conference USA,web,ESPN+
+401114256,2019,3,regular,2019-09-14T23:00:00.000Z,,Florida International,Conference USA,New Hampshire,,web,ESPN3
+401117867,2019,3,regular,2019-09-14T23:00:00.000Z,,SMU,American Athletic,Texas State,Sun Belt,web,ESPN3
+401117505,2019,3,regular,2019-09-14T23:00:00.000Z,,Nevada,Mountain West,Weber State,,web,ESPN3
+401119264,2019,3,regular,2019-09-14T23:00:00.000Z,,Western Michigan,Mid-American,Georgia State,Sun Belt,web,ESPN+
+401119265,2019,3,regular,2019-09-14T23:00:00.000Z,,Toledo,Mid-American,Murray State,,web,ESPN3
+401112130,2019,3,regular,2019-09-14T23:30:00.000Z,,Purdue,Big Ten,TCU,Big 12,tv,BTN
+401110793,2019,3,regular,2019-09-14T23:30:00.000Z,,Missouri,SEC,Southeast Missouri State,,tv,SECN
+401121940,2019,3,regular,2019-09-14T23:30:00.000Z,,Louisiana,Sun Belt,Texas Southern,,web,ESPN3
+401117868,2019,3,regular,2019-09-15T00:00:00.000Z,,Tulane,American Athletic,Missouri State,,web,ESPN3
+401112240,2019,3,regular,2019-09-15T00:00:00.000Z,,Nebraska,Big Ten,Northern Illinois,Mid-American,tv,FS1
+401112141,2019,3,regular,2019-09-15T02:30:00.000Z,,Arizona,Pac-12,Texas Tech,Big 12,tv,ESPN
+401117869,2019,4,regular,2019-09-20T00:00:00.000Z,,Tulane,American Athletic,Houston,American Athletic,tv,ESPN
+401114220,2019,4,regular,2019-09-21T01:00:00.000Z,,USC,Pac-12,Utah,Pac-12,tv,FS1
+401114220,2019,4,regular,2019-09-21T01:00:00.000Z,,USC,Pac-12,Utah,Pac-12,radio,ESPNRM
+401117506,2019,4,regular,2019-09-21T01:00:00.000Z,,Boise State,Mountain West,Air Force,Mountain West,tv,ESPN2
+401114262,2019,4,regular,2019-09-21T00:00:00.000Z,,Louisiana Tech,Conference USA,Florida International,Conference USA,tv,CBSSN
+401112456,2019,4,regular,2019-09-21T23:30:00.000Z,,Clemson,ACC,Charlotte,Conference USA,tv,ACCN
+401110797,2019,4,regular,2019-09-21T16:00:00.000Z,,Alabama,SEC,Southern Mississippi,Conference USA,tv,ESPN2
+401110800,2019,4,regular,2019-09-22T00:00:00.000Z,,Georgia,SEC,Notre Dame,FBS Independents,tv,CBS
+401110805,2019,4,regular,2019-09-21T16:00:00.000Z,,Vanderbilt,SEC,LSU,SEC,tv,SECN
+401112253,2019,4,regular,2019-09-21T19:30:00.000Z,,Ohio State,Big Ten,Miami (OH),Mid-American,tv,BTN
+401110804,2019,4,regular,2019-09-21T19:30:00.000Z,,Texas A&M,SEC,Auburn,SEC,tv,CBS
+401110799,2019,4,regular,2019-09-21T16:00:00.000Z,,Florida,SEC,Tennessee,SEC,tv,ESPN
+401110799,2019,4,regular,2019-09-21T16:00:00.000Z,,Florida,SEC,Tennessee,SEC,radio,ESPNRM
+401112224,2019,4,regular,2019-09-21T16:00:00.000Z,,Wisconsin,Big Ten,Michigan,Big Ten,tv,FOX
+401112125,2019,4,regular,2019-09-21T23:30:00.000Z,,Texas,Big 12,Oklahoma State,Big 12,tv,ABC
+401112461,2019,4,regular,2019-09-21T19:30:00.000Z,,Pittsburgh,ACC,UCF,American Athletic,tv,ABC
+401112461,2019,4,regular,2019-09-21T19:30:00.000Z,,Pittsburgh,ACC,UCF,American Athletic,tv,ESPN2
+401114195,2019,4,regular,2019-09-21T23:00:00.000Z,,Stanford,Pac-12,Oregon,Pac-12,tv,ESPN
+401114215,2019,4,regular,2019-09-22T02:30:00.000Z,,Washington State,Pac-12,UCLA,Pac-12,tv,ESPN
+401112463,2019,4,regular,2019-09-21T23:00:00.000Z,,Virginia,ACC,Old Dominion,Conference USA,tv,ESPN2
+401114235,2019,4,regular,2019-09-21T19:30:00.000Z,,BYU,FBS Independents,Washington,Pac-12,tv,ABC
+401114235,2019,4,regular,2019-09-21T19:30:00.000Z,,BYU,FBS Independents,Washington,Pac-12,tv,ESPN2
+401110801,2019,4,regular,2019-09-21T16:00:00.000Z,,Ole Miss,SEC,California,Pac-12,tv,ESPNU
+401114155,2019,4,regular,2019-09-22T02:00:00.000Z,,Arizona State,Pac-12,Colorado,Pac-12,tv,PAC12
+401112131,2019,4,regular,2019-09-21T19:30:00.000Z,,TCU,Big 12,SMU,American Athletic,tv,FS1
+401112462,2019,4,regular,2019-09-21T16:00:00.000Z,,Syracuse,ACC,Western Michigan,Mid-American,tv,ACCN
+401112464,2019,4,regular,2019-09-21T16:00:00.000Z,,Wake Forest,ACC,Elon,,web,ACCNX
+401112265,2019,4,regular,2019-09-21T16:00:00.000Z,,Rutgers,Big Ten,Boston College,ACC,tv,BTN
+401112087,2019,4,regular,2019-09-21T16:00:00.000Z,,Iowa State,Big 12,Louisiana Monroe,Sun Belt,tv,FS1
+401112160,2019,4,regular,2019-09-21T16:00:00.000Z,,Indiana,Big Ten,Connecticut,American Athletic,tv,BTN
+401112215,2019,4,regular,2019-09-21T16:00:00.000Z,,Northwestern,Big Ten,Michigan State,Big Ten,tv,ABC
+401114327,2019,4,regular,2019-09-21T16:00:00.000Z,,Army,FBS Independents,Morgan State,,tv,CBSSN
+401119268,2019,4,regular,2019-09-21T18:00:00.000Z,,Ohio,Mid-American,Louisiana,Sun Belt,web,ESPN+
+401119269,2019,4,regular,2019-09-21T19:00:00.000Z,,Akron,Mid-American,Troy,Sun Belt,web,ESPN+
+401119267,2019,4,regular,2019-09-21T19:00:00.000Z,,Eastern Michigan,Mid-American,Central Connecticut,,web,ESPN3
+401117870,2019,4,regular,2019-09-21T19:30:00.000Z,,Buffalo,Mid-American,Temple,American Athletic,tv,ESPNU
+401119266,2019,4,regular,2019-09-21T19:30:00.000Z,,Kent State,Mid-American,Bowling Green,Mid-American,web,ESPN3
+401117509,2019,4,regular,2019-09-21T19:30:00.000Z,,Tulsa,American Athletic,Wyoming,Mountain West,tv,CBSSN
+401114265,2019,4,regular,2019-09-21T19:30:00.000Z,,UAB,Conference USA,South Alabama,Sun Belt,tv,NFL
+401112457,2019,4,regular,2019-09-21T19:30:00.000Z,,Florida State,ACC,Louisville,ACC,tv,ESPN
+401112459,2019,4,regular,2019-09-21T19:30:00.000Z,,North Carolina,ACC,Appalachian State,Sun Belt,web,ACCNX
+401112458,2019,4,regular,2019-09-21T20:00:00.000Z,,Miami,ACC,Central Michigan,Mid-American,tv,ACCN
+401110802,2019,4,regular,2019-09-21T20:00:00.000Z,,Mississippi State,SEC,Kentucky,SEC,tv,SECN
+401110803,2019,4,regular,2019-09-21T20:00:00.000Z,,Missouri,SEC,South Carolina,SEC,tv,SECN
+401112099,2019,4,regular,2019-09-21T20:30:00.000Z,,Kansas,Big 12,West Virginia,Big 12,web,ESPN+
+401114349,2019,4,regular,2019-09-21T22:00:00.000Z,,Liberty,FBS Independents,Hampton,,web,ESPN+
+401116697,2019,4,regular,2019-09-21T22:00:00.000Z,,East Carolina,American Athletic,William & Mary,,web,ESPN3
+401114263,2019,4,regular,2019-09-21T22:00:00.000Z,,Florida Atlantic,Conference USA,Wagner,,web,ESPN+
+401121941,2019,4,regular,2019-09-21T23:00:00.000Z,,Arkansas State,Sun Belt,Southern Illinois,,web,ESPN3
+401121942,2019,4,regular,2019-09-21T23:00:00.000Z,,Texas State,Sun Belt,Georgia State,Sun Belt,web,ESPN+
+401112075,2019,4,regular,2019-09-21T23:00:00.000Z,,Rice,Conference USA,Baylor,Big 12,tv,CBSSN
+401112460,2019,4,regular,2019-09-21T23:00:00.000Z,,NC State,ACC,Ball State,Mid-American,tv,ESPNU
+401110798,2019,4,regular,2019-09-21T23:30:00.000Z,,Arkansas,SEC,San José State,Mountain West,tv,SECN
+401114266,2019,4,regular,2019-09-22T00:00:00.000Z,,UTEP,Conference USA,Nevada,Mountain West,web,ESPN3
+401112148,2019,4,regular,2019-09-22T00:00:00.000Z,,Illinois,Big Ten,Nebraska,Big Ten,tv,BTN
+401117507,2019,4,regular,2019-09-22T02:15:00.000Z,,Colorado State,Mountain West,Toledo,Mid-American,tv,ESPN2
+401117508,2019,4,regular,2019-09-22T02:30:00.000Z,,San Diego State,Mountain West,Utah State,Mountain West,tv,CBSSN
+401117871,2019,5,regular,2019-09-27T00:00:00.000Z,,Memphis,American Athletic,Navy,American Athletic,tv,ESPN
+401112204,2019,5,regular,2019-09-28T00:00:00.000Z,,Maryland,Big Ten,Penn State,Big Ten,tv,FS1
+401114156,2019,5,regular,2019-09-28T02:30:00.000Z,,California,Pac-12,Arizona State,Pac-12,tv,ESPN
+401112465,2019,5,regular,2019-09-27T23:00:00.000Z,,Virginia Tech,ACC,Duke,ACC,tv,ESPN
+401117512,2019,5,regular,2019-09-28T00:00:00.000Z,,Air Force,Mountain West,San José State,Mountain West,tv,CBSSN
+401112467,2019,5,regular,2019-09-28T19:30:00.000Z,,North Carolina,ACC,Clemson,ACC,tv,ABC
+401110806,2019,5,regular,2019-09-28T19:30:00.000Z,,Alabama,SEC,Ole Miss,SEC,tv,CBS
+401110806,2019,5,regular,2019-09-28T19:30:00.000Z,,Alabama,SEC,Ole Miss,SEC,radio,ESPNRM
+401112241,2019,5,regular,2019-09-28T23:30:00.000Z,,Nebraska,Big Ten,Ohio State,Big Ten,tv,ABC
+401112117,2019,5,regular,2019-09-28T16:00:00.000Z,,Oklahoma,Big 12,Texas Tech,Big 12,tv,FOX
+401110808,2019,5,regular,2019-09-28T23:00:00.000Z,,Auburn,SEC,Mississippi State,SEC,tv,ESPN
+401112247,2019,5,regular,2019-09-28T16:00:00.000Z,,Wisconsin,Big Ten,Northwestern,Big Ten,tv,ABC
+401110809,2019,5,regular,2019-09-28T20:00:00.000Z,,Florida,SEC,Towson,,tv,SECN
+401112472,2019,5,regular,2019-09-28T19:30:00.000Z,,Notre Dame,FBS Independents,Virginia,ACC,tv,NBC
+401112193,2019,5,regular,2019-09-28T16:00:00.000Z,,Iowa,Big Ten,Middle Tennessee,Conference USA,tv,ESPN2
+401114221,2019,5,regular,2019-09-28T19:30:00.000Z,,Washington,Pac-12,USC,Pac-12,tv,FOX
+401114226,2019,5,regular,2019-09-29T02:00:00.000Z,,Utah,Pac-12,Washington State,Pac-12,tv,FS1
+401112225,2019,5,regular,2019-09-28T16:00:00.000Z,,Michigan,Big Ten,Rutgers,Big Ten,tv,BTN
+401117872,2019,5,regular,2019-09-28T23:00:00.000Z,,UCF,American Athletic,Connecticut,American Athletic,tv,ESPN2
+401110807,2019,5,regular,2019-09-28T16:00:00.000Z,,Arkansas,SEC,Texas A&M,SEC,tv,ESPN
+401112108,2019,5,regular,2019-09-28T23:00:00.000Z,,Oklahoma State,Big 12,Kansas State,Big 12,web,ESPN+
+401112161,2019,5,regular,2019-09-28T19:30:00.000Z,,Michigan State,Big Ten,Indiana,Big Ten,tv,BTN
+401112471,2019,5,regular,2019-09-28T16:00:00.000Z,,Syracuse,ACC,Holy Cross,,tv,ACCN
+401110811,2019,5,regular,2019-09-28T16:00:00.000Z,,Vanderbilt,SEC,Northern Illinois,Mid-American,tv,SECN
+401112100,2019,5,regular,2019-09-28T16:00:00.000Z,,TCU,Big 12,Kansas,Big 12,tv,FS1
+401117213,2019,5,regular,2019-09-28T16:00:00.000Z,,Toledo,Mid-American,BYU,FBS Independents,web,ESPN+
+401119270,2019,5,regular,2019-09-28T16:00:00.000Z,,Miami (OH),Mid-American,Buffalo,Mid-American,tv,ESPNU
+401119271,2019,5,regular,2019-09-28T16:00:00.000Z,,Western Michigan,Mid-American,Central Michigan,Mid-American,tv,CBSSN
+401112470,2019,5,regular,2019-09-28T16:30:00.000Z,,Pittsburgh,ACC,Delaware,,web,ACCNX
+401114267,2019,5,regular,2019-09-28T19:30:00.000Z,,Charlotte,Conference USA,Florida Atlantic,Conference USA,tv,NFL
+401112469,2019,5,regular,2019-09-28T19:30:00.000Z,,Temple,American Athletic,Georgia Tech,ACC,tv,CBSSN
+401112466,2019,5,regular,2019-09-28T19:30:00.000Z,,Boston College,ACC,Wake Forest,ACC,tv,ACCN
+401112076,2019,5,regular,2019-09-28T19:30:00.000Z,,Baylor,Big 12,Iowa State,Big 12,tv,ESPN
+401112232,2019,5,regular,2019-09-28T19:30:00.000Z,,Purdue,Big Ten,Minnesota,Big Ten,tv,ESPN2
+401121943,2019,5,regular,2019-09-28T19:30:00.000Z,,Appalachian State,Sun Belt,Coastal Carolina,Sun Belt,web,ESPN+
+401117873,2019,5,regular,2019-09-28T20:00:00.000Z,,South Florida,American Athletic,SMU,American Athletic,tv,ESPNU
+401114350,2019,5,regular,2019-09-28T22:00:00.000Z,,Liberty,FBS Independents,New Mexico,Mountain West,web,ESPN+
+401114271,2019,5,regular,2019-09-28T22:00:00.000Z,,Old Dominion,Conference USA,East Carolina,American Athletic,web,ESPN+
+401121944,2019,5,regular,2019-09-28T22:00:00.000Z,,Troy,Sun Belt,Arkansas State,Sun Belt,web,ESPN+
+401121945,2019,5,regular,2019-09-28T22:00:00.000Z,,Georgia Southern,Sun Belt,Louisiana,Sun Belt,web,ESPN+
+401121946,2019,5,regular,2019-09-28T23:00:00.000Z,,Louisiana Monroe,Sun Belt,South Alabama,Sun Belt,web,ESPN+
+401121947,2019,5,regular,2019-09-28T23:00:00.000Z,,Texas State,Sun Belt,Nicholls,,web,ESPN3
+401114272,2019,5,regular,2019-09-28T23:00:00.000Z,,Southern Mississippi,Conference USA,UTEP,Conference USA,web,ESPN+
+401114273,2019,5,regular,2019-09-28T23:00:00.000Z,,Western Kentucky,Conference USA,UAB,Conference USA,web,ESPN+
+401114268,2019,5,regular,2019-09-28T23:00:00.000Z,,Rice,Conference USA,Louisiana Tech,Conference USA,web,ESPN3
+401114202,2019,5,regular,2019-09-28T23:00:00.000Z,,Oregon State,Pac-12,Stanford,Pac-12,tv,PAC12
+401112468,2019,5,regular,2019-09-28T23:30:00.000Z,,Florida State,ACC,NC State,ACC,tv,ACCN
+401110810,2019,5,regular,2019-09-28T23:30:00.000Z,,South Carolina,SEC,Kentucky,SEC,tv,SECN
+401117513,2019,5,regular,2019-09-28T23:30:00.000Z,,Utah State,Mountain West,Colorado State,Mountain West,tv,CBSSN
+401117514,2019,5,regular,2019-09-29T00:00:00.000Z,,Wyoming,Mountain West,UNLV,Mountain West,tv,ESPNU
+401114166,2019,5,regular,2019-09-29T02:30:00.000Z,,Arizona,Pac-12,UCLA,Pac-12,tv,ESPN
+401117515,2019,5,regular,2019-09-29T02:30:00.000Z,,Nevada,Mountain West,Hawai'i,Mountain West,tv,ESPN2
+401121948,2019,6,regular,2019-10-03T23:30:00.000Z,,South Alabama,Sun Belt,Georgia Southern,Sun Belt,tv,ESPNU
+401117874,2019,6,regular,2019-10-04T00:00:00.000Z,,East Carolina,American Athletic,Temple,American Athletic,tv,ESPN
+401117875,2019,6,regular,2019-10-05T00:00:00.000Z,,Cincinnati,American Athletic,UCF,American Athletic,tv,ESPN
+401117519,2019,6,regular,2019-10-05T02:00:00.000Z,,San José State,Mountain West,New Mexico,Mountain West,tv,CBSSN
+401110816,2019,6,regular,2019-10-05T23:00:00.000Z,,Tennessee,SEC,Georgia,SEC,tv,ESPN
+401112216,2019,6,regular,2019-10-05T23:30:00.000Z,,Ohio State,Big Ten,Michigan State,Big Ten,tv,ABC
+401112216,2019,6,regular,2019-10-05T23:30:00.000Z,,Ohio State,Big Ten,Michigan State,Big Ten,radio,ESPNRM
+401110813,2019,6,regular,2019-10-05T16:00:00.000Z,,LSU,SEC,Utah State,Mountain West,tv,SECN
+401112101,2019,6,regular,2019-10-05T16:00:00.000Z,,Kansas,Big 12,Oklahoma,Big 12,tv,ABC
+401110812,2019,6,regular,2019-10-05T19:30:00.000Z,,Florida,SEC,Auburn,SEC,tv,CBS
+401112269,2019,6,regular,2019-10-05T16:00:00.000Z,,Wisconsin,Big Ten,Kent State,Mid-American,tv,ESPNU
+401114337,2019,6,regular,2019-10-05T19:30:00.000Z,,Notre Dame,FBS Independents,Bowling Green,Mid-American,tv,NBC
+401112137,2019,6,regular,2019-10-05T19:30:00.000Z,,West Virginia,Big 12,Texas,Big 12,tv,ABC
+401112260,2019,6,regular,2019-10-05T16:00:00.000Z,,Penn State,Big Ten,Purdue,Big Ten,tv,ESPN
+401114177,2019,6,regular,2019-10-06T00:00:00.000Z,,Oregon,Pac-12,California,Pac-12,tv,FOX
+401112194,2019,6,regular,2019-10-05T16:00:00.000Z,,Michigan,Big Ten,Iowa,Big Ten,tv,FOX
+401114209,2019,6,regular,2019-10-06T02:30:00.000Z,,Stanford,Pac-12,Washington,Pac-12,tv,ESPN
+401117517,2019,6,regular,2019-10-06T02:30:00.000Z,,UNLV,Mountain West,Boise State,Mountain West,tv,CBSSN
+401112126,2019,6,regular,2019-10-05T16:00:00.000Z,,Texas Tech,Big 12,Oklahoma State,Big 12,tv,FS1
+401117878,2019,6,regular,2019-10-05T23:30:00.000Z,,SMU,American Athletic,Tulsa,American Athletic,tv,ESPNU
+401112205,2019,6,regular,2019-10-05T16:00:00.000Z,,Rutgers,Big Ten,Maryland,Big Ten,tv,BTN
+401114328,2019,6,regular,2019-10-05T16:00:00.000Z,,Army,FBS Independents,Tulane,American Athletic,tv,CBSSN
+401112473,2019,6,regular,2019-10-05T16:30:00.000Z,,Louisville,ACC,Boston College,ACC,web,ACCNX
+401112088,2019,6,regular,2019-10-05T18:00:00.000Z,,Iowa State,Big 12,TCU,Big 12,tv,ESPN2
+401119273,2019,6,regular,2019-10-05T19:00:00.000Z,,Central Michigan,Mid-American,Eastern Michigan,Mid-American,web,ESPN+
+401119274,2019,6,regular,2019-10-05T19:30:00.000Z,,Buffalo,Mid-American,Ohio,Mid-American,web,ESPN+
+401119275,2019,6,regular,2019-10-05T19:30:00.000Z,,Toledo,Mid-American,Western Michigan,Mid-American,web,ESPN+
+401121949,2019,6,regular,2019-10-05T19:30:00.000Z,,Georgia State,Sun Belt,Arkansas State,Sun Belt,web,ESPN+
+401119272,2019,6,regular,2019-10-05T19:30:00.000Z,,Northern Illinois,Mid-American,Ball State,Mid-American,web,ESPN3
+401112476,2019,6,regular,2019-10-05T19:30:00.000Z,,Miami,ACC,Virginia Tech,ACC,tv,ESPN
+401117516,2019,6,regular,2019-10-05T19:30:00.000Z,,Navy,American Athletic,Air Force,Mountain West,tv,CBSSN
+401112077,2019,6,regular,2019-10-05T19:30:00.000Z,,Kansas State,Big 12,Baylor,Big 12,tv,ESPN2
+401112149,2019,6,regular,2019-10-05T19:30:00.000Z,,Minnesota,Big Ten,Illinois,Big Ten,tv,BTN
+401117877,2019,6,regular,2019-10-05T19:45:00.000Z,,Louisiana Monroe,Sun Belt,Memphis,American Athletic,tv,ESPNU
+401110815,2019,6,regular,2019-10-05T20:00:00.000Z,,Missouri,SEC,Troy,Sun Belt,tv,SECN
+401112475,2019,6,regular,2019-10-05T20:00:00.000Z,,Georgia Tech,ACC,North Carolina,ACC,tv,ACCN
+401114276,2019,6,regular,2019-10-05T22:00:00.000Z,,Old Dominion,Conference USA,Western Kentucky,Conference USA,web,ESPN+
+401114277,2019,6,regular,2019-10-05T23:00:00.000Z,,UAB,Conference USA,Rice,Conference USA,web,ESPN+
+401114274,2019,6,regular,2019-10-05T23:00:00.000Z,,Florida International,Conference USA,UMass,FBS Independents,web,ESPN3
+401110814,2019,6,regular,2019-10-05T23:30:00.000Z,,Ole Miss,SEC,Vanderbilt,SEC,tv,SECN
+401112474,2019,6,regular,2019-10-06T00:00:00.000Z,,Duke,ACC,Pittsburgh,ACC,tv,ACCN
+401114278,2019,6,regular,2019-10-06T00:00:00.000Z,,UTEP,Conference USA,UT San Antonio,Conference USA,web,ESPN+
+401117518,2019,6,regular,2019-10-06T02:00:00.000Z,,Colorado State,Mountain West,San Diego State,Mountain West,tv,ESPN2
+401121950,2019,7,regular,2019-10-10T00:00:00.000Z,,Louisiana,Sun Belt,Appalachian State,Sun Belt,tv,ESPN2
+401112477,2019,7,regular,2019-10-11T00:00:00.000Z,,NC State,ACC,Syracuse,ACC,tv,ESPN
+401121951,2019,7,regular,2019-10-11T01:15:00.000Z,,Texas State,Sun Belt,Louisiana Monroe,Sun Belt,tv,ESPNU
+401114186,2019,7,regular,2019-10-12T02:00:00.000Z,,Oregon,Pac-12,Colorado,Pac-12,tv,FS1
+401112478,2019,7,regular,2019-10-12T00:00:00.000Z,,Miami,ACC,Virginia,ACC,tv,ESPN
+401117522,2019,7,regular,2019-10-12T00:00:00.000Z,,New Mexico,Mountain West,Colorado State,Mountain West,tv,CBSSN
+401110822,2019,7,regular,2019-10-12T19:30:00.000Z,,Texas A&M,SEC,Alabama,SEC,tv,CBS
+401112479,2019,7,regular,2019-10-12T19:30:00.000Z,,Clemson,ACC,Florida State,ACC,tv,ABC
+401110817,2019,7,regular,2019-10-12T16:00:00.000Z,,Georgia,SEC,South Carolina,SEC,tv,ESPN
+401110819,2019,7,regular,2019-10-13T00:00:00.000Z,,LSU,SEC,Florida,SEC,tv,ESPN
+401110819,2019,7,regular,2019-10-13T00:00:00.000Z,,LSU,SEC,Florida,SEC,radio,ESPNRM
+401112118,2019,7,regular,2019-10-12T16:00:00.000Z,,Texas,Big 12,Oklahoma,Big 12,tv,FOX
+401114222,2019,7,regular,2019-10-12T23:30:00.000Z,,Notre Dame,FBS Independents,USC,Pac-12,tv,NBC
+401112195,2019,7,regular,2019-10-12T23:30:00.000Z,,Iowa,Big Ten,Penn State,Big Ten,tv,ABC
+401117521,2019,7,regular,2019-10-13T02:15:00.000Z,,Boise State,Mountain West,Hawai'i,Mountain West,tv,ESPN2
+401114204,2019,7,regular,2019-10-13T00:00:00.000Z,,Oregon State,Pac-12,Utah,Pac-12,tv,PAC12
+401112150,2019,7,regular,2019-10-12T16:00:00.000Z,,Illinois,Big Ten,Michigan,Big Ten,tv,ABC
+401114157,2019,7,regular,2019-10-12T19:30:00.000Z,,Arizona State,Pac-12,Washington State,Pac-12,tv,PAC12
+401112481,2019,7,regular,2019-10-12T23:30:00.000Z,,Wake Forest,ACC,Louisville,ACC,tv,ACCN
+401117881,2019,7,regular,2019-10-12T16:00:00.000Z,,Temple,American Athletic,Memphis,American Athletic,tv,ESPN2
+401117879,2019,7,regular,2019-10-12T19:30:00.000Z,,Houston,American Athletic,Cincinnati,American Athletic,tv,ESPN2
+401110821,2019,7,regular,2019-10-12T16:00:00.000Z,,Tennessee,SEC,Mississippi State,SEC,tv,SECN
+401119278,2019,7,regular,2019-10-12T16:00:00.000Z,,Western Michigan,Mid-American,Miami (OH),Mid-American,tv,ESPNU
+401112480,2019,7,regular,2019-10-12T16:30:00.000Z,,Duke,ACC,Georgia Tech,ACC,web,ACCNX
+401119276,2019,7,regular,2019-10-12T18:00:00.000Z,,Eastern Michigan,Mid-American,Ball State,Mid-American,web,ESPN+
+401114343,2019,7,regular,2019-10-12T19:00:00.000Z,,Central Michigan,Mid-American,New Mexico State,FBS Independents,web,ESPN3
+401117214,2019,7,regular,2019-10-12T19:30:00.000Z,,South Florida,American Athletic,BYU,FBS Independents,tv,CBSSN
+401119277,2019,7,regular,2019-10-12T19:30:00.000Z,,Akron,Mid-American,Kent State,Mid-American,web,ESPN3
+401119279,2019,7,regular,2019-10-12T19:30:00.000Z,,Ohio,Mid-American,Northern Illinois,Mid-American,web,ESPN+
+401117880,2019,7,regular,2019-10-12T19:45:00.000Z,,Tulane,American Athletic,Connecticut,American Athletic,tv,ESPNU
+401110823,2019,7,regular,2019-10-12T20:00:00.000Z,,Vanderbilt,SEC,UNLV,Mountain West,tv,SECN
+401112089,2019,7,regular,2019-10-12T20:00:00.000Z,,West Virginia,Big 12,Iowa State,Big 12,tv,ESPN
+401112482,2019,7,regular,2019-10-12T20:00:00.000Z,,Virginia Tech,ACC,Rhode Island,,tv,ACCN
+401114280,2019,7,regular,2019-10-12T20:00:00.000Z,,Florida Atlantic,Conference USA,Middle Tennessee,Conference USA,web,ESPN+
+401121952,2019,7,regular,2019-10-12T21:00:00.000Z,,Coastal Carolina,Sun Belt,Georgia State,Sun Belt,web,ESPN+
+401114284,2019,7,regular,2019-10-12T22:00:00.000Z,,UT San Antonio,Conference USA,UAB,Conference USA,web,ESPN+
+401114281,2019,7,regular,2019-10-12T23:00:00.000Z,,Louisiana Tech,Conference USA,UMass,FBS Independents,web,ESPN3
+401117520,2019,7,regular,2019-10-12T23:00:00.000Z,,Air Force,Mountain West,Fresno State,Mountain West,tv,CBSSN
+401110820,2019,7,regular,2019-10-12T23:00:00.000Z,,Missouri,SEC,Ole Miss,SEC,tv,ESPN2
+401114279,2019,7,regular,2019-10-12T23:00:00.000Z,,Florida International,Conference USA,Charlotte,Conference USA,web,ESPN+
+401110818,2019,7,regular,2019-10-12T23:30:00.000Z,,Kentucky,SEC,Arkansas,SEC,tv,SECN
+401117882,2019,7,regular,2019-10-12T23:30:00.000Z,,Tulsa,American Athletic,Navy,American Athletic,tv,ESPNU
+401117523,2019,7,regular,2019-10-13T02:30:00.000Z,,San Diego State,Mountain West,Wyoming,Mountain West,tv,CBSSN
+401121953,2019,8,regular,2019-10-17T00:00:00.000Z,,Troy,Sun Belt,South Alabama,Sun Belt,tv,ESPN2
+401121954,2019,8,regular,2019-10-17T23:30:00.000Z,,Arkansas State,Sun Belt,Louisiana,Sun Belt,tv,ESPNU
+401114210,2019,8,regular,2019-10-18T01:00:00.000Z,,Stanford,Pac-12,UCLA,Pac-12,tv,ESPN
+401112248,2019,8,regular,2019-10-19T00:30:00.000Z,,Northwestern,Big Ten,Ohio State,Big Ten,tv,BTN
+401114288,2019,8,regular,2019-10-18T22:30:00.000Z,,Florida Atlantic,Conference USA,Marshall,Conference USA,tv,CBSSN
+401112483,2019,8,regular,2019-10-18T23:00:00.000Z,,Syracuse,ACC,Pittsburgh,ACC,tv,ESPN
+401117528,2019,8,regular,2019-10-19T02:00:00.000Z,,Fresno State,Mountain West,UNLV,Mountain West,tv,CBSSN
+401110824,2019,8,regular,2019-10-20T01:00:00.000Z,,Alabama,SEC,Tennessee,SEC,tv,ESPN
+401110828,2019,8,regular,2019-10-19T19:30:00.000Z,,Mississippi State,SEC,LSU,SEC,tv,CBS
+401112485,2019,8,regular,2019-10-19T16:00:00.000Z,,Louisville,ACC,Clemson,ACC,tv,ABC
+401112119,2019,8,regular,2019-10-19T16:00:00.000Z,,Oklahoma,Big 12,West Virginia,Big 12,tv,FOX
+401112151,2019,8,regular,2019-10-19T16:00:00.000Z,,Illinois,Big Ten,Wisconsin,Big Ten,tv,BTN
+401112226,2019,8,regular,2019-10-19T23:30:00.000Z,,Penn State,Big Ten,Michigan,Big Ten,tv,ABC
+401110829,2019,8,regular,2019-10-19T16:00:00.000Z,,South Carolina,SEC,Florida,SEC,tv,ESPN
+401110826,2019,8,regular,2019-10-19T22:00:00.000Z,,Georgia,SEC,Kentucky,SEC,tv,ESPN
+401110825,2019,8,regular,2019-10-19T16:00:00.000Z,,Arkansas,SEC,Auburn,SEC,tv,SECN
+401114196,2019,8,regular,2019-10-19T19:30:00.000Z,,Washington,Pac-12,Oregon,Pac-12,tv,ABC
+401114196,2019,8,regular,2019-10-19T19:30:00.000Z,,Washington,Pac-12,Oregon,Pac-12,radio,ESPNRM
+401114158,2019,8,regular,2019-10-19T22:00:00.000Z,,Utah,Pac-12,Arizona State,Pac-12,tv,PAC12
+401117215,2019,8,regular,2019-10-20T02:15:00.000Z,,BYU,FBS Independents,Boise State,Mountain West,tv,ESPN2
+401112102,2019,8,regular,2019-10-19T23:00:00.000Z,,Texas,Big 12,Kansas,Big 12,tv,LHN
+401112079,2019,8,regular,2019-10-19T20:00:00.000Z,,Oklahoma State,Big 12,Baylor,Big 12,tv,FOX
+401117887,2019,8,regular,2019-10-19T19:30:00.000Z,,SMU,American Athletic,Temple,American Athletic,tv,ESPN2
+401112234,2019,8,regular,2019-10-19T19:30:00.000Z,,Rutgers,Big Ten,Minnesota,Big Ten,tv,BTN
+401117885,2019,8,regular,2019-10-19T19:30:00.000Z,,Cincinnati,American Athletic,Tulsa,American Athletic,tv,ESPNU
+401110830,2019,8,regular,2019-10-19T20:00:00.000Z,,Vanderbilt,SEC,Missouri,SEC,tv,SECN
+401112196,2019,8,regular,2019-10-19T16:00:00.000Z,,Iowa,Big Ten,Purdue,Big Ten,tv,ESPN2
+401121955,2019,8,regular,2019-10-19T19:30:00.000Z,,Appalachian State,Sun Belt,Louisiana Monroe,Sun Belt,web,ESPN+
+401117886,2019,8,regular,2019-10-19T16:00:00.000Z,,Connecticut,American Athletic,Houston,American Athletic,tv,ESPNU
+401119283,2019,8,regular,2019-10-19T16:00:00.000Z,,Ohio,Mid-American,Kent State,Mid-American,tv,CBSSN
+401112488,2019,8,regular,2019-10-19T16:00:00.000Z,,Miami,ACC,Georgia Tech,ACC,tv,ACCN
+401112484,2019,8,regular,2019-10-19T16:00:00.000Z,,Boston College,ACC,NC State,ACC,web,ACCNX
+401112090,2019,8,regular,2019-10-19T16:00:00.000Z,,Texas Tech,Big 12,Iowa State,Big 12,tv,FS1
+401119285,2019,8,regular,2019-10-19T18:00:00.000Z,,Ball State,Mid-American,Toledo,Mid-American,web,ESPN+
+401119282,2019,8,regular,2019-10-19T18:00:00.000Z,,Bowling Green,Mid-American,Central Michigan,Mid-American,web,ESPN3
+401119284,2019,8,regular,2019-10-19T18:30:00.000Z,,Miami (OH),Mid-American,Northern Illinois,Mid-American,web,ESPN+
+401114178,2019,8,regular,2019-10-19T18:30:00.000Z,,California,Pac-12,Oregon State,Pac-12,tv,PAC12
+401121956,2019,8,regular,2019-10-19T19:00:00.000Z,,Georgia Southern,Sun Belt,Coastal Carolina,Sun Belt,web,ESPN3
+401117883,2019,8,regular,2019-10-19T19:30:00.000Z,,Navy,American Athletic,South Florida,American Athletic,tv,CBSSN
+401119281,2019,8,regular,2019-10-19T19:30:00.000Z,,Akron,Mid-American,Buffalo,Mid-American,web,ESPN3
+401112489,2019,8,regular,2019-10-19T19:30:00.000Z,,Virginia Tech,ACC,North Carolina,ACC,web,ACCNX
+401114289,2019,8,regular,2019-10-19T19:30:00.000Z,,Louisiana Tech,Conference USA,Southern Mississippi,Conference USA,tv,NFL
+401112163,2019,8,regular,2019-10-19T19:30:00.000Z,,Maryland,Big Ten,Indiana,Big Ten,tv,BTN
+401112486,2019,8,regular,2019-10-19T19:30:00.000Z,,Virginia,ACC,Duke,ACC,tv,ACCN
+401114291,2019,8,regular,2019-10-19T20:00:00.000Z,,UAB,Conference USA,Old Dominion,Conference USA,web,ESPN+
+401114286,2019,8,regular,2019-10-19T20:00:00.000Z,,Western Kentucky,Conference USA,Charlotte,Conference USA,web,ESPN+
+401114292,2019,8,regular,2019-10-19T22:00:00.000Z,,UT San Antonio,Conference USA,Rice,Conference USA,web,ESPN3
+401114351,2019,8,regular,2019-10-19T22:00:00.000Z,,Liberty,FBS Independents,Maine,,web,ESPN+
+401117884,2019,8,regular,2019-10-19T23:00:00.000Z,,UCF,American Athletic,East Carolina,American Athletic,tv,CBSSN
+401117888,2019,8,regular,2019-10-19T23:00:00.000Z,,Memphis,American Athletic,Tulane,American Athletic,tv,ESPN2
+401119286,2019,8,regular,2019-10-19T23:00:00.000Z,,Eastern Michigan,Mid-American,Western Michigan,Mid-American,web,ESPN+
+401114187,2019,8,regular,2019-10-19T23:00:00.000Z,,Washington State,Pac-12,Colorado,Pac-12,tv,ESPNU
+401114329,2019,8,regular,2019-10-19T23:00:00.000Z,,Georgia State,Sun Belt,Army,FBS Independents,web,ESPN+
+401114287,2019,8,regular,2019-10-19T23:00:00.000Z,,Florida International,Conference USA,UTEP,Conference USA,web,ESPN+
+401110827,2019,8,regular,2019-10-19T23:30:00.000Z,,Ole Miss,SEC,Texas A&M,SEC,tv,SECN
+401112487,2019,8,regular,2019-10-19T23:30:00.000Z,,Wake Forest,ACC,Florida State,ACC,tv,ACCN
+401114169,2019,8,regular,2019-10-20T01:30:00.000Z,,USC,Pac-12,Arizona,Pac-12,tv,PAC12
+401117527,2019,8,regular,2019-10-20T02:15:00.000Z,,Utah State,Mountain West,Nevada,Mountain West,tv,ESPNU
+401117525,2019,8,regular,2019-10-20T03:00:00.000Z,,Hawai'i,Mountain West,Air Force,Mountain West,tv,CBSSN
+401117889,2019,9,regular,2019-10-24T23:30:00.000Z,,Houston,American Athletic,SMU,American Athletic,tv,ESPN
+401114188,2019,9,regular,2019-10-26T01:00:00.000Z,,Colorado,Pac-12,USC,Pac-12,tv,ESPN2
+401110831,2019,9,regular,2019-10-26T23:00:00.000Z,,Alabama,SEC,Arkansas,SEC,tv,ESPN
+401110833,2019,9,regular,2019-10-26T19:30:00.000Z,,LSU,SEC,Auburn,SEC,tv,CBS
+401110833,2019,9,regular,2019-10-26T19:30:00.000Z,,LSU,SEC,Auburn,SEC,radio,ESPNRM
+401112254,2019,9,regular,2019-10-26T16:00:00.000Z,,Ohio State,Big Ten,Wisconsin,Big Ten,tv,FOX
+401112490,2019,9,regular,2019-10-26T23:30:00.000Z,,Clemson,ACC,Boston College,ACC,tv,ACCN
+401112110,2019,9,regular,2019-10-26T16:00:00.000Z,,Kansas State,Big 12,Oklahoma,Big 12,tv,ABC
+401112218,2019,9,regular,2019-10-26T19:30:00.000Z,,Michigan State,Big Ten,Penn State,Big Ten,tv,ABC
+401112227,2019,9,regular,2019-10-26T23:30:00.000Z,,Michigan,Big Ten,Notre Dame,FBS Independents,tv,ABC
+401114197,2019,9,regular,2019-10-27T02:30:00.000Z,,Oregon,Pac-12,Washington State,Pac-12,tv,ESPN
+401114179,2019,9,regular,2019-10-27T02:00:00.000Z,,Utah,Pac-12,California,Pac-12,tv,FS1
+401112132,2019,9,regular,2019-10-26T19:30:00.000Z,,TCU,Big 12,Texas,Big 12,tv,FOX
+401112207,2019,9,regular,2019-10-26T19:30:00.000Z,,Minnesota,Big Ten,Maryland,Big Ten,tv,ESPN
+401112197,2019,9,regular,2019-10-26T16:00:00.000Z,,Northwestern,Big Ten,Iowa,Big Ten,tv,ESPN2
+401121957,2019,9,regular,2019-10-26T16:00:00.000Z,,South Alabama,Sun Belt,Appalachian State,Sun Belt,tv,ESPNU
+401112091,2019,9,regular,2019-10-26T19:30:00.000Z,,Iowa State,Big 12,Oklahoma State,Big 12,tv,FS1
+401114159,2019,9,regular,2019-10-26T23:30:00.000Z,,UCLA,Pac-12,Arizona State,Pac-12,tv,PAC12
+401112494,2019,9,regular,2019-10-26T16:00:00.000Z,,Pittsburgh,ACC,Miami,ACC,tv,ESPN
+401114330,2019,9,regular,2019-10-26T16:00:00.000Z,,Army,FBS Independents,San José State,Mountain West,tv,CBSSN
+401110835,2019,9,regular,2019-10-26T16:00:00.000Z,,Texas A&M,SEC,Mississippi State,SEC,tv,SECN
+401112152,2019,9,regular,2019-10-26T16:00:00.000Z,,Purdue,Big Ten,Illinois,Big Ten,tv,BTN
+401112266,2019,9,regular,2019-10-26T16:00:00.000Z,,Rutgers,Big Ten,Liberty,FBS Independents,tv,BTN
+401119288,2019,9,regular,2019-10-26T16:00:00.000Z,,Western Michigan,Mid-American,Bowling Green,Mid-American,web,ESPN3
+401114298,2019,9,regular,2019-10-26T17:00:00.000Z,,Rice,Conference USA,Southern Mississippi,Conference USA,web,ESPN+
+401119292,2019,9,regular,2019-10-26T18:00:00.000Z,,Ball State,Mid-American,Ohio,Mid-American,web,ESPN+
+401114344,2019,9,regular,2019-10-26T19:00:00.000Z,,Georgia Southern,Sun Belt,New Mexico State,FBS Independents,web,ESPN3
+401114293,2019,9,regular,2019-10-26T19:30:00.000Z,,Charlotte,Conference USA,North Texas,Conference USA,web,ESPN+
+401114294,2019,9,regular,2019-10-26T19:30:00.000Z,,Middle Tennessee,Conference USA,Florida International,Conference USA,tv,NFL
+401114295,2019,9,regular,2019-10-26T19:30:00.000Z,,Old Dominion,Conference USA,Florida Atlantic,Conference USA,web,ESPN+
+401112492,2019,9,regular,2019-10-26T19:30:00.000Z,,Florida State,ACC,Syracuse,ACC,tv,ESPN2
+401112493,2019,9,regular,2019-10-26T19:30:00.000Z,,Louisville,ACC,Virginia,ACC,tv,ACCN
+401114170,2019,9,regular,2019-10-26T19:30:00.000Z,,Stanford,Pac-12,Arizona,Pac-12,tv,PAC12
+401112164,2019,9,regular,2019-10-26T19:30:00.000Z,,Nebraska,Big Ten,Indiana,Big Ten,tv,BTN
+401117890,2019,9,regular,2019-10-26T19:30:00.000Z,,Navy,American Athletic,Tulane,American Athletic,tv,CBSSN
+401119289,2019,9,regular,2019-10-26T19:30:00.000Z,,Buffalo,Mid-American,Central Michigan,Mid-American,web,ESPN+
+401119290,2019,9,regular,2019-10-26T19:30:00.000Z,,Toledo,Mid-American,Eastern Michigan,Mid-American,web,ESPN+
+401119291,2019,9,regular,2019-10-26T19:30:00.000Z,,Kent State,Mid-American,Miami (OH),Mid-American,web,ESPN+
+401119287,2019,9,regular,2019-10-26T19:30:00.000Z,,Northern Illinois,Mid-American,Akron,Mid-American,web,ESPN3
+401117892,2019,9,regular,2019-10-26T19:45:00.000Z,,East Carolina,American Athletic,South Florida,American Athletic,tv,ESPNU
+401112491,2019,9,regular,2019-10-26T20:00:00.000Z,,North Carolina,ACC,Duke,ACC,web,ACCNX
+401110834,2019,9,regular,2019-10-26T20:00:00.000Z,,Tennessee,SEC,South Carolina,SEC,tv,SECN
+401112103,2019,9,regular,2019-10-26T23:00:00.000Z,,Kansas,Big 12,Texas Tech,Big 12,tv,FS1
+401117891,2019,9,regular,2019-10-26T23:00:00.000Z,,Temple,American Athletic,UCF,American Athletic,tv,ESPN2
+401117893,2019,9,regular,2019-10-26T23:00:00.000Z,,Tulsa,American Athletic,Memphis,American Athletic,tv,CBSSN
+401121958,2019,9,regular,2019-10-26T23:00:00.000Z,,Arkansas State,Sun Belt,Texas State,Sun Belt,web,ESPN+
+401121959,2019,9,regular,2019-10-26T23:00:00.000Z,,Georgia State,Sun Belt,Troy,Sun Belt,web,ESPN+
+401117531,2019,9,regular,2019-10-26T23:30:00.000Z,,Fresno State,Mountain West,Colorado State,Mountain West,tv,ESPNU
+401110832,2019,9,regular,2019-10-26T23:30:00.000Z,,Kentucky,SEC,Missouri,SEC,tv,SECN
+401114296,2019,9,regular,2019-10-27T00:00:00.000Z,,UTEP,Conference USA,Louisiana Tech,Conference USA,web,ESPN3
+401117530,2019,9,regular,2019-10-27T02:15:00.000Z,,Air Force,Mountain West,Utah State,Mountain West,tv,ESPN2
+401117534,2019,9,regular,2019-10-27T02:30:00.000Z,,UNLV,Mountain West,San Diego State,Mountain West,tv,CBSSN
+401112080,2019,10,regular,2019-11-01T00:00:00.000Z,,Baylor,Big 12,West Virginia,Big 12,tv,ESPN
+401112080,2019,10,regular,2019-11-01T00:00:00.000Z,,Baylor,Big 12,West Virginia,Big 12,radio,ESPNRM
+401121960,2019,10,regular,2019-11-01T00:00:00.000Z,,Appalachian State,Sun Belt,Georgia Southern,Sun Belt,tv,ESPNU
+401117894,2019,10,regular,2019-11-02T00:00:00.000Z,,Connecticut,American Athletic,Navy,American Athletic,tv,ESPN2
+401112496,2019,10,regular,2019-11-02T20:00:00.000Z,,Clemson,ACC,Wofford,,tv,ACCN
+401110838,2019,10,regular,2019-11-02T19:30:00.000Z,,Florida,SEC,Georgia,SEC,tv,CBS
+401114198,2019,10,regular,2019-11-03T00:00:00.000Z,,USC,Pac-12,Oregon,Pac-12,tv,FOX
+401114198,2019,10,regular,2019-11-03T00:00:00.000Z,,USC,Pac-12,Oregon,Pac-12,radio,ESPNRM
+401114227,2019,10,regular,2019-11-02T20:00:00.000Z,,Washington,Pac-12,Utah,Pac-12,tv,FOX
+401110837,2019,10,regular,2019-11-02T23:00:00.000Z,,Auburn,SEC,Ole Miss,SEC,tv,ESPN
+401112208,2019,10,regular,2019-11-02T16:00:00.000Z,,Maryland,Big Ten,Michigan,Big Ten,tv,ABC
+401117897,2019,10,regular,2019-11-02T23:30:00.000Z,,Memphis,American Athletic,SMU,American Athletic,tv,ABC
+401112501,2019,10,regular,2019-11-02T18:30:00.000Z,,Notre Dame,FBS Independents,Virginia Tech,ACC,tv,NBC
+401117896,2019,10,regular,2019-11-02T23:00:00.000Z,,East Carolina,American Athletic,Cincinnati,American Athletic,tv,CBSSN
+401117535,2019,10,regular,2019-11-03T02:30:00.000Z,,San José State,Mountain West,Boise State,Mountain West,tv,CBSSN
+401112104,2019,10,regular,2019-11-02T19:30:00.000Z,,Kansas,Big 12,Kansas State,Big 12,tv,FS1
+401112500,2019,10,regular,2019-11-02T16:00:00.000Z,,Wake Forest,ACC,NC State,ACC,tv,ESPN
+401117895,2019,10,regular,2019-11-02T16:00:00.000Z,,UCF,American Athletic,Houston,American Athletic,tv,ESPN2
+401119294,2019,10,regular,2019-11-02T16:00:00.000Z,,Eastern Michigan,Mid-American,Buffalo,Mid-American,tv,ESPNU
+401119295,2019,10,regular,2019-11-02T16:00:00.000Z,,Central Michigan,Mid-American,Northern Illinois,Mid-American,tv,CBSSN
+401112243,2019,10,regular,2019-11-02T16:00:00.000Z,,Purdue,Big Ten,Nebraska,Big Ten,tv,FOX
+401112495,2019,10,regular,2019-11-02T16:00:00.000Z,,Syracuse,ACC,Boston College,ACC,tv,ACCN
+401110841,2019,10,regular,2019-11-02T16:00:00.000Z,,Texas A&M,SEC,UT San Antonio,Conference USA,tv,SECN
+401114300,2019,10,regular,2019-11-02T16:00:00.000Z,,Florida International,Conference USA,Old Dominion,Conference USA,web,ESPN+
+401119293,2019,10,regular,2019-11-02T18:00:00.000Z,,Bowling Green,Mid-American,Akron,Mid-American,web,ESPN+
+401121962,2019,10,regular,2019-11-02T19:00:00.000Z,,Coastal Carolina,Sun Belt,Troy,Sun Belt,web,ESPN3
+401121961,2019,10,regular,2019-11-02T19:30:00.000Z,,Louisiana Monroe,Sun Belt,Arkansas State,Sun Belt,tv,ESPNU
+401114303,2019,10,regular,2019-11-02T19:30:00.000Z,,North Texas,Conference USA,UTEP,Conference USA,tv,NFL
+401114331,2019,10,regular,2019-11-02T19:30:00.000Z,,Air Force,Mountain West,Army,FBS Independents,tv,CBSSN
+401114299,2019,10,regular,2019-11-02T19:30:00.000Z,,Charlotte,Conference USA,Middle Tennessee,Conference USA,web,ESPN3
+401112497,2019,10,regular,2019-11-02T19:30:00.000Z,,Florida State,ACC,Miami,ACC,tv,ABC
+401112497,2019,10,regular,2019-11-02T19:30:00.000Z,,Florida State,ACC,Miami,ACC,radio,ESPNRM
+401112127,2019,10,regular,2019-11-02T19:30:00.000Z,,Oklahoma State,Big 12,TCU,Big 12,tv,ESPN
+401112153,2019,10,regular,2019-11-02T19:30:00.000Z,,Illinois,Big Ten,Rutgers,Big Ten,tv,BTN
+401110836,2019,10,regular,2019-11-02T20:00:00.000Z,,Arkansas,SEC,Mississippi State,SEC,tv,SECN
+401112498,2019,10,regular,2019-11-02T20:00:00.000Z,,Georgia Tech,ACC,Pittsburgh,ACC,web,ACCNX
+401114301,2019,10,regular,2019-11-02T20:00:00.000Z,,Western Kentucky,Conference USA,Florida Atlantic,Conference USA,web,ESPN+
+401117898,2019,10,regular,2019-11-02T20:00:00.000Z,,Tulane,American Athletic,Tulsa,American Athletic,tv,ESPN2
+401114171,2019,10,regular,2019-11-02T20:30:00.000Z,,Arizona,Pac-12,Oregon State,Pac-12,tv,PAC12
+401121963,2019,10,regular,2019-11-02T21:00:00.000Z,,Louisiana,Sun Belt,Texas State,Sun Belt,web,ESPN+
+401110840,2019,10,regular,2019-11-02T23:00:00.000Z,,Tennessee,SEC,UAB,Conference USA,tv,ESPNU
+401112165,2019,10,regular,2019-11-02T23:00:00.000Z,,Indiana,Big Ten,Northwestern,Big Ten,tv,FS1
+401110839,2019,10,regular,2019-11-02T23:30:00.000Z,,South Carolina,SEC,Vanderbilt,SEC,tv,SECN
+401112499,2019,10,regular,2019-11-02T23:30:00.000Z,,North Carolina,ACC,Virginia,ACC,tv,ACCN
+401114189,2019,10,regular,2019-11-03T01:00:00.000Z,,UCLA,Pac-12,Colorado,Pac-12,tv,PAC12
+401117216,2019,10,regular,2019-11-03T02:00:00.000Z,,Utah State,Mountain West,BYU,FBS Independents,tv,ESPN2
+401117536,2019,10,regular,2019-11-03T02:30:00.000Z,,Nevada,Mountain West,New Mexico,Mountain West,tv,ESPNU
+401119297,2019,11,regular,2019-11-06T00:00:00.000Z,,Toledo,Mid-American,Kent State,Mid-American,tv,CBSSN
+401119296,2019,11,regular,2019-11-06T01:00:00.000Z,,Western Michigan,Mid-American,Ball State,Mid-American,tv,ESPN2
+401119298,2019,11,regular,2019-11-07T01:00:00.000Z,,Ohio,Mid-American,Miami (OH),Mid-American,tv,ESPN2
+401121964,2019,11,regular,2019-11-08T00:30:00.000Z,,Coastal Carolina,Sun Belt,Louisiana,Sun Belt,tv,ESPNU
+401117899,2019,11,regular,2019-11-08T01:00:00.000Z,,South Florida,American Athletic,Temple,American Athletic,tv,ESPN
+401117900,2019,11,regular,2019-11-09T00:00:00.000Z,,Tulsa,American Athletic,UCF,American Athletic,tv,ESPN2
+401114205,2019,11,regular,2019-11-09T03:30:00.000Z,,Oregon State,Pac-12,Washington,Pac-12,tv,FS1
+401112209,2019,11,regular,2019-11-09T17:00:00.000Z,,Ohio State,Big Ten,Maryland,Big Ten,tv,FOX
+401110842,2019,11,regular,2019-11-09T20:30:00.000Z,,Alabama,SEC,LSU,SEC,tv,CBS
+401112235,2019,11,regular,2019-11-09T17:00:00.000Z,,Minnesota,Big Ten,Penn State,Big Ten,tv,ABC
+401112503,2019,11,regular,2019-11-10T00:30:00.000Z,,NC State,ACC,Clemson,ACC,tv,ABC
+401110845,2019,11,regular,2019-11-10T00:00:00.000Z,,Georgia,SEC,Missouri,SEC,tv,ESPN
+401110845,2019,11,regular,2019-11-10T00:00:00.000Z,,Georgia,SEC,Missouri,SEC,radio,ESPNRM
+401112092,2019,11,regular,2019-11-10T01:00:00.000Z,,Oklahoma,Big 12,Iowa State,Big 12,tv,FOX
+401112092,2019,11,regular,2019-11-10T01:00:00.000Z,,Oklahoma,Big 12,Iowa State,Big 12,radio,ESPNRM
+401110844,2019,11,regular,2019-11-09T17:00:00.000Z,,Florida,SEC,Vanderbilt,SEC,tv,ESPN
+401112081,2019,11,regular,2019-11-09T17:00:00.000Z,,TCU,Big 12,Baylor,Big 12,tv,FS1
+401112198,2019,11,regular,2019-11-09T21:00:00.000Z,,Wisconsin,Big Ten,Iowa,Big Ten,tv,FOX
+401111654,2019,11,regular,2019-11-10T00:30:00.000Z,,Duke,ACC,Notre Dame,FBS Independents,tv,ACCN
+401112111,2019,11,regular,2019-11-09T20:30:00.000Z,,Texas,Big 12,Kansas State,Big 12,tv,ESPN
+401112506,2019,11,regular,2019-11-09T20:30:00.000Z,,Virginia Tech,ACC,Wake Forest,ACC,tv,ACCN
+401117901,2019,11,regular,2019-11-09T20:30:00.000Z,,Cincinnati,American Athletic,Connecticut,American Athletic,tv,CBSSN
+401117541,2019,11,regular,2019-11-10T03:15:00.000Z,,Boise State,Mountain West,Wyoming,Mountain West,tv,ESPN
+401117902,2019,11,regular,2019-11-09T17:00:00.000Z,,SMU,American Athletic,East Carolina,American Athletic,tv,ESPNU
+401114332,2019,11,regular,2019-11-09T17:00:00.000Z,,Army,FBS Independents,UMass,FBS Independents,tv,CBSSN
+401110843,2019,11,regular,2019-11-09T17:00:00.000Z,,Arkansas,SEC,Western Kentucky,Conference USA,tv,SECN
+401112142,2019,11,regular,2019-11-09T17:00:00.000Z,,West Virginia,Big 12,Texas Tech,Big 12,tv,ESPN2
+401112249,2019,11,regular,2019-11-09T17:00:00.000Z,,Northwestern,Big Ten,Purdue,Big Ten,tv,BTN
+401112502,2019,11,regular,2019-11-09T17:00:00.000Z,,Boston College,ACC,Florida State,ACC,tv,ACCN
+401112504,2019,11,regular,2019-11-09T17:30:00.000Z,,Virginia,ACC,Georgia Tech,ACC,web,ACCNX
+401114307,2019,11,regular,2019-11-09T19:00:00.000Z,,Old Dominion,Conference USA,UT San Antonio,Conference USA,web,ESPN3
+401114304,2019,11,regular,2019-11-09T20:00:00.000Z,,UTEP,Conference USA,Charlotte,Conference USA,web,ESPN+
+401114190,2019,11,regular,2019-11-09T20:00:00.000Z,,Colorado,Pac-12,Stanford,Pac-12,tv,PAC12
+401121967,2019,11,regular,2019-11-09T20:00:00.000Z,,Texas State,Sun Belt,South Alabama,Sun Belt,web,ESPN3
+401121965,2019,11,regular,2019-11-09T20:30:00.000Z,,Troy,Sun Belt,Georgia Southern,Sun Belt,web,ESPN+
+401112505,2019,11,regular,2019-11-09T20:30:00.000Z,,Miami,ACC,Louisville,ACC,tv,ESPN2
+401114160,2019,11,regular,2019-11-09T20:30:00.000Z,,Arizona State,Pac-12,USC,Pac-12,tv,ABC
+401114308,2019,11,regular,2019-11-09T20:30:00.000Z,,Southern Mississippi,Conference USA,UAB,Conference USA,tv,NFL
+401112154,2019,11,regular,2019-11-09T20:30:00.000Z,,Michigan State,Big Ten,Illinois,Big Ten,tv,FS1
+401110847,2019,11,regular,2019-11-09T21:00:00.000Z,,Ole Miss,SEC,New Mexico State,FBS Independents,tv,SECN
+401121966,2019,11,regular,2019-11-09T22:00:00.000Z,,Louisiana Monroe,Sun Belt,Georgia State,Sun Belt,web,ESPN+
+401114180,2019,11,regular,2019-11-10T00:00:00.000Z,,California,Pac-12,Washington State,Pac-12,tv,PAC12
+401117540,2019,11,regular,2019-11-10T00:00:00.000Z,,Fresno State,Mountain West,Utah State,Mountain West,tv,CBSSN
+401110848,2019,11,regular,2019-11-10T00:00:00.000Z,,South Carolina,SEC,Appalachian State,Sun Belt,tv,ESPN2
+401110846,2019,11,regular,2019-11-10T00:30:00.000Z,,Kentucky,SEC,Tennessee,SEC,tv,SECN
+401114353,2019,11,regular,2019-11-10T00:30:00.000Z,,BYU,FBS Independents,Liberty,FBS Independents,tv,ESPNU
+401117542,2019,11,regular,2019-11-10T03:30:00.000Z,,San Diego State,Mountain West,Nevada,Mountain West,tv,ESPN2
+401119299,2019,12,regular,2019-11-12T23:00:00.000Z,,Akron,Mid-American,Eastern Michigan,Mid-American,tv,ESPNN
+401119300,2019,12,regular,2019-11-12T23:30:00.000Z,,Ohio,Mid-American,Western Michigan,Mid-American,tv,ESPN2
+401119301,2019,12,regular,2019-11-14T01:00:00.000Z,,Miami (OH),Mid-American,Bowling Green,Mid-American,tv,ESPNU
+401119302,2019,12,regular,2019-11-14T01:00:00.000Z,,Toledo,Mid-American,Northern Illinois,Mid-American,tv,ESPN2
+401119303,2019,12,regular,2019-11-15T00:00:00.000Z,,Kent State,Mid-American,Buffalo,Mid-American,tv,CBSSN
+401112507,2019,12,regular,2019-11-15T01:00:00.000Z,,Pittsburgh,ACC,North Carolina,ACC,tv,ESPN
+401114309,2019,12,regular,2019-11-16T00:00:00.000Z,,Marshall,Conference USA,Louisiana Tech,Conference USA,tv,CBSSN
+401117547,2019,12,regular,2019-11-16T02:30:00.000Z,,San Diego State,Mountain West,Fresno State,Mountain West,tv,ESPN2
+401110850,2019,12,regular,2019-11-17T00:00:00.000Z,,Ole Miss,SEC,LSU,SEC,tv,ESPN
+401112255,2019,12,regular,2019-11-16T20:30:00.000Z,,Rutgers,Big Ten,Ohio State,Big Ten,tv,BTN
+401112508,2019,12,regular,2019-11-16T20:30:00.000Z,,Clemson,ACC,Wake Forest,ACC,tv,ABC
+401110849,2019,12,regular,2019-11-16T20:30:00.000Z,,Auburn,SEC,Georgia,SEC,tv,CBS
+401110851,2019,12,regular,2019-11-16T17:00:00.000Z,,Mississippi State,SEC,Alabama,SEC,tv,ESPN
+401114172,2019,12,regular,2019-11-17T03:30:00.000Z,,Oregon,Pac-12,Arizona,Pac-12,tv,ESPN
+401114216,2019,12,regular,2019-11-17T01:00:00.000Z,,Utah,Pac-12,UCLA,Pac-12,tv,FOX
+401112199,2019,12,regular,2019-11-16T21:00:00.000Z,,Iowa,Big Ten,Minnesota,Big Ten,tv,FOX
+401112166,2019,12,regular,2019-11-16T17:00:00.000Z,,Penn State,Big Ten,Indiana,Big Ten,tv,ABC
+401112082,2019,12,regular,2019-11-17T00:30:00.000Z,,Baylor,Big 12,Oklahoma,Big 12,tv,ABC
+401112082,2019,12,regular,2019-11-17T00:30:00.000Z,,Baylor,Big 12,Oklahoma,Big 12,radio,ESPNRM
+401110852,2019,12,regular,2019-11-16T17:00:00.000Z,,Missouri,SEC,Florida,SEC,tv,CBS
+401110852,2019,12,regular,2019-11-16T17:00:00.000Z,,Missouri,SEC,Florida,SEC,radio,ESPNRM
+401112244,2019,12,regular,2019-11-16T17:00:00.000Z,,Nebraska,Big Ten,Wisconsin,Big Ten,tv,BTN
+401112219,2019,12,regular,2019-11-16T17:00:00.000Z,,Michigan,Big Ten,Michigan State,Big Ten,tv,FOX
+401114338,2019,12,regular,2019-11-16T19:30:00.000Z,,Notre Dame,FBS Independents,Navy,American Athletic,tv,NBC
+401117903,2019,12,regular,2019-11-17T00:00:00.000Z,,South Florida,American Athletic,Cincinnati,American Athletic,tv,CBSSN
+401117904,2019,12,regular,2019-11-16T20:30:00.000Z,,Houston,American Athletic,Memphis,American Athletic,tv,ESPN2
+401112093,2019,12,regular,2019-11-16T20:30:00.000Z,,Iowa State,Big 12,Texas,Big 12,tv,FS1
+401117545,2019,12,regular,2019-11-17T03:15:00.000Z,,Boise State,Mountain West,New Mexico,Mountain West,tv,ESPN2
+401112105,2019,12,regular,2019-11-16T17:00:00.000Z,,Oklahoma State,Big 12,Kansas,Big 12,tv,FS1
+401112112,2019,12,regular,2019-11-16T20:30:00.000Z,,Kansas State,Big 12,West Virginia,Big 12,tv,ESPN
+401121968,2019,12,regular,2019-11-17T00:30:00.000Z,,Georgia State,Sun Belt,Appalachian State,Sun Belt,tv,ESPNU
+401114333,2019,12,regular,2019-11-16T17:00:00.000Z,,Army,FBS Independents,VMI,,tv,CBSSN
+401112510,2019,12,regular,2019-11-16T17:00:00.000Z,,Florida State,ACC,Alabama State,,web,ACCNX
+401112133,2019,12,regular,2019-11-16T17:00:00.000Z,,Texas Tech,Big 12,TCU,Big 12,tv,ESPN2
+401112250,2019,12,regular,2019-11-16T17:00:00.000Z,,Northwestern,Big Ten,UMass,FBS Independents,tv,BTN
+401117905,2019,12,regular,2019-11-16T17:00:00.000Z,,Temple,American Athletic,Tulane,American Athletic,tv,ESPNU
+401114312,2019,12,regular,2019-11-16T18:00:00.000Z,,UAB,Conference USA,UTEP,Conference USA,web,ESPN3
+401117217,2019,12,regular,2019-11-16T20:00:00.000Z,,BYU,FBS Independents,Idaho State,,web,ESPN3
+401121972,2019,12,regular,2019-11-16T20:00:00.000Z,,Texas State,Sun Belt,Troy,Sun Belt,web,ESPN3
+401121969,2019,12,regular,2019-11-16T20:00:00.000Z,,Arkansas State,Sun Belt,Coastal Carolina,Sun Belt,web,ESPN+
+401121970,2019,12,regular,2019-11-16T20:00:00.000Z,,Georgia Southern,Sun Belt,Louisiana Monroe,Sun Belt,web,ESPN+
+401119304,2019,12,regular,2019-11-16T20:30:00.000Z,,Ball State,Mid-American,Central Michigan,Mid-American,tv,CBSSN
+401112511,2019,12,regular,2019-11-16T20:30:00.000Z,,Georgia Tech,ACC,Virginia Tech,ACC,web,ACCNX
+401110854,2019,12,regular,2019-11-16T20:30:00.000Z,,Vanderbilt,SEC,Kentucky,SEC,tv,SECN
+401112509,2019,12,regular,2019-11-16T21:00:00.000Z,,Duke,ACC,Syracuse,ACC,tv,ACCN
+401117546,2019,12,regular,2019-11-16T21:00:00.000Z,,Utah State,Mountain West,Wyoming,Mountain West,tv,ESPNU
+401114231,2019,12,regular,2019-11-16T21:30:00.000Z,,Washington State,Pac-12,Stanford,Pac-12,tv,PAC12
+401114310,2019,12,regular,2019-11-16T21:30:00.000Z,,Middle Tennessee,Conference USA,Rice,Conference USA,web,ESPN+
+401121971,2019,12,regular,2019-11-16T22:00:00.000Z,,South Alabama,Sun Belt,Louisiana,Sun Belt,web,ESPN+
+401114311,2019,12,regular,2019-11-16T23:00:00.000Z,,UT San Antonio,Conference USA,Southern Mississippi,Conference USA,web,ESPN+
+401117544,2019,12,regular,2019-11-17T00:00:00.000Z,,Colorado State,Mountain West,Air Force,Mountain West,tv,ESPN2
+401110853,2019,12,regular,2019-11-17T00:30:00.000Z,,Texas A&M,SEC,South Carolina,SEC,tv,SECN
+401112512,2019,12,regular,2019-11-17T00:30:00.000Z,,NC State,ACC,Louisville,ACC,tv,ACCN
+401114161,2019,12,regular,2019-11-17T00:30:00.000Z,,Oregon State,Pac-12,Arizona State,Pac-12,tv,FS1
+401114181,2019,12,regular,2019-11-17T04:00:00.000Z,,California,Pac-12,USC,Pac-12,tv,FS1
+401119305,2019,13,regular,2019-11-20T00:30:00.000Z,,Northern Illinois,Mid-American,Eastern Michigan,Mid-American,tv,ESPN2
+401119306,2019,13,regular,2019-11-20T00:30:00.000Z,,Bowling Green,Mid-American,Ohio,Mid-American,tv,ESPNU
+401119307,2019,13,regular,2019-11-21T00:30:00.000Z,,Miami (OH),Mid-American,Akron,Mid-American,tv,ESPNU
+401119308,2019,13,regular,2019-11-21T00:30:00.000Z,,Buffalo,Mid-American,Toledo,Mid-American,tv,ESPN2
+401112513,2019,13,regular,2019-11-22T01:00:00.000Z,,Georgia Tech,ACC,NC State,ACC,tv,ESPN
+401117550,2019,13,regular,2019-11-23T02:30:00.000Z,,Wyoming,Mountain West,Colorado State,Mountain West,tv,ESPN2
+401110859,2019,13,regular,2019-11-24T00:00:00.000Z,,LSU,SEC,Arkansas,SEC,tv,ESPN
+401112256,2019,13,regular,2019-11-23T17:00:00.000Z,,Ohio State,Big Ten,Penn State,Big Ten,tv,FOX
+401112256,2019,13,regular,2019-11-23T17:00:00.000Z,,Ohio State,Big Ten,Penn State,Big Ten,radio,ESPNRM
+401110857,2019,13,regular,2019-11-23T20:30:00.000Z,,Georgia,SEC,Texas A&M,SEC,tv,CBS
+401110855,2019,13,regular,2019-11-23T17:00:00.000Z,,Alabama,SEC,Western Carolina,,tv,ESPN
+401114162,2019,13,regular,2019-11-24T00:30:00.000Z,,Arizona State,Pac-12,Oregon,Pac-12,tv,ABC
+401114173,2019,13,regular,2019-11-24T03:00:00.000Z,,Arizona,Pac-12,Utah,Pac-12,tv,FS1
+401112120,2019,13,regular,2019-11-24T01:00:00.000Z,,Oklahoma,Big 12,TCU,Big 12,tv,FOX
+401112120,2019,13,regular,2019-11-24T01:00:00.000Z,,Oklahoma,Big 12,TCU,Big 12,radio,ESPNRM
+401112236,2019,13,regular,2019-11-23T17:00:00.000Z,,Northwestern,Big Ten,Minnesota,Big Ten,tv,ABC
+401112263,2019,13,regular,2019-11-23T21:00:00.000Z,,Wisconsin,Big Ten,Purdue,Big Ten,tv,FOX
+401112167,2019,13,regular,2019-11-23T20:30:00.000Z,,Indiana,Big Ten,Michigan,Big Ten,tv,ESPN
+401112083,2019,13,regular,2019-11-23T20:30:00.000Z,,Baylor,Big 12,Texas,Big 12,tv,FS1
+401110856,2019,13,regular,2019-11-23T17:00:00.000Z,,Auburn,SEC,Samford,,tv,SECN
+401112514,2019,13,regular,2019-11-23T19:30:00.000Z,,Notre Dame,FBS Independents,Boston College,ACC,tv,NBC
+401112155,2019,13,regular,2019-11-23T17:00:00.000Z,,Iowa,Big Ten,Illinois,Big Ten,tv,BTN
+401117909,2019,13,regular,2019-11-23T21:00:00.000Z,,South Florida,American Athletic,Memphis,American Athletic,tv,ESPNU
+401117907,2019,13,regular,2019-11-24T00:00:00.000Z,,Cincinnati,American Athletic,Temple,American Athletic,tv,ESPN2
+401117549,2019,13,regular,2019-11-24T03:30:00.000Z,,Utah State,Mountain West,Boise State,Mountain West,tv,CBSSN
+401112128,2019,13,regular,2019-11-23T17:00:00.000Z,,West Virginia,Big 12,Oklahoma State,Big 12,tv,ESPN2
+401114217,2019,13,regular,2019-11-23T20:30:00.000Z,,USC,Pac-12,UCLA,Pac-12,tv,ABC
+401121973,2019,13,regular,2019-11-23T19:30:00.000Z,,Appalachian State,Sun Belt,Texas State,Sun Belt,web,ESPN+
+401117911,2019,13,regular,2019-11-23T20:30:00.000Z,,Navy,American Athletic,SMU,American Athletic,tv,CBSSN
+401117906,2019,13,regular,2019-11-23T17:00:00.000Z,,Tulane,American Athletic,UCF,American Athletic,tv,CBSSN
+401119309,2019,13,regular,2019-11-23T17:00:00.000Z,,Kent State,Mid-American,Ball State,Mid-American,web,ESPN+
+401117908,2019,13,regular,2019-11-23T17:00:00.000Z,,Connecticut,American Athletic,East Carolina,American Athletic,web,ESPN3
+401112520,2019,13,regular,2019-11-23T17:00:00.000Z,,Virginia,ACC,Liberty,FBS Independents,web,ACCNX
+401112220,2019,13,regular,2019-11-23T17:00:00.000Z,,Rutgers,Big Ten,Michigan State,Big Ten,tv,FS1
+401121976,2019,13,regular,2019-11-23T19:00:00.000Z,,Georgia State,Sun Belt,South Alabama,Sun Belt,web,ESPN+
+401183793,2019,13,regular,2019-11-23T19:00:00.000Z,,New Mexico,Mountain West,Air Force,Mountain West,web,ESPN3
+401121974,2019,13,regular,2019-11-23T20:00:00.000Z,,Arkansas State,Sun Belt,Georgia Southern,Sun Belt,web,ESPN+
+401112518,2019,13,regular,2019-11-23T20:30:00.000Z,,North Carolina,ACC,Mercer,,web,ACCNX
+401112519,2019,13,regular,2019-11-23T20:30:00.000Z,,Virginia Tech,ACC,Pittsburgh,ACC,tv,ESPN2
+401114315,2019,13,regular,2019-11-23T20:30:00.000Z,,UAB,Conference USA,Louisiana Tech,Conference USA,web,ESPN+
+401114317,2019,13,regular,2019-11-23T20:30:00.000Z,,Rice,Conference USA,North Texas,Conference USA,tv,NFL
+401114318,2019,13,regular,2019-11-23T20:30:00.000Z,,Southern Mississippi,Conference USA,Western Kentucky,Conference USA,web,ESPN+
+401112210,2019,13,regular,2019-11-23T20:30:00.000Z,,Maryland,Big Ten,Nebraska,Big Ten,tv,BTN
+401110862,2019,13,regular,2019-11-23T20:30:00.000Z,,Vanderbilt,SEC,East Tennessee State,,tv,SECN Alt
+401110858,2019,13,regular,2019-11-23T20:30:00.000Z,,Kentucky,SEC,UT Martin,,tv,SECN
+401114182,2019,13,regular,2019-11-23T21:00:00.000Z,,Stanford,Pac-12,California,Pac-12,tv,PAC12
+401112516,2019,13,regular,2019-11-23T21:00:00.000Z,,Louisville,ACC,Syracuse,ACC,tv,ACCN
+401114316,2019,13,regular,2019-11-23T21:30:00.000Z,,Middle Tennessee,Conference USA,Old Dominion,Conference USA,web,ESPN3
+401121975,2019,13,regular,2019-11-23T22:00:00.000Z,,Louisiana Monroe,Sun Belt,Coastal Carolina,Sun Belt,web,ESPN3
+401121977,2019,13,regular,2019-11-23T22:00:00.000Z,,Louisiana,Sun Belt,Troy,Sun Belt,web,ESPN+
+401114314,2019,13,regular,2019-11-23T23:00:00.000Z,,UT San Antonio,Conference USA,Florida Atlantic,Conference USA,web,ESPN+
+401112517,2019,13,regular,2019-11-24T00:00:00.000Z,,Florida International,Conference USA,Miami,ACC,tv,CBSSN
+401112113,2019,13,regular,2019-11-24T00:00:00.000Z,,Texas Tech,Big 12,Kansas State,Big 12,tv,FS1
+401117910,2019,13,regular,2019-11-24T00:30:00.000Z,,Tulsa,American Athletic,Houston,American Athletic,tv,ESPNU
+401110860,2019,13,regular,2019-11-24T00:30:00.000Z,,Mississippi State,SEC,Abilene Christian,,web,SECN+
+401110861,2019,13,regular,2019-11-24T00:30:00.000Z,,Missouri,SEC,Tennessee,SEC,tv,SECN
+401112515,2019,13,regular,2019-11-24T00:30:00.000Z,,Wake Forest,ACC,Duke,ACC,tv,ACCN
+401114206,2019,13,regular,2019-11-24T02:00:00.000Z,,Washington State,Pac-12,Oregon State,Pac-12,tv,PAC12
+401114191,2019,13,regular,2019-11-24T03:00:00.000Z,,Colorado,Pac-12,Washington,Pac-12,tv,ESPN
+401117551,2019,13,regular,2019-11-24T03:30:00.000Z,,Fresno State,Mountain West,Nevada,Mountain West,tv,ESPN2
+401119310,2019,14,regular,2019-11-26T23:00:00.000Z,,Akron,Mid-American,Ohio,Mid-American,web,ESPN+
+401119311,2019,14,regular,2019-11-27T00:00:00.000Z,,Northern Illinois,Mid-American,Western Michigan,Mid-American,tv,ESPNU
+401110863,2019,14,regular,2019-11-29T00:30:00.000Z,,Mississippi State,SEC,Ole Miss,SEC,tv,ESPN
+401112200,2019,14,regular,2019-11-29T19:30:00.000Z,,Nebraska,Big Ten,Iowa,Big Ten,tv,BTN
+401117913,2019,14,regular,2019-11-29T20:30:00.000Z,,Memphis,American Athletic,Cincinnati,American Athletic,tv,ABC
+401117554,2019,14,regular,2019-11-29T20:30:00.000Z,,Colorado State,Mountain West,Boise State,Mountain West,tv,CBSSN
+401112521,2019,14,regular,2019-11-29T17:00:00.000Z,,Virginia,ACC,Virginia Tech,ACC,tv,ABC
+401121978,2019,14,regular,2019-11-29T23:00:00.000Z,,Troy,Sun Belt,Appalachian State,Sun Belt,web,ESPN+
+401112138,2019,14,regular,2019-11-29T17:00:00.000Z,,Texas,Big 12,Texas Tech,Big 12,tv,FOX
+401112138,2019,14,regular,2019-11-29T17:00:00.000Z,,Texas,Big 12,Texas Tech,Big 12,radio,ESPNRM
+401119312,2019,14,regular,2019-11-29T17:00:00.000Z,,Buffalo,Mid-American,Bowling Green,Mid-American,web,ESPN+
+401119313,2019,14,regular,2019-11-29T17:00:00.000Z,,Eastern Michigan,Mid-American,Kent State,Mid-American,web,ESPN+
+401119314,2019,14,regular,2019-11-29T17:00:00.000Z,,Ball State,Mid-American,Miami (OH),Mid-American,tv,CBSSN
+401119315,2019,14,regular,2019-11-29T17:00:00.000Z,,Central Michigan,Mid-American,Toledo,Mid-American,tv,ESPNU
+401110864,2019,14,regular,2019-11-29T19:30:00.000Z,,Arkansas,SEC,Missouri,SEC,tv,CBS
+401114232,2019,14,regular,2019-11-29T21:00:00.000Z,,Washington,Pac-12,Washington State,Pac-12,tv,FOX
+401112134,2019,14,regular,2019-11-29T21:15:00.000Z,,TCU,Big 12,West Virginia,Big 12,tv,ESPN
+401121979,2019,14,regular,2019-11-29T22:00:00.000Z,,South Alabama,Sun Belt,Arkansas State,Sun Belt,web,ESPN+
+401117912,2019,14,regular,2019-11-30T01:00:00.000Z,,UCF,American Athletic,South Florida,American Athletic,tv,ESPN
+401112228,2019,14,regular,2019-11-30T17:00:00.000Z,,Michigan,Big Ten,Ohio State,Big Ten,tv,FOX
+401110869,2019,14,regular,2019-12-01T00:00:00.000Z,,LSU,SEC,Texas A&M,SEC,tv,ESPN
+401110869,2019,14,regular,2019-12-01T00:00:00.000Z,,LSU,SEC,Texas A&M,SEC,radio,ESPNRM
+401110870,2019,14,regular,2019-11-30T17:00:00.000Z,,South Carolina,SEC,Clemson,ACC,tv,ESPN
+401110870,2019,14,regular,2019-11-30T17:00:00.000Z,,South Carolina,SEC,Clemson,ACC,radio,ESPNRM
+401110867,2019,14,regular,2019-11-30T17:00:00.000Z,,Georgia Tech,ACC,Georgia,SEC,tv,ABC
+401110865,2019,14,regular,2019-11-30T20:30:00.000Z,,Auburn,SEC,Alabama,SEC,tv,CBS
+401114192,2019,14,regular,2019-12-01T00:30:00.000Z,,Utah,Pac-12,Colorado,Pac-12,tv,ABC
+401112121,2019,14,regular,2019-12-01T01:00:00.000Z,,Oklahoma State,Big 12,Oklahoma,Big 12,tv,FOX
+401112237,2019,14,regular,2019-11-30T20:30:00.000Z,,Minnesota,Big Ten,Wisconsin,Big Ten,tv,ABC
+401112084,2019,14,regular,2019-11-30T20:30:00.000Z,,Kansas,Big 12,Baylor,Big 12,tv,ESPN
+401112261,2019,14,regular,2019-11-30T20:30:00.000Z,,Penn State,Big Ten,Rutgers,Big Ten,tv,BTN
+401110866,2019,14,regular,2019-12-01T00:30:00.000Z,,Florida,SEC,Florida State,ACC,tv,SECN
+401114199,2019,14,regular,2019-11-30T21:00:00.000Z,,Oregon,Pac-12,Oregon State,Pac-12,tv,PAC12
+401114212,2019,14,regular,2019-11-30T21:00:00.000Z,,Stanford,Pac-12,Notre Dame,FBS Independents,tv,FOX
+401112095,2019,14,regular,2019-12-01T00:00:00.000Z,,Kansas State,Big 12,Iowa State,Big 12,tv,FS1
+401121980,2019,14,regular,2019-11-30T17:00:00.000Z,,Coastal Carolina,Sun Belt,Texas State,Sun Belt,web,ESPN+
+401117915,2019,14,regular,2019-11-30T17:00:00.000Z,,East Carolina,American Athletic,Tulsa,American Athletic,tv,ESPNU
+401114321,2019,14,regular,2019-11-30T17:00:00.000Z,,Marshall,Conference USA,Florida International,Conference USA,tv,CBSSN
+401110868,2019,14,regular,2019-11-30T17:00:00.000Z,,Kentucky,SEC,Louisville,ACC,tv,SECN
+401112156,2019,14,regular,2019-11-30T17:00:00.000Z,,Illinois,Big Ten,Northwestern,Big Ten,tv,FS1
+401112168,2019,14,regular,2019-11-30T17:00:00.000Z,,Purdue,Big Ten,Indiana,Big Ten,tv,ESPN2
+401112525,2019,14,regular,2019-11-30T17:30:00.000Z,,Syracuse,ACC,Wake Forest,ACC,web,ACCNX
+401114324,2019,14,regular,2019-11-30T19:00:00.000Z,,Western Kentucky,Conference USA,Middle Tennessee,Conference USA,web,ESPN+
+401114320,2019,14,regular,2019-11-30T19:00:00.000Z,,Old Dominion,Conference USA,Charlotte,Conference USA,web,ESPN+
+401114346,2019,14,regular,2019-11-30T19:00:00.000Z,,Liberty,FBS Independents,New Mexico State,FBS Independents,web,ESPN+
+401114326,2019,14,regular,2019-11-30T20:00:00.000Z,,UTEP,Conference USA,Rice,Conference USA,web,ESPN3
+401117914,2019,14,regular,2019-11-30T20:30:00.000Z,,Temple,American Athletic,Connecticut,American Athletic,tv,CBSSN
+401114322,2019,14,regular,2019-11-30T20:30:00.000Z,,Florida Atlantic,Conference USA,Southern Mississippi,Conference USA,tv,NFL
+401114323,2019,14,regular,2019-11-30T20:30:00.000Z,,Louisiana Tech,Conference USA,UT San Antonio,Conference USA,web,ESPN+
+401112522,2019,14,regular,2019-11-30T20:30:00.000Z,,Pittsburgh,ACC,Boston College,ACC,tv,ACCN
+401112523,2019,14,regular,2019-11-30T20:30:00.000Z,,Duke,ACC,Miami,ACC,tv,ESPN2
+401112221,2019,14,regular,2019-11-30T20:30:00.000Z,,Michigan State,Big Ten,Maryland,Big Ten,tv,FS1
+401110871,2019,14,regular,2019-11-30T21:00:00.000Z,,Tennessee,SEC,Vanderbilt,SEC,web,SECN+
+401117917,2019,14,regular,2019-11-30T21:00:00.000Z,,SMU,American Athletic,Tulane,American Athletic,tv,ESPNU
+401121981,2019,14,regular,2019-11-30T23:00:00.000Z,,Georgia Southern,Sun Belt,Georgia State,Sun Belt,web,ESPN+
+401117916,2019,14,regular,2019-12-01T00:00:00.000Z,,Houston,American Athletic,Navy,American Athletic,tv,ESPN2
+401112524,2019,14,regular,2019-12-01T00:00:00.000Z,,NC State,ACC,North Carolina,ACC,tv,ACCN
+401121982,2019,14,regular,2019-12-01T00:30:00.000Z,,Louisiana,Sun Belt,Louisiana Monroe,Sun Belt,tv,ESPNU
+401117218,2019,14,regular,2019-12-01T02:00:00.000Z,,San Diego State,Mountain West,BYU,FBS Independents,tv,CBSSN
+401114163,2019,14,regular,2019-12-01T03:00:00.000Z,,Arizona State,Pac-12,Arizona,Pac-12,tv,ESPN
+401114183,2019,14,regular,2019-12-01T03:30:00.000Z,,UCLA,Pac-12,California,Pac-12,tv,FS1
+401117557,2019,14,regular,2019-12-01T03:30:00.000Z,,San José State,Mountain West,Fresno State,Mountain West,tv,ESPN2
+401114334,2019,14,regular,2019-12-01T04:59:00.000Z,,Hawai'i,Mountain West,Army,FBS Independents,tv,CBSSN
+401132973,2019,15,regular,2019-12-07T01:00:00.000Z,,Oregon,Pac-12,Utah,Pac-12,tv,ABC
+401132973,2019,15,regular,2019-12-07T01:00:00.000Z,,Oregon,Pac-12,Utah,Pac-12,radio,ESPNRM
+401132983,2019,15,regular,2019-12-08T01:00:00.000Z,,Wisconsin,Big Ten,Ohio State,Big Ten,tv,FOX
+401132981,2019,15,regular,2019-12-07T21:00:00.000Z,,LSU,SEC,Georgia,SEC,tv,CBS
+401132975,2019,15,regular,2019-12-08T00:30:00.000Z,,Clemson,ACC,Virginia,ACC,tv,ABC
+401132975,2019,15,regular,2019-12-08T00:30:00.000Z,,Clemson,ACC,Virginia,ACC,radio,ESPNRM
+401132974,2019,15,regular,2019-12-07T17:00:00.000Z,,Oklahoma,Big 12,Baylor,Big 12,tv,ABC
+401132974,2019,15,regular,2019-12-07T17:00:00.000Z,,Oklahoma,Big 12,Baylor,Big 12,radio,ESPNRM
+401132976,2019,15,regular,2019-12-07T20:30:00.000Z,,Memphis,American Athletic,Cincinnati,American Athletic,tv,ABC
+401132979,2019,15,regular,2019-12-07T21:00:00.000Z,,Boise State,Mountain West,Hawai'i,Mountain West,tv,ESPN
+401132984,2019,15,regular,2019-12-07T17:00:00.000Z,,Appalachian State,Sun Belt,Louisiana,Sun Belt,tv,ESPN
+401132982,2019,15,regular,2019-12-07T17:00:00.000Z,,Central Michigan,Mid-American,Miami (OH),Mid-American,tv,ESPN2
+401132980,2019,15,regular,2019-12-07T18:30:00.000Z,,Florida Atlantic,Conference USA,UAB,Conference USA,tv,CBSSN
+401135260,2019,1,postseason,2019-12-20T19:00:00.000Z,,Charlotte,Conference USA,Buffalo,Mid-American,tv,ESPN
+401135261,2019,1,postseason,2019-12-21T00:30:00.000Z,,Kent State,Mid-American,Utah State,Mountain West,tv,ESPN2
+401135266,2019,1,postseason,2019-12-22T00:30:00.000Z,,Washington,Pac-12,Boise State,Mountain West,tv,ABC
+401135267,2019,1,postseason,2019-12-22T02:00:00.000Z,,UAB,Conference USA,Appalachian State,Sun Belt,tv,ESPN
+401135267,2019,1,postseason,2019-12-22T02:00:00.000Z,,UAB,Conference USA,Appalachian State,Sun Belt,radio,ESPNRM
+401135263,2019,1,postseason,2019-12-21T19:00:00.000Z,,San Diego State,Mountain West,Central Michigan,Mid-American,tv,ESPN
+401135263,2019,1,postseason,2019-12-21T19:00:00.000Z,,San Diego State,Mountain West,Central Michigan,Mid-American,radio,ESPNRM
+401147693,2019,1,postseason,2019-12-21T19:30:00.000Z,,Georgia Southern,Sun Belt,Liberty,FBS Independents,tv,CBSSN
+401135264,2019,1,postseason,2019-12-21T20:30:00.000Z,,Florida Atlantic,Conference USA,SMU,American Athletic,tv,ABC
+401135264,2019,1,postseason,2019-12-21T20:30:00.000Z,,Florida Atlantic,Conference USA,SMU,American Athletic,radio,ESPNRM
+401135265,2019,1,postseason,2019-12-21T22:30:00.000Z,,Arkansas State,Sun Belt,Florida International,Conference USA,tv,ESPN
+401135265,2019,1,postseason,2019-12-21T22:30:00.000Z,,Arkansas State,Sun Belt,Florida International,Conference USA,radio,ESPNRM
+401135268,2019,1,postseason,2019-12-23T19:30:00.000Z,,Marshall,Conference USA,UCF,American Athletic,tv,ESPN2
+401135269,2019,1,postseason,2019-12-25T01:00:00.000Z,,BYU,FBS Independents,Hawai'i,Mountain West,tv,ESPN
+401135269,2019,1,postseason,2019-12-25T01:00:00.000Z,,BYU,FBS Independents,Hawai'i,Mountain West,radio,ESPNRM
+401135270,2019,1,postseason,2019-12-26T21:00:00.000Z,,Miami,ACC,Louisiana Tech,Conference USA,tv,ESPN
+401135271,2019,1,postseason,2019-12-27T01:00:00.000Z,,Eastern Michigan,Mid-American,Pittsburgh,ACC,tv,ESPN
+401136253,2019,1,postseason,2019-12-28T01:00:00.000Z,,Iowa,Big Ten,USC,Pac-12,tv,FS1
+401135274,2019,1,postseason,2019-12-27T23:45:00.000Z,,Texas A&M,SEC,Oklahoma State,Big 12,tv,ESPN
+401135274,2019,1,postseason,2019-12-27T23:45:00.000Z,,Texas A&M,SEC,Oklahoma State,Big 12,radio,ESPNRM
+401135272,2019,1,postseason,2019-12-27T17:00:00.000Z,,Temple,American Athletic,North Carolina,ACC,tv,ESPN
+401135272,2019,1,postseason,2019-12-27T17:00:00.000Z,,Temple,American Athletic,North Carolina,ACC,radio,ESPNRM
+401135273,2019,1,postseason,2019-12-27T20:20:00.000Z,,Wake Forest,ACC,Michigan State,Big Ten,tv,ESPN
+401135273,2019,1,postseason,2019-12-27T20:20:00.000Z,,Wake Forest,ACC,Michigan State,Big Ten,radio,ESPNRM
+401135275,2019,1,postseason,2019-12-28T03:15:00.000Z,,Washington State,Pac-12,Air Force,Mountain West,tv,ESPN
+401135275,2019,1,postseason,2019-12-28T03:15:00.000Z,,Washington State,Pac-12,Air Force,Mountain West,radio,ESPNRM
+401135278,2019,1,postseason,2019-12-28T21:20:00.000Z,,LSU,SEC,Oklahoma,Big 12,tv,ESPN
+401135278,2019,1,postseason,2019-12-28T21:20:00.000Z,,LSU,SEC,Oklahoma,Big 12,radio,ESPNRM
+401135279,2019,1,postseason,2019-12-29T01:20:00.000Z,,Ohio State,Big Ten,Clemson,ACC,tv,ESPN
+401135279,2019,1,postseason,2019-12-29T01:20:00.000Z,,Ohio State,Big Ten,Clemson,ACC,radio,ESPNRM
+401135277,2019,1,postseason,2019-12-28T17:00:00.000Z,,Penn State,Big Ten,Memphis,American Athletic,tv,ESPN
+401135277,2019,1,postseason,2019-12-28T17:00:00.000Z,,Penn State,Big Ten,Memphis,American Athletic,radio,ESPNRM
+401135276,2019,1,postseason,2019-12-28T17:00:00.000Z,,Iowa State,Big 12,Notre Dame,FBS Independents,tv,ABC
+401135276,2019,1,postseason,2019-12-28T17:00:00.000Z,,Iowa State,Big 12,Notre Dame,FBS Independents,radio,ESPNRM
+401135282,2019,1,postseason,2019-12-31T01:00:00.000Z,,Virginia,ACC,Florida,SEC,tv,ESPN
+401135282,2019,1,postseason,2019-12-31T01:00:00.000Z,,Virginia,ACC,Florida,SEC,radio,ESPNRM
+401135280,2019,1,postseason,2019-12-30T17:30:00.000Z,,Western Michigan,Mid-American,Western Kentucky,Conference USA,tv,ESPN
+401135281,2019,1,postseason,2019-12-30T21:00:00.000Z,,Louisville,ACC,Mississippi State,SEC,tv,ESPN
+401135281,2019,1,postseason,2019-12-30T21:00:00.000Z,,Louisville,ACC,Mississippi State,SEC,radio,ESPNRM
+401136254,2019,1,postseason,2019-12-30T21:00:00.000Z,,Illinois,Big Ten,California,Pac-12,tv,FOX
+401135285,2019,1,postseason,2020-01-01T00:30:00.000Z,,Texas,Big 12,Utah,Pac-12,tv,ESPN
+401135285,2019,1,postseason,2020-01-01T00:30:00.000Z,,Texas,Big 12,Utah,Pac-12,radio,ESPNRM
+401135284,2019,1,postseason,2019-12-31T20:45:00.000Z,,Kansas State,Big 12,Navy,American Athletic,tv,ESPN
+401135284,2019,1,postseason,2019-12-31T20:45:00.000Z,,Kansas State,Big 12,Navy,American Athletic,radio,ESPNRM
+401135283,2019,1,postseason,2019-12-31T17:00:00.000Z,,Kentucky,SEC,Virginia Tech,ACC,tv,ESPN
+401135283,2019,1,postseason,2019-12-31T17:00:00.000Z,,Kentucky,SEC,Virginia Tech,ACC,radio,ESPNRM
+401136255,2019,1,postseason,2019-12-31T19:00:00.000Z,,Arizona State,Pac-12,Florida State,ACC,tv,CBS
+401147695,2019,1,postseason,2019-12-31T21:30:00.000Z,,Georgia State,Sun Belt,Wyoming,Mountain West,tv,CBSSN
+401135289,2019,1,postseason,2020-01-02T01:45:00.000Z,,Baylor,Big 12,Georgia,SEC,tv,ESPN
+401135289,2019,1,postseason,2020-01-02T01:45:00.000Z,,Baylor,Big 12,Georgia,SEC,radio,ESPNRM
+401135288,2019,1,postseason,2020-01-01T22:10:00.000Z,,Wisconsin,Big Ten,Oregon,Pac-12,tv,ESPN
+401135288,2019,1,postseason,2020-01-01T22:10:00.000Z,,Wisconsin,Big Ten,Oregon,Pac-12,radio,ESPNRM
+401135287,2019,1,postseason,2020-01-01T18:00:00.000Z,,Auburn,SEC,Minnesota,Big Ten,tv,ESPN
+401135286,2019,1,postseason,2020-01-01T18:00:00.000Z,,Alabama,SEC,Michigan,Big Ten,tv,ABC
+401135286,2019,1,postseason,2020-01-01T18:00:00.000Z,,Alabama,SEC,Michigan,Big Ten,radio,ESPNRM
+401135290,2019,1,postseason,2020-01-02T20:00:00.000Z,,Cincinnati,American Athletic,Boston College,ACC,tv,ESPN
+401135291,2019,1,postseason,2020-01-03T00:00:00.000Z,,Tennessee,SEC,Indiana,Big Ten,tv,ESPN
+401135292,2019,1,postseason,2020-01-03T20:30:00.000Z,,Nevada,Mountain West,Ohio,Mid-American,tv,ESPN
+401135293,2019,1,postseason,2020-01-04T16:30:00.000Z,,Tulane,American Athletic,Southern Mississippi,Conference USA,tv,ESPN
+401135294,2019,1,postseason,2020-01-07T00:30:00.000Z,,Miami (OH),Mid-American,Louisiana,Sun Belt,tv,ESPN
+401135295,2019,1,postseason,2020-01-14T01:00:00.000Z,,LSU,SEC,Clemson,ACC,tv,ESPN
+401135295,2019,1,postseason,2020-01-14T01:00:00.000Z,,LSU,SEC,Clemson,ACC,radio,ESPNRM

@@ -1,0 +1,31 @@
+```{r}
+# we first begin by loading the tidyverse and importing the dataset
+library(tidyverse)
+players <- read.csv("players21.csv")
+```
+
+
+```{r}
+#we want to filter out all the players who didn't take a shot
+# we'll call this dataset "newplayers"
+newplayers <- (players %>% filter(FGA > 0)) %>%
+```
+
+```{r}
+#then, we find the median number of shots attempted by players who attempted at least one shot
+newplayers %>%
+summarize(medianplayershots = median(FGA))
+print(medianplayershots)
+```
+
+
+```{r}
+#lastly, we calculate the true shooting percentage of the players who attempted greater than the median number of shots, which we determined above to be 75
+players %>%
+  mutate(trueshooting = (PTS/(2*(FGA + (.44*FTA))))*100) %>%
+  arrange(desc(trueshooting)) %>%
+  filter(FGA > 75)
+```
+
+
+

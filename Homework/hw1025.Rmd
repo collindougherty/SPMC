@@ -1,0 +1,10 @@
+``` {R}
+library(tidyverse)
+logs <- read_csv("badfootballlogs19.csv")
+```
+
+``` {R}
+logs1 <- logs %>% separate(Result, into = c("Outcome", "Score"), sep = "\\(")
+logs2 <- logs1 %>% separate(Score, into = c("TeamScore", "OpponentScore"), sep = "-")
+newlogs <- logs2 %>% mutate(OpponentScore = gsub("\\)*","",OpponentScore))
+```

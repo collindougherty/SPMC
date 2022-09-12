@@ -1,0 +1,17 @@
+```{r}
+library(tidyverse)
+nbabubble <- read_csv("SPMC350/Homework/nbabubble.csv")
+```
+
+```{r}
+# creating a new dataframe with a combined variable showing all the 3 pointers attempted in a game
+threes <- nbabubble %>% mutate(Total3s = Team3PA + Opponent3PA)
+```
+
+```{r}
+#using a t test to determine if 3PA were significantly different pre/post COVID
+t.test(Total3s ~ COVID, data = threes)
+```
+
+
+

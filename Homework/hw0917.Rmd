@@ -1,0 +1,33 @@
+```{r}
+library(tidyverse)
+footballlogs20 <- read_csv("footballlogs20.csv")
+```
+
+```{r}
+#created two datasets with our new variables
+cfbdata <- footballlogs20 %>% mutate(ScoreDiff = TeamScore - OpponentScore)
+cfbdata2 <- cfbdata %>% mutate(YardDiff = OffensiveYards - DefYards)
+```
+
+
+```{r}
+#determined the correlation between score and turnovers
+correlations <- cfbdata2 %>% summarise(correlation = cor(ScoreDiff, YardDiff, method = "pearson"))
+```
+
+```{r}
+#ran a linear model to find the best fit of the data
+scoremodel <- lm(ScoreDiff ~ YardDiff, data = cfbdata2)
+summary(scoremodel)
+```
+
+```{r}
+cfbdata2$predicted <- predict(scoremodel)
+cfbdata2$residuals <- residuals(scoremodel)
+```
+
+```{r}
+cfbdata2 %>% arrange(desc(residuals)) %>% filter(Team == "Nebraska") %>% select(Team, Opponent, Result, ScoreDiff, YardDiff, predicted, residuals)
+```
+
+

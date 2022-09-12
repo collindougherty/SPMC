@@ -1,0 +1,52 @@
+```{r}
+library(tidyverse)
+library(cluster)
+data <- read_csv("stats21.csv")
+```
+
+```{r}
+teamsscaled <- data %>% 
+  select(`FieldGoalPCT`, `ThreePointPct`, FreeThrowPCT) %>% 
+  mutate_all(scale) %>% 
+  na.omit()
+```
+
+```{r}
+# function to compute total within-cluster sum of square 
+wss <- function(k) {
+  kmeans(teamsscaled, k, nstart = 10 )$tot.withinss
+}
+
+# Compute and plot wss for k = 1 to k = 15
+k.values <- 1:15
+
+# extract wss for 2-15 clusters
+wss_values <- map_dbl(k.values, wss)
+```
+
+```{r}
+plot(k.values, wss_values,
+       type="b", pch = 19, frame = FALSE, 
+       xlab="Number of clusters K",
+```
+
+
+```{r}
+ylab="Total within-clusters sum of squares")
+```
+
+```{r}
+k5 <- kmeans(teamsscaled, centers = 5, nstart = 25)
+ne <- data %>% filter(School == "Nebraska")
+```
+
+```{r}
+ggplot() + 
+  geom_point(data=data, aes(x=FieldGoalPCT, y=ThreePointPct, color="grey")) + 
+  geom_point(data=ne, aes(x=FieldGoalPCT, y=ThreePointPct), color="black")
+```
+
+```{r}
+teamcluster <- data.frame(teamcluster, k5$cluster)
+```
+

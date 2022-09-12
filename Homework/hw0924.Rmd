@@ -1,0 +1,40 @@
+```{r}
+#loading the tidyverse and dataframe
+library(tidyverse)
+games <- read.csv("footballlogs20.csv")
+```
+
+```{r}
+#creating a new dataframe which sums individual games to create season totals
+games1 <- games %>% 
+  group_by(Conference, Team) %>% 
+  summarise(
+    SeasonRushingYards = sum(RushingYds),
+    SeasonPassingYards = sum(PassingYds),
+  ) %>% filter(Conference == "Big Ten Conference")
+view(games1)
+```
+
+```{r}
+# turning totals into percentages
+games2 <- games1 %>% mutate(
+  SeasonPassYdPct = SeasonPassingYards/(SeasonPassingYards+SeasonRushingYards),
+  SeasonRushYdPct = SeasonRushingYards/(SeasonPassingYards+SeasonRushingYards)
+) %>%
+select(Team, SeasonPassYdPct, SeasonRushYdPct)
+view(games2)
+```
+
+```{r}
+# pivoting longer
+games3 <- games2 %>% pivot_longer(data = games2, cols = starts_with("Season"), names_to = "Category", values_to = "Pct")
+view(games3)
+```
+
+```{r}
+#plotting stack chart
+ggplot() + 
+  geom_bar(data=games3, aes(x=Team, weight=Pct, fill=Category)) + 
+  coord_flip()
+```
+

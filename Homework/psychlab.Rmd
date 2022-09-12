@@ -1,0 +1,26 @@
+``` {r}
+library(tidyverse)
+library(tidymodels)
+library(Hmisc)
+```
+
+```{r}
+model <- lm(socint ~ neighborhood + htwnpop + greek_in + lps + rellen + its, data = interpersonal)
+summary(model)
+```
+```{r}
+correlations <- interpersonal %>% select(socint, neighborhood, htwnpop, greek_in, lps, rellen, its)
+
+#newcorrelations %>% summarise(correlations = cor(differential, TotalPenaltyYards, method="pearson"))
+
+cor(correlations, method = "pearson", use = "complete.obs")
+```
+```{r}
+res2 <- rcorr(as.matrix(correlations))
+res2
+```
+
+```{r}
+interpersonal %>% summarise(correlation = cor(gpa, neighborhood, method="pearson", use = "complete.obs"))
+```
+

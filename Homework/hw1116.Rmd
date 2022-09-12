@@ -1,0 +1,12 @@
+```{r}
+#set seed to make reproducible
+set.seed(69420)
+
+#simulate based on binomial distribution
+simulations <- rbinom(n = 1000, size = 16, prob = .414)
+
+table(simulations)
+# chart a histogram
+hist(simulations)
+```
+

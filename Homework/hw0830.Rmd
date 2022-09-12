@@ -1,0 +1,38 @@
+```{r}
+library(tidyverse)
+```
+```{r}
+logs <- read_csv("logs21.csv")
+```
+<!-- code to sort teams by total shots taken -->
+```{r}
+logs %>%
+# grouping all of the games played by each team under one row named "TeamFull"
+  group_by(TeamFull) %>%
+# creating total_shots varaiable and setting it's value to the sum of the shots taken in all the games played
+  summarize(total_shots = sum(TeamFGA)) %>%
+# sort in descending order
+  arrange(desc(total_shots))
+```
+%code to sort teams by average shots taken per game
+```{r}
+logs %>% 
+# grouping all of the games played by each team under one row named "TeamFull"
+  group_by(TeamFull) %>%
+# creating average_shots varaiable and setting it's value to the average number of shots taken in all the games played
+  summarize(average_shots = mean(TeamFGA)) %>%
+  # sort in descending order
+  arrange(desc(average_shots))
+```
+%code to sort teams by median shots taken per game
+```{r}
+logs %>% 
+# grouping all of the games played by each team under one row named "TeamFull"
+  group_by(TeamFull) %>%
+# creating median_shots varaiable and setting it's value to the median of the shots taken by each team in it's season of games
+  summarize(median_shots = median(TeamFGA)) %>%
+  # sort in descending order
+  arrange(desc(median_shots))
+```
+
+

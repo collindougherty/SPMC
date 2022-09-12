@@ -1,0 +1,24 @@
+```{r}
+library(tidyverse)
+install.packages("waffle")
+library(waffle)
+
+nu <- c("Rushing"=365, "Passing"=255)
+ru <- c("Rushing"=130, "Passing"=122, 368)
+
+iron(
+ waffle(nu, 
+        rows = 10, 
+        title="Nebraska's offense", 
+        xlab="1 square = 1 yard", 
+        colors = c("black", "red")
+        ),
+ waffle(ru, 
+        rows = 10, 
+        title="Rutgers offense", 
+        xlab="1 square = 1 yard", 
+        colors = c("grey", "red", "white")
+        )
+)
+```
+

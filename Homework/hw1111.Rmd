@@ -1,0 +1,28 @@
+``` {r}
+# installing packages and setting url
+install.packages("rvest")
+library(rvest)
+library(tidyverse)
+url <- "https://fbref.com/en/comps/9/stats/Premier-League-Stats"
+```
+
+```{r}
+# using rvest to download data with header false due to 2 headers
+stats <- url %>%
+  read_html() %>%
+  html_nodes(xpath = '//*[@id="div_stats_squads_standard_for"]') %>%
+  html_table(header=FALSE)
+```
+
+```{r}
+# pulling dataframe from a list and renaming columns
+stats <- stats[[1]]
+
+stats <- stats %>% rename(Squad=X1, Players=X2, Age=X3, Poss=X4, MP=X5, Starts=X6, Min=X7, ninties=X8, Gls=X9, Ast=X10, GminusPK=X11, PK=X12, PKatt=X13, CrdY=X14, CrdR=X15, Gls2=X16, Ast2=X17, GoalsAndAsts=X18, GminusPk=X19, GlsAndAstsminusPK=X20, xG=X21, npxG=X22, xA=X23, npxGandxA=X24, xG2=X25, xA2=X26, xGandxA=X27, npxG2=X28, npxGandxA2=X29)
+```
+
+```{r}
+# filtering out the excess rows of junk data
+stats <- stats %>% filter(Squad != "Squad" & MP != "Playing Time") 
+```
+

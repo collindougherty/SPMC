@@ -1,0 +1,20 @@
+```{r}
+# load the tidyverse and import the dataset
+library(tidyverse)
+threeslong <- read.csv("threeslong.csv")
+threeslong
+```
+
+```{r}
+#create a new dataframe that is wide with the pivot wider function
+widedata <- threeslong %>% pivot_wider(names_from = season, values_from = Total3P)
+widedata
+```
+
+```{r}
+# taking our wide data and converting it back into long data
+longdata <- widedata %>% pivot_longer(cols = starts_with("20"), names_to = "Year", values_to = "Total3P")
+longdata
+```
+
+

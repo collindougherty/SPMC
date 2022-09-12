@@ -1,0 +1,33 @@
+```{r}
+#install packages and load dataframe
+library(tidyverse)
+install.packages("ggbump")
+library("ggbump")
+soccer <- read_csv("premiereleaguebump.csv")
+```
+
+```{r}
+# basic geombump chart without edits
+ggplot() + geom_bump(data=soccer, aes(x=Week, y=Rank, color=Club))
+```
+
+```{r}
+# editing out bumpchart to only the top 6 and clarifying labels, adding points and reversing the scale so that the top teams are at the top
+top6 <- soccer %>% filter(Week == 4 & Rank <= 6)
+
+newrankings <- soccer %>% filter(Club %in% top6$Club)
+
+ggplot() + geom_bump(data=newrankings, aes(x=Week, y=Rank, color=Club))  + 
+  geom_point(data=newrankings, aes(x=Week, y=Rank, color=Club), size = 4) + scale_y_reverse(breaks = c(1,2,3,4,5,6,7,8,9,10,11,12,13)) + geom_text(data = newrankings %>% filter(Week == min(Week)), aes(x = Week - .2, y=Rank, label = Club), size = 3, hjust = 1) +
+  geom_text(data = newrankings %>% filter(Week == max(Week)), aes(x = Week + .2, y=Rank, label = Club), size = 3, hjust = 0) + theme_minimal() +
+  theme(
+    legend.position = "none",
+    panel.grid.major = element_blank(),
+     plot.title = element_text(size = 16, face = "bold"),
+    axis.title = element_text(size = 8), 
+    plot.subtitle = element_text(size=10), 
+    panel.grid.minor = element_blank()
+    )
+ 
+```
+

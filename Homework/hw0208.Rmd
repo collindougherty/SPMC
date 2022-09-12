@@ -1,0 +1,252 @@
+```{r}
+## comments on the models
+
+## the best model is the 2 game rolling game window, as it has a slightly higher r squared value with lower rmse and mae values, when compared to the 6 game window
+
+## the new model uses ppp instead of shooting and is in between the two models in r squared and error values
+## this model is stable, as it has similar values of error and rsq on both the testing and the training data
+```
+
+
+
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(zoo)
+library(hoopR)
+```
+
+```{r}
+teamgames <- load_mbb_team_box(seasons = 2015:2022) %>%
+  separate(field_goals_made_field_goals_attempted, into = c("field_goals_made","field_goals_attempted")) %>%
+  separate(three_point_field_goals_made_three_point_field_goals_attempted, into = c("three_point_field_goals_made","three_point_field_goals_attempted")) %>%
+  separate(free_throws_made_free_throws_attempted, into = c("free_throws_made","free_throws_attempted")) %>%
+  mutate_at(12:35, as.numeric)
+```
+
+```{r}
+teamstats <- teamgames %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    team_score = ((field_goals_made-three_point_field_goals_made) * 2) + (three_point_field_goals_made*3) + free_throws_made,
+    possessions = field_goals_attempted - offensive_rebounds + turnovers + (.475 * free_throws_attempted),
+    ppp = team_score/possessions,
+    true_shooting_percentage = (team_score / (2*(field_goals_attempted + (.44 * free_throws_attempted)))) * 100
+  ) %>% ungroup()
+```
+
+
+```{r}
+# model one with a rolling mean of 6 games
+
+teamstats <- teamstats %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    rolling_shooting_percentage = rollmean(lag(field_goal_pct, n=1), k=6, fill=field_goal_pct),
+    rolling_ppp = rollmean(lag(ppp, n=1), k=6, fill=ppp),
+    rolling_true_shooting_percentage = rollmean(lag(true_shooting_percentage, n=1), k=6, fill=true_shooting_percentage)
+    ) %>% ungroup()
+```
+
+```{r}
+set.seed(69420)
+game_split <- initial_split(teamstats, prop = .8)
+game_split
+```
+
+```{r}
+game_train <- training(game_split)
+game_test <- testing(game_split)
+```
+
+```{r}
+lm_model <- linear_reg() %>%
+    set_engine("lm")
+fit_lm <- lm_model %>%
+  fit(team_score ~ rolling_shooting_percentage, data = game_train)
+tidy(fit_lm, conf.int = TRUE)
+```
+
+```{r}
+trainresults <- game_train %>%
+    bind_cols(predict(fit_lm, game_train))
+metrics(trainresults, truth = team_score, estimate = .pred)
+```
+
+```{r}
+ggplot() + 
+  geom_point(data=teamstats, aes(x=rolling_shooting_percentage, y=team_score)) + 
+  geom_smooth(data=teamstats, aes(x=rolling_shooting_percentage, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>%
+  mutate(label = case_when(
+    residual > 0 ~ "Positive",
+    residual < 0 ~ "Negative")
+    ) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_shooting_percentage, y=team_score, color=label)) + 
+  geom_smooth(aes(x=rolling_shooting_percentage, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_shooting_percentage, y=residual))
+```
+
+```{r}
+testresults <- game_test %>%
+    bind_cols(predict(fit_lm, game_test))
+metrics(testresults, truth = team_score, estimate = .pred)
+```
+
+
+
+
+
+
+```{r}
+# model two with a rolling mean of 2 games
+
+teamstats2 <- teamstats %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    rolling_shooting_percentage = rollmean(lag(field_goal_pct, n=1), k=2, fill=field_goal_pct),
+    rolling_ppp = rollmean(lag(ppp, n=1), k=2, fill=ppp),
+    rolling_true_shooting_percentage = rollmean(lag(true_shooting_percentage, n=1), k=2, fill=true_shooting_percentage)
+    ) %>% ungroup()
+```
+
+```{r}
+set.seed(69420)
+game_split <- initial_split(teamstats2, prop = .8)
+game_split
+```
+
+```{r}
+game_train <- training(game_split)
+game_test <- testing(game_split)
+```
+
+```{r}
+lm_model <- linear_reg() %>%
+    set_engine("lm")
+fit_lm <- lm_model %>%
+  fit(team_score ~ rolling_shooting_percentage, data = game_train)
+tidy(fit_lm, conf.int = TRUE)
+```
+
+```{r}
+trainresults <- game_train %>%
+    bind_cols(predict(fit_lm, game_train))
+metrics(trainresults, truth = team_score, estimate = .pred)
+```
+
+```{r}
+ggplot() + 
+  geom_point(data=teamstats, aes(x=rolling_shooting_percentage, y=team_score)) + 
+  geom_smooth(data=teamstats, aes(x=rolling_shooting_percentage, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>%
+  mutate(label = case_when(
+    residual > 0 ~ "Positive",
+    residual < 0 ~ "Negative")
+    ) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_shooting_percentage, y=team_score, color=label)) + 
+  geom_smooth(aes(x=rolling_shooting_percentage, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_shooting_percentage, y=residual))
+```
+
+```{r}
+testresults <- game_test %>%
+    bind_cols(predict(fit_lm, game_test))
+metrics(testresults, truth = team_score, estimate = .pred)
+```
+
+
+
+
+
+
+```{r}
+# model three using ppp instead of shooting
+
+teamstats3 <- teamstats %>% 
+  group_by(team_short_display_name) %>%
+  mutate(
+    rolling_shooting_percentage = rollmean(lag(field_goal_pct, n=1), k=4, fill=field_goal_pct),
+    rolling_ppp = rollmean(lag(ppp, n=1), k=4, fill=ppp),
+    rolling_true_shooting_percentage = rollmean(lag(true_shooting_percentage, n=1), k=4, fill=true_shooting_percentage)
+    ) %>% ungroup()
+```
+
+```{r}
+set.seed(69420)
+game_split <- initial_split(teamstats3, prop = .8)
+game_split
+```
+
+```{r}
+game_train <- training(game_split)
+game_test <- testing(game_split)
+```
+
+```{r}
+lm_model <- linear_reg() %>%
+    set_engine("lm")
+fit_lm <- lm_model %>%
+  fit(team_score ~ rolling_ppp, data = game_train)
+tidy(fit_lm, conf.int = TRUE)
+```
+
+```{r}
+trainresults <- game_train %>%
+    bind_cols(predict(fit_lm, game_train))
+metrics(trainresults, truth = team_score, estimate = .pred)
+```
+
+```{r}
+ggplot() + 
+  geom_point(data=teamstats, aes(x=rolling_ppp, y=team_score)) + 
+  geom_smooth(data=teamstats, aes(x=rolling_ppp, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>%
+  mutate(label = case_when(
+    residual > 0 ~ "Positive",
+    residual < 0 ~ "Negative")
+    ) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_ppp, y=team_score, color=label)) + 
+  geom_smooth(aes(x=rolling_ppp, y=team_score), method="lm", se=FALSE)
+```
+
+```{r}
+trainresults %>% 
+  mutate(residual = team_score - .pred) %>% 
+  ggplot() + 
+  geom_point(aes(x=rolling_ppp, y=residual))
+```
+
+```{r}
+testresults <- game_test %>%
+    bind_cols(predict(fit_lm, game_test))
+metrics(testresults, truth = team_score, estimate = .pred)
+```
+

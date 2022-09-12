@@ -1,0 +1,35 @@
+```{r}
+library(tidyverse)
+logs <- read_csv("logs20.csv")
+```
+
+```{r}
+# creating data frame specifically for the big ten
+big10 <- logs %>% group_by(Team, Conference) %>% summarize(threes = sum(Team3P)/sum(Team3PA)) %>% filter(Conference == "Big Ten") %>% select(Team, Date, threes)
+```
+
+```{r}
+# determining the league average
+lgavg <- mean(big10$threes, na.rm = TRUE)
+```
+
+```{r}
+# creating a facet wrap
+big10 <- logs %>% mutate(threes = (Team3P)/(Team3PA)) %>% filter(Conference == "Big Ten") %>% select(Team, Date, threes)
+
+ggplot() + 
+  geom_hline(yintercept=lgavg, color="blue") + 
+  geom_line(data=big10, aes(x=Date, y=threes, group=Team)) + 
+  scale_y_continuous(limits = c(0, .7)) + 
+  facet_wrap(~Team)
+```
+
+```{r}
+# creating a horizontal facet grid
+ggplot() + 
+  geom_hline(yintercept=lgavg, color="blue") + 
+  geom_line(data=big10, aes(x=Date, y=threes, group=Team)) + 
+  scale_y_continuous(limits = c(0, .7)) + 
+  facet_grid(. ~ Team)
+```
+

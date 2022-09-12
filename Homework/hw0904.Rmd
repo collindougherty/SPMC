@@ -1,0 +1,30 @@
+```{r}
+library(tidyverse)
+#loading college basketball season data
+logs <- read_csv("logs21.csv")
+#creating a new dataset called score_difference, by creating new variable and attaching it
+score_difference <- (logs %>% mutate(differential = TeamScore - OpponentScore))
+```
+
+```{r}
+score_difference %>%
+  #grouping all games under the team
+group_by(TeamFull) %>%
+  #setting a new variable which averages the differential of each game
+summarize(average_shot_differential = mean(differential)) %>%
+  #sorting in descending order
+arrange(desc(average_shot_differential))
+```
+
+```{r}
+score_difference %>%
+  #grouping all games under the team
+group_by(TeamFull) %>%
+  #setting a new variable which averages the differential of each game
+summarize(average_shot_differential = mean(differential)) %>%
+  #sorting in ascending order
+arrange((average_shot_differential))
+```
+
+
+

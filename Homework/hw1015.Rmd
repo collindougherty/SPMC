@@ -1,0 +1,38 @@
+```{r}
+install.packages("gt")
+library(gt)
+```
+
+```{r}
+library(tidyverse)
+logs <- read_csv("footballlogs21.csv")
+```
+
+```{r}
+# creating a dataframe of the top 10 teams in terms of points per game
+ppg <- logs %>% group_by(TeamFull) %>% summarize(ppg = sum(TeamScore)/max(Game)) %>% select(TeamFull, ppg) %>% arrange(desc(ppg)) %>% top_n(10)
+```
+
+```{r}
+# making a table to display the top 10 teams
+ppg %>% gt() %>% cols_label(TeamFull = "Team") %>% tab_header(title = "The Best Offenses in College Football", subtitle = "Which 10 teams are scoring the most points per game?") %>% tab_style(
+    style = cell_text(color = "black", weight = "bold", align = "left"),
+    locations = cells_title("title")
+  ) %>% tab_style(
+    style = cell_text(color = "black", align = "left"),
+    locations = cells_title("subtitle")
+  ) %>%
+  tab_source_note(
+    source_note = md("**By:** Collin Dougherty  |  **Source:** [Matt Waite] http://mattwaite.github.io/sportsdatafiles/footballlogs21.csv)")
+  ) %>%
+  tab_style(
+    style = list(
+      cell_fill(color = "maroon"),
+      cell_text(color = "grey")
+      ),
+    locations = cells_body(
+      rows = TeamFull == "Ohio State Buckeyes")
+  )
+```
+
+

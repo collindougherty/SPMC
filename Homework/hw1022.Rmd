@@ -1,0 +1,52 @@
+```{r}
+# loading cowplot, data, tidyverse
+library(tidyverse)
+library(cowplot)
+players <- read_csv("players21.csv")
+```
+
+```{r}
+# filtering all players to find nebraska only
+skers <- players %>% filter(Team == "Nebraska Cornhuskers")
+```
+
+```{r}
+#picking the top 5 players in each category
+minutes <- skers %>% top_n(MP, n=5)
+points <- skers %>% top_n(PTS, n=5)
+assists <- skers %>% top_n(AST, n=5)
+```
+
+```{r}
+# formatting and setting the charts, adding themes and titles
+mins <- ggplot() + geom_bar(data=minutes, aes(x=reorder(Player, MP), weight=MP), fill='red') + coord_flip()  + labs(title="Nebrasketball's Best 5", subtitle = "Nebraska's top 5 players in terms of minutes, scoring, and assists.",  x="", y="", caption = "") + theme_minimal() + 
+  theme(
+    plot.title = element_text(size = 16, face = "bold"),
+    axis.title = element_text(size = 8), 
+    plot.subtitle = element_text(size=10), 
+    panel.grid.minor = element_blank()
+    )
+
+pts <- ggplot() + geom_bar(data=points, aes(x=reorder(Player, PTS), weight=PTS), fill='red') + coord_flip() +  labs(title = " " , subtitle= "", x="", y="") + theme_minimal() + 
+  theme(
+    plot.title = element_text(size = 16, face = "bold"),
+    axis.title = element_text(size = 8), 
+    plot.subtitle = element_text(size=10), 
+    panel.grid.minor = element_blank()
+    )
+
+asts <- ggplot() + geom_bar(data=assists, aes(x=reorder(Player, AST), weight=AST), fill = 'red') + coord_flip()  +  labs(title = " " , subtitle= "", x="", y="Count", caption="Source: NCAA | By Collin Dougherty") + theme_minimal() + 
+  theme(
+    plot.title = element_text(size = 16, face = "bold"),
+    axis.title = element_text(size = 8), 
+    plot.subtitle = element_text(size=10), 
+    panel.grid.minor = element_blank()
+    )
+
+```
+
+```{r}
+#using plot grid from cowplot
+plot_grid(mins, pts, asts) 
+```
+

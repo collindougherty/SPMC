@@ -1,0 +1,21 @@
+```{r}
+#loading the tidyverse and setting our dataframe as logs for all the big ten games
+library(tidyverse)
+logs <- read_csv("logs21.csv")
+```
+
+```{r}
+#creating a couple new dataframes which limit the data to the big ten and nebraska specifically
+B1G <- logs %>% filter(Conference == "Big Ten")
+nu <- logs %>% filter(Team == "Nebraska")
+```
+
+```{r}
+#creating a line plot which makes the big ten data for each team grey except nebraska
+ggplot() + geom_line(data=B1G, aes(x=Date, y=TeamFTPCT, group=Team), color = "grey") + geom_line(data=nu, aes(x=Date, y=TeamFTPCT), color = "Red") + scale_y_continuous(limits = c(0,1))
+```
+
+```{r}
+# same as above but for 3 point shooting rather than free throw shooting
+ggplot() + geom_line(data=B1G, aes(x=Date, y=Team3PPCT, group=Team), color = "grey") + geom_line(data=nu, aes(x=Date, y=Team3PPCT), color = "Red") + scale_y_continuous(limits = c(0,.75))
+```
